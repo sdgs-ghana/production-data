@@ -1,9 +1,9 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2013,1976,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
-2014,1942,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
-2015,1928,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
-2016,1927,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
-2017,1926,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
-2018,1922,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
-2019,1918,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
-2020,1916,,Normal value,Units,m3/per person/year,Per capita share of raw water (m3/per person/year)
+Year,Value
+2013,1976
+2014,1942
+2015,1928
+2016,1927
+2017,1926
+2018,1922
+2019,1918
+2020,1916

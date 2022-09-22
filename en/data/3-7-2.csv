@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Age,UNIT_MEASURE,GeoCode,Value
-1993,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,,116
-1998,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,,88
-2003,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,,74
-2008,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,,66
-2014,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,,76
-2017,Normal value,Units,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,15 to 19 years old,Percent,,75
+Year,Value
+1993,116
+1998,88
+2003,74
+2008,66
+2014,76
+2017,75

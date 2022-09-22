@@ -1,3 +1,3 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2013,12.5,,Normal value,Units,Percent,Expenditure share of the bottom 40 percent of the population
-2017,22.0,,Normal value,Units,Percent,Expenditure share of the bottom 40 percent of the population
+Year,Value
+2013,12.5
+2017,22.0

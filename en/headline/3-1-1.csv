@@ -1,17 +1,17 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-1990,760.0,,Normal value,Units,"Per 100,000 live births",Survey-based Maternal mortality ratio [3.1.1]
-2007,580.0,,Normal value,Units,"Per 100,000 live births",Survey-based Maternal mortality ratio [3.1.1]
-2017,310.0,,Normal value,Units,"Per 100,000 live births",Survey-based Maternal mortality ratio [3.1.1]
-2010,485.0,,Normal value,Units,"Per 100,000 live births",Census-based Maternal mortality ratio [3.1.1]
-2021,301.0,,Normal value,Units,"Per 100,000 live births",Census-based Maternal mortality ratio [3.1.1]
-2007,224.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2008,200.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2009,170.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2010,163.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2011,195.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2012,152.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2013,155.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2014,144.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2015,142.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2016,152.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
-2017,147.0,,Normal value,Units,"Per 100,000 live births",Institutional maternal mortality ratio
+Year,Value,GeoCode,SERIES
+1990,760.0,,Survey-based Maternal mortality ratio [3.1.1]
+2007,580.0,,Survey-based Maternal mortality ratio [3.1.1]
+2017,310.0,,Survey-based Maternal mortality ratio [3.1.1]
+2010,485.0,,Census-based Maternal mortality ratio [3.1.1]
+2021,301.0,,Census-based Maternal mortality ratio [3.1.1]
+2007,224.0,,Institutional maternal mortality ratio
+2008,200.0,,Institutional maternal mortality ratio
+2009,170.0,,Institutional maternal mortality ratio
+2010,163.0,,Institutional maternal mortality ratio
+2011,195.0,,Institutional maternal mortality ratio
+2012,152.0,,Institutional maternal mortality ratio
+2013,155.0,,Institutional maternal mortality ratio
+2014,144.0,,Institutional maternal mortality ratio
+2015,142.0,,Institutional maternal mortality ratio
+2016,152.0,,Institutional maternal mortality ratio
+2017,147.0,,Institutional maternal mortality ratio

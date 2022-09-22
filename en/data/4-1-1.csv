@@ -1,77 +1,77 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,Education level,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 4,Skill: Mathematics,Percent,,22.0
-2018,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 4,Skill: Mathematics,Percent,,19.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Male,,Primary 4,Skill: Mathematics,Percent,,22.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Female,,Primary 4,Skill: Mathematics,Percent,,22.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 4,English,Percent,,37.2
-2018,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 4,English,Percent,,25.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Male,,Primary 4,English,Percent,,35.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Female,,Primary 4,English,Percent,,40.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 6,Skill: Mathematics,Percent,,24.9
-2018,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 6,Skill: Mathematics,Percent,,22.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Male,,Primary 6,Skill: Mathematics,Percent,,27.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Female,,Primary 6,Skill: Mathematics,Percent,,23.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 6,English,Percent,,38.0
-2018,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,,Primary 6,English,Percent,,25.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Male,,Primary 6,English,Percent,,37.0
-2016,Normal value,Units,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,Female,,Primary 6,English,Percent,,39.0
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,,,Skill: Reading,Percent,,21.4
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,Urban,,Skill: Reading,Percent,,33.6
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,Rural,,Skill: Reading,Percent,,12.4
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Female,,,Skill: Reading,Percent,,22.4
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Female,Urban,,Skill: Reading,Percent,,35.6
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Female,Rural,,Skill: Reading,Percent,,12.4
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Male,,,Skill: Reading,Percent,,20.4
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Male,Urban,,Skill: Reading,Percent,,31.6
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Male,Rural,,Skill: Reading,Percent,,12.5
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,,,Skill: Functional numeracy,Percent,,15.7
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,Urban,,Skill: Functional numeracy,Percent,,22.0
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,Rural,,Skill: Functional numeracy,Percent,,11.2
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Female,,,Skill: Functional numeracy,Percent,,14.0
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Female,Urban,,Skill: Functional numeracy,Percent,,20.6
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Female,Rural,,Skill: Functional numeracy,Percent,,9.1
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Male,,,Skill: Functional numeracy,Percent,,17.3
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Male,Urban,,Skill: Functional numeracy,Percent,,23.3
-2018,Normal value,Units,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Male,Rural,,Skill: Functional numeracy,Percent,,13.1
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,,Primary 4,Skill: Functional literacy,Percent,,19.5
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Male,,Primary 4,Skill: Functional literacy,Percent,,22.8
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Female,,Primary 4,Skill: Functional literacy,Percent,,16.0
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,,Primary 6,Skill: Functional literacy,Percent,,45.8
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Male,,Primary 6,Skill: Functional literacy,Percent,,47.8
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Female,,Primary 6,Skill: Functional literacy,Percent,,43.8
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,,Lower secondary education,Skill: Functional literacy,Percent,,57.8
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Male,,Lower secondary education,Skill: Functional literacy,Percent,,54.8
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Female,,Lower secondary education,Skill: Functional literacy,Percent,,60.0
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,,Primary 4,Skill: Functional numeracy,Percent,,15.6
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Male,,Primary 4,Skill: Functional numeracy,Percent,,16.4
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Female,,Primary 4,Skill: Functional numeracy,Percent,,14.8
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,,Primary 6,Skill: Functional numeracy,Percent,,31.1
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Male,,Primary 6,Skill: Functional numeracy,Percent,,36.6
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Female,,Primary 6,Skill: Functional numeracy,Percent,,25.5
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,,Lower secondary education,Skill: Functional numeracy,Percent,,38.0
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Male,,Lower secondary education,Skill: Functional numeracy,Percent,,38.1
-2018,Normal value,Units,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,Female,,Lower secondary education,Skill: Functional numeracy,Percent,,37.9
-2016,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,Skill: Mathematics,Percent,,76.3
-2017,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,Skill: Mathematics,Percent,,76.8
-2018,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,Skill: Mathematics,Percent,,76.4
-2019,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,Skill: Mathematics,Percent,,76.1
-2016,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,Skill: Mathematics,Percent,,78.3
-2017,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,Skill: Mathematics,Percent,,78.7
-2018,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,Skill: Mathematics,Percent,,78.0
-2019,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,Skill: Mathematics,Percent,,77.2
-2016,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,Skill: Mathematics,Percent,,74.3
-2017,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,Skill: Mathematics,Percent,,74.9
-2018,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,Skill: Mathematics,Percent,,74.7
-2019,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,Skill: Mathematics,Percent,,74.9
-2016,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,English,Percent,,75.6
-2017,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,English,Percent,,76.8
-2018,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,English,Percent,,75.8
-2019,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,,Lower secondary education,English,Percent,,76.2
-2016,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,English,Percent,,75.2
-2017,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,English,Percent,,76.2
-2018,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,English,Percent,,75.2
-2019,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Male,,Lower secondary education,English,Percent,,75.0
-2016,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,English,Percent,,76.0
-2017,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,English,Percent,,77.4
-2018,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,English,Percent,,76.4
-2019,Normal value,Units,Proportion of pupils in JHS that passed Mathematics and English (Percent),,Female,,Lower secondary education,English,Percent,,77.5
+Year,SERIES,Sex,Degree of urbanisation,Education level,COMPOSITE_BREAKDOWN,Value
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 4,Skill: Mathematics,22.0
+2018,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 4,Skill: Mathematics,19.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Male,,Primary 4,Skill: Mathematics,22.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Female,,Primary 4,Skill: Mathematics,22.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 4,English,37.2
+2018,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 4,English,25.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Male,,Primary 4,English,35.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Female,,Primary 4,English,40.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 6,Skill: Mathematics,24.9
+2018,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 6,Skill: Mathematics,22.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Male,,Primary 6,Skill: Mathematics,27.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Female,,Primary 6,Skill: Mathematics,23.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 6,English,38.0
+2018,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),,,Primary 6,English,25.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Male,,Primary 6,English,37.0
+2016,Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent),Female,,Primary 6,English,39.0
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,,Skill: Reading,21.4
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Urban,,Skill: Reading,33.6
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Rural,,Skill: Reading,12.4
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Female,,,Skill: Reading,22.4
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Female,Urban,,Skill: Reading,35.6
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Female,Rural,,Skill: Reading,12.4
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Male,,,Skill: Reading,20.4
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Male,Urban,,Skill: Reading,31.6
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Male,Rural,,Skill: Reading,12.5
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,,,Skill: Functional numeracy,15.7
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Urban,,Skill: Functional numeracy,22.0
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),,Rural,,Skill: Functional numeracy,11.2
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Female,,,Skill: Functional numeracy,14.0
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Female,Urban,,Skill: Functional numeracy,20.6
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Female,Rural,,Skill: Functional numeracy,9.1
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Male,,,Skill: Functional numeracy,17.3
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Male,Urban,,Skill: Functional numeracy,23.3
+2018,Children who demonstrated foundational literacy and numeracy by locality type (Percent),Male,Rural,,Skill: Functional numeracy,13.1
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,Primary 4,Skill: Functional literacy,19.5
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Male,,Primary 4,Skill: Functional literacy,22.8
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Female,,Primary 4,Skill: Functional literacy,16.0
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,Primary 6,Skill: Functional literacy,45.8
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Male,,Primary 6,Skill: Functional literacy,47.8
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Female,,Primary 6,Skill: Functional literacy,43.8
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,Lower secondary education,Skill: Functional literacy,57.8
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Male,,Lower secondary education,Skill: Functional literacy,54.8
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Female,,Lower secondary education,Skill: Functional literacy,60.0
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,Primary 4,Skill: Functional numeracy,15.6
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Male,,Primary 4,Skill: Functional numeracy,16.4
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Female,,Primary 4,Skill: Functional numeracy,14.8
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,Primary 6,Skill: Functional numeracy,31.1
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Male,,Primary 6,Skill: Functional numeracy,36.6
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Female,,Primary 6,Skill: Functional numeracy,25.5
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",,,Lower secondary education,Skill: Functional numeracy,38.0
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Male,,Lower secondary education,Skill: Functional numeracy,38.1
+2018,"Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",Female,,Lower secondary education,Skill: Functional numeracy,37.9
+2016,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,Skill: Mathematics,76.3
+2017,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,Skill: Mathematics,76.8
+2018,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,Skill: Mathematics,76.4
+2019,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,Skill: Mathematics,76.1
+2016,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,Skill: Mathematics,78.3
+2017,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,Skill: Mathematics,78.7
+2018,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,Skill: Mathematics,78.0
+2019,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,Skill: Mathematics,77.2
+2016,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,Skill: Mathematics,74.3
+2017,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,Skill: Mathematics,74.9
+2018,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,Skill: Mathematics,74.7
+2019,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,Skill: Mathematics,74.9
+2016,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,English,75.6
+2017,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,English,76.8
+2018,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,English,75.8
+2019,Proportion of pupils in JHS that passed Mathematics and English (Percent),,,Lower secondary education,English,76.2
+2016,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,English,75.2
+2017,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,English,76.2
+2018,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,English,75.2
+2019,Proportion of pupils in JHS that passed Mathematics and English (Percent),Male,,Lower secondary education,English,75.0
+2016,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,English,76.0
+2017,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,English,77.4
+2018,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,English,76.4
+2019,Proportion of pupils in JHS that passed Mathematics and English (Percent),Female,,Lower secondary education,English,77.5

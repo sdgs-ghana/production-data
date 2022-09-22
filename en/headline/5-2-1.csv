@@ -1,9 +1,9 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2010,12706.0,,Normal value,Units,Number,Reported cases of domestic violence
-2011,17965.0,,Normal value,Units,Number,Reported cases of domestic violence
-2012,17655.0,,Normal value,Units,Number,Reported cases of domestic violence
-2013,19171.0,,Normal value,Units,Number,Reported cases of domestic violence
-2014,17655.0,,Normal value,Units,Number,Reported cases of domestic violence
-2015,15749.0,,Normal value,Units,Number,Reported cases of domestic violence
-2016,12377.0,,Normal value,Units,Number,Reported cases of domestic violence
-2017,8324.0,,Normal value,Units,Number,Reported cases of domestic violence
+Year,Value,UNIT_MEASURE,SERIES
+2010,12706.0,Number,Reported cases of domestic violence
+2011,17965.0,Number,Reported cases of domestic violence
+2012,17655.0,Number,Reported cases of domestic violence
+2013,19171.0,Number,Reported cases of domestic violence
+2014,17655.0,Number,Reported cases of domestic violence
+2015,15749.0,Number,Reported cases of domestic violence
+2016,12377.0,Number,Reported cases of domestic violence
+2017,8324.0,Number,Reported cases of domestic violence

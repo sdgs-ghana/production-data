@@ -1,59 +1,59 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-1999,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,41.0
-2006,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,49.2
-2013,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,70.6
-2017,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,81.1
-2018,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,84.3
-2019,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,85.0
-2020,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,85.3
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,,84.1
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Western,,Percent,1,88.9
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Central,,Percent,2,91.8
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Greater Accra,,Percent,3,96.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Volta,,Percent,4,85.4
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Eastern,,Percent,5,87.7
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Ashanti,,Percent,6,87.4
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Western North,,Percent,7,75.2
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Ahafo,,Percent,8,72.7
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Bono,,Percent,9,83.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Bono East,,Percent,10,73.8
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Oti,,Percent,11,70.2
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Northern,,Percent,12,77.0
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Savannah,,Percent,13,59.6
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],North East,,Percent,14,71.4
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Upper East,,Percent,15,55.1
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Upper West,,Percent,16,70.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],,Urban,Percent,,95.0
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Western,Urban,Percent,1,97.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Central,Urban,Percent,2,95.8
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Greater Accra,Urban,Percent,3,97.3
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Volta,Urban,Percent,4,91.8
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Eastern,Urban,Percent,5,95.1
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Ashanti,Urban,Percent,6,94.7
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Western North,Urban,Percent,7,96.7
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Ahafo,Urban,Percent,8,90.3
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Bono,Urban,Percent,9,92.8
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Bono East,Urban,Percent,10,89.3
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Oti,Urban,Percent,11,87.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Northern,Urban,Percent,12,95.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Savannah,Urban,Percent,13,89.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],North East,Urban,Percent,14,87.9
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Upper East,Urban,Percent,15,90.0
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Upper West,Urban,Percent,16,93.2
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],,Rural,Percent,,70.3
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Western,Rural,Percent,1,80.1
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Central,Rural,Percent,2,86.4
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Greater Accra,Rural,Percent,3,88.5
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Volta,Rural,Percent,4,80.9
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Eastern,Rural,Percent,5,80.1
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Ashanti,Rural,Percent,6,76.1
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Western North,Rural,Percent,7,66.4
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Ahafo,Rural,Percent,8,56.8
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Bono,Rural,Percent,9,70.8
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Bono East,Rural,Percent,10,57.0
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Oti,Rural,Percent,11,62.1
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Northern,Rural,Percent,12,60.9
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Savannah,Rural,Percent,13,47.3
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],North East,Rural,Percent,14,63.7
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Upper East,Rural,Percent,15,43.7
-2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],Upper West,Rural,Percent,16,63.0
+Year,Reference area,Degree of urbanisation,GeoCode,Value
+1999,,,,41.0
+2006,,,,49.2
+2013,,,,70.6
+2017,,,,81.1
+2018,,,,84.3
+2019,,,,85.0
+2020,,,,85.3
+2021,,,,84.1
+2021,Western,,1,88.9
+2021,Central,,2,91.8
+2021,Greater Accra,,3,96.5
+2021,Volta,,4,85.4
+2021,Eastern,,5,87.7
+2021,Ashanti,,6,87.4
+2021,Western North,,7,75.2
+2021,Ahafo,,8,72.7
+2021,Bono,,9,83.5
+2021,Bono East,,10,73.8
+2021,Oti,,11,70.2
+2021,Northern,,12,77.0
+2021,Savannah,,13,59.6
+2021,North East,,14,71.4
+2021,Upper East,,15,55.1
+2021,Upper West,,16,70.5
+2021,,Urban,,95.0
+2021,Western,Urban,1,97.5
+2021,Central,Urban,2,95.8
+2021,Greater Accra,Urban,3,97.3
+2021,Volta,Urban,4,91.8
+2021,Eastern,Urban,5,95.1
+2021,Ashanti,Urban,6,94.7
+2021,Western North,Urban,7,96.7
+2021,Ahafo,Urban,8,90.3
+2021,Bono,Urban,9,92.8
+2021,Bono East,Urban,10,89.3
+2021,Oti,Urban,11,87.5
+2021,Northern,Urban,12,95.5
+2021,Savannah,Urban,13,89.5
+2021,North East,Urban,14,87.9
+2021,Upper East,Urban,15,90.0
+2021,Upper West,Urban,16,93.2
+2021,,Rural,,70.3
+2021,Western,Rural,1,80.1
+2021,Central,Rural,2,86.4
+2021,Greater Accra,Rural,3,88.5
+2021,Volta,Rural,4,80.9
+2021,Eastern,Rural,5,80.1
+2021,Ashanti,Rural,6,76.1
+2021,Western North,Rural,7,66.4
+2021,Ahafo,Rural,8,56.8
+2021,Bono,Rural,9,70.8
+2021,Bono East,Rural,10,57.0
+2021,Oti,Rural,11,62.1
+2021,Northern,Rural,12,60.9
+2021,Savannah,Rural,13,47.3
+2021,North East,Rural,14,63.7
+2021,Upper East,Rural,15,43.7
+2021,Upper West,Rural,16,63.0

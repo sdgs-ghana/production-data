@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2017","2018","2019"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"SERIES":["DC_TOF_AGRL","DC_TOF_AGRL","DC_TOF_AGRL","DC_TOF_AGRL"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT"],"GeoCode":[null,null,null,null],"Value":[0.25,0.08,2.57,0.12]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}
+{"data":{"Year":["2016","2017","2018","2019"],"Value":[0.25,0.08,2.57,0.12]},"edges":[]}

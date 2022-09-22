@@ -15,39 +15,6 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
@@ -57,14 +24,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "GeoCode",
-            "type": "number"
           },
           {
             "name": "Value",

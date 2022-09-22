@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Average hourly earnings [8.5.1],,,Ghana Cedi,,495.47
-2014,Normal value,Units,Average hourly earnings [8.5.1],,Male,Ghana Cedi,,592.64
-2014,Normal value,Units,Average hourly earnings [8.5.1],,Female,Ghana Cedi,,395.48
-2015,Normal value,Units,Average hourly earnings [8.5.1],,,Ghana Cedi,,898.65
-2015,Normal value,Units,Average hourly earnings [8.5.1],,Male,Ghana Cedi,,1011.13
-2015,Normal value,Units,Average hourly earnings [8.5.1],,Female,Ghana Cedi,,715.22
-2017,Normal value,Units,Average hourly earnings [8.5.1],,,Ghana Cedi,,972.0
-2017,Normal value,Units,Average hourly earnings [8.5.1],,Male,Ghana Cedi,,1106.0
-2017,Normal value,Units,Average hourly earnings [8.5.1],,Female,Ghana Cedi,,679.0
+Year,Sex,Value
+2014,,495.47
+2014,Male,592.64
+2014,Female,395.48
+2015,,898.65
+2015,Male,1011.13
+2015,Female,715.22
+2017,,972.0
+2017,Male,1106.0
+2017,Female,679.0

@@ -1,5 +1,5 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2003,111,,Normal value,Units,"Per 100,000 live births",Under-five mortality rate [3.2.1]
-2008,80,,Normal value,Units,"Per 100,000 live births",Under-five mortality rate [3.2.1]
-2014,60,,Normal value,Units,"Per 100,000 live births",Under-five mortality rate [3.2.1]
-2017,56,,Normal value,Units,"Per 100,000 live births",Under-five mortality rate [3.2.1]
+Year,Value
+2003,111
+2008,80
+2014,60
+2017,56

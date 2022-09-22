@@ -1,9 +1,9 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2015,61.0,,Normal value,Units,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
-2017,52.0,,Normal value,Units,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
-2018,55.9,,Normal value,Units,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
-2017,51.5,,Normal value,Units,Index,Water quality index
-2018,55.9,,Normal value,Units,Index,Water quality index
-2019,57.8,,Normal value,Units,Index,Water quality index
-2020,56.5,,Normal value,Units,Index,Water quality index
-2021,58.2,,Normal value,Units,Index,Water quality index
+Year,Value,UNIT_MEASURE,SERIES
+2015,61.0,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
+2017,52.0,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
+2018,55.9,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
+2017,51.5,Index,Water quality index
+2018,55.9,Index,Water quality index
+2019,57.8,Index,Water quality index
+2020,56.5,Index,Water quality index
+2021,58.2,Index,Water quality index

@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Agriculture,kg CO2 equivalent per USD1 constant PPP GDP,,0.5
-2017,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Industry,kg CO2 equivalent per USD1 constant PPP GDP,,0.2
-2017,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Services,kg CO2 equivalent per USD1 constant PPP GDP,,0.9
-2018,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Agriculture,kg CO2 equivalent per USD1 constant PPP GDP,,0.4
-2018,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Industry,kg CO2 equivalent per USD1 constant PPP GDP,,0.2
-2018,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Services,kg CO2 equivalent per USD1 constant PPP GDP,,0.9
-2019,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Agriculture,kg CO2 equivalent per USD1 constant PPP GDP,,0.4
-2019,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Industry,kg CO2 equivalent per USD1 constant PPP GDP,,0.2
-2019,Normal value,Units,Carbon dioxide emissions from fuel combustion [9.4.1],,Services,kg CO2 equivalent per USD1 constant PPP GDP,,0.9
+Year,COMPOSITE_BREAKDOWN,Value
+2017,Agriculture,0.5
+2017,Industry,0.2
+2017,Services,0.9
+2018,Agriculture,0.4
+2018,Industry,0.2
+2018,Services,0.9
+2019,Agriculture,0.4
+2019,Industry,0.2
+2019,Services,0.9

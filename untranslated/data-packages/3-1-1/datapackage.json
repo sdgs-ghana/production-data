@@ -15,26 +15,6 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -56,10 +36,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

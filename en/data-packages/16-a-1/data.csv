@@ -1,36 +1,36 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Human rights complains (16.a.1),,Total Human Rights Complaints,Percent,,8.6
-2016,Normal value,Units,Human rights complains (16.a.1),,Total Resolved,Percent,,8.2
-2017,Normal value,Units,Human rights complains (16.a.1),,Total Human Rights Complaints,Percent,,11.9
-2017,Normal value,Units,Human rights complains (16.a.1),,Total Resolved,Percent,,8.9
-2018,Normal value,Units,Human rights complains (16.a.1),,Total Human Rights Complaints,Percent,,9.0
-2018,Normal value,Units,Human rights complains (16.a.1),,Total Resolved,Percent,,8.7
-2019,Normal value,Units,Human rights complains (16.a.1),,Total Human Rights Complaints,Percent,,8.4
-2019,Normal value,Units,Human rights complains (16.a.1),,Total Resolved,Percent,,8.4
-2020,Normal value,Units,Human rights complains (16.a.1),,Total Human Rights Complaints,Percent,,7.5
-2020,Normal value,Units,Human rights complains (16.a.1),,Total Resolved,Percent,,7.3
-2016,Normal value,Units,"Human rights cases, by type (16.a.1)",,Children Rights,Number,,3227.0
-2017,Normal value,Units,"Human rights cases, by type (16.a.1)",,Children Rights,Number,,3099.0
-2018,Normal value,Units,"Human rights cases, by type (16.a.1)",,Children Rights,Number,,3143.0
-2019,Normal value,Units,"Human rights cases, by type (16.a.1)",,Children Rights,Number,,2940.0
-2020,Normal value,Units,"Human rights cases, by type (16.a.1)",,Children Rights,Number,,2340.0
-2016,Normal value,Units,"Human rights cases, by type (16.a.1)",,"Economic, Social and Cultural Rights",Number,,2444.0
-2017,Normal value,Units,"Human rights cases, by type (16.a.1)",,"Economic, Social and Cultural Rights",Number,,2566.0
-2018,Normal value,Units,"Human rights cases, by type (16.a.1)",,"Economic, Social and Cultural Rights",Number,,2888.0
-2019,Normal value,Units,"Human rights cases, by type (16.a.1)",,"Economic, Social and Cultural Rights",Number,,2759.0
-2020,Normal value,Units,"Human rights cases, by type (16.a.1)",,"Economic, Social and Cultural Rights",Number,,2545.0
-2016,Normal value,Units,"Human rights cases, by type (16.a.1)",,Property Rights,Number,,1320.0
-2017,Normal value,Units,"Human rights cases, by type (16.a.1)",,Property Rights,Number,,1473.0
-2018,Normal value,Units,"Human rights cases, by type (16.a.1)",,Property Rights,Number,,1540.0
-2019,Normal value,Units,"Human rights cases, by type (16.a.1)",,Property Rights,Number,,1362.0
-2020,Normal value,Units,"Human rights cases, by type (16.a.1)",,Property Rights,Number,,1411.0
-2016,Normal value,Units,"Human rights cases, by type (16.a.1)",,Women Rights,Number,,1089.0
-2017,Normal value,Units,"Human rights cases, by type (16.a.1)",,Women Rights,Number,,1152.0
-2018,Normal value,Units,"Human rights cases, by type (16.a.1)",,Women Rights,Number,,1088.0
-2019,Normal value,Units,"Human rights cases, by type (16.a.1)",,Women Rights,Number,,970.0
-2020,Normal value,Units,"Human rights cases, by type (16.a.1)",,Women Rights,Number,,934.0
-2016,Normal value,Units,"Human rights cases, by type (16.a.1)",,Civil and Political Rights,Number,,474.0
-2017,Normal value,Units,"Human rights cases, by type (16.a.1)",,Civil and Political Rights,Number,,478.0
-2018,Normal value,Units,"Human rights cases, by type (16.a.1)",,Civil and Political Rights,Number,,381.0
-2019,Normal value,Units,"Human rights cases, by type (16.a.1)",,Civil and Political Rights,Number,,348.0
-2020,Normal value,Units,"Human rights cases, by type (16.a.1)",,Civil and Political Rights,Number,,293.0
+Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2016,Human rights complains (16.a.1),Total Human Rights Complaints,Percent,8.6
+2016,Human rights complains (16.a.1),Total Resolved,Percent,8.2
+2017,Human rights complains (16.a.1),Total Human Rights Complaints,Percent,11.9
+2017,Human rights complains (16.a.1),Total Resolved,Percent,8.9
+2018,Human rights complains (16.a.1),Total Human Rights Complaints,Percent,9.0
+2018,Human rights complains (16.a.1),Total Resolved,Percent,8.7
+2019,Human rights complains (16.a.1),Total Human Rights Complaints,Percent,8.4
+2019,Human rights complains (16.a.1),Total Resolved,Percent,8.4
+2020,Human rights complains (16.a.1),Total Human Rights Complaints,Percent,7.5
+2020,Human rights complains (16.a.1),Total Resolved,Percent,7.3
+2016,"Human rights cases, by type (16.a.1)",Children Rights,Number,3227.0
+2017,"Human rights cases, by type (16.a.1)",Children Rights,Number,3099.0
+2018,"Human rights cases, by type (16.a.1)",Children Rights,Number,3143.0
+2019,"Human rights cases, by type (16.a.1)",Children Rights,Number,2940.0
+2020,"Human rights cases, by type (16.a.1)",Children Rights,Number,2340.0
+2016,"Human rights cases, by type (16.a.1)","Economic, Social and Cultural Rights",Number,2444.0
+2017,"Human rights cases, by type (16.a.1)","Economic, Social and Cultural Rights",Number,2566.0
+2018,"Human rights cases, by type (16.a.1)","Economic, Social and Cultural Rights",Number,2888.0
+2019,"Human rights cases, by type (16.a.1)","Economic, Social and Cultural Rights",Number,2759.0
+2020,"Human rights cases, by type (16.a.1)","Economic, Social and Cultural Rights",Number,2545.0
+2016,"Human rights cases, by type (16.a.1)",Property Rights,Number,1320.0
+2017,"Human rights cases, by type (16.a.1)",Property Rights,Number,1473.0
+2018,"Human rights cases, by type (16.a.1)",Property Rights,Number,1540.0
+2019,"Human rights cases, by type (16.a.1)",Property Rights,Number,1362.0
+2020,"Human rights cases, by type (16.a.1)",Property Rights,Number,1411.0
+2016,"Human rights cases, by type (16.a.1)",Women Rights,Number,1089.0
+2017,"Human rights cases, by type (16.a.1)",Women Rights,Number,1152.0
+2018,"Human rights cases, by type (16.a.1)",Women Rights,Number,1088.0
+2019,"Human rights cases, by type (16.a.1)",Women Rights,Number,970.0
+2020,"Human rights cases, by type (16.a.1)",Women Rights,Number,934.0
+2016,"Human rights cases, by type (16.a.1)",Civil and Political Rights,Number,474.0
+2017,"Human rights cases, by type (16.a.1)",Civil and Political Rights,Number,478.0
+2018,"Human rights cases, by type (16.a.1)",Civil and Political Rights,Number,381.0
+2019,"Human rights cases, by type (16.a.1)",Civil and Political Rights,Number,348.0
+2020,"Human rights cases, by type (16.a.1)",Civil and Political Rights,Number,293.0

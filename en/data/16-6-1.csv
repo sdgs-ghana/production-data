@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,,115.8
-2017,Normal value,Units,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,,88.6
-2018,Normal value,Units,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,,90.5
-2019,Normal value,Units,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,,92.5
+Year,Value
+2016,115.8
+2017,88.6
+2018,90.5
+2019,92.5

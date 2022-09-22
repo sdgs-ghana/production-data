@@ -1,5 +1,5 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2016,49.6,,Normal value,Units,Percent,Proportion of domestic budget funded by domestic taxes [17.1.2]
-2017,63.2,,Normal value,Units,Percent,Proportion of domestic budget funded by domestic taxes [17.1.2]
-2018,64.3,,Normal value,Units,Percent,Proportion of domestic budget funded by domestic taxes [17.1.2]
-2019,75.6,,Normal value,Units,Percent,Proportion of domestic budget funded by domestic taxes [17.1.2]
+Year,Value
+2016,49.6
+2017,63.2
+2018,64.3
+2019,75.6

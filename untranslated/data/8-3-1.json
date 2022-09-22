@@ -1,1 +1,1 @@
-{"Year":["2015","2015","2015","2017","2017","2017"],"OBS_STATUS":["A","A","A","A","A","A"],"UNIT_MULT":["0","0","0","0","0","0"],"SERIES":["SL_ISV_IFEM","SL_ISV_IFEM","SL_ISV_IFEM","SL_ISV_IFEM","SL_ISV_IFEM","SL_ISV_IFEM"],"REF_AREA":[null,null,null,null,null,null],"SEX":["M","F",null,"M","F",null],"UNIT_MEASURE":["PT","PT","PT","PT","PT","PT"],"GeoCode":[null,null,null,null,null,null],"Value":[6.35,4.47,5.62,6.91,4.24,6.08]}
+{"Year":["2015","2015","2015","2017","2017","2017"],"SEX":["M","F",null,"M","F",null],"Value":[6.35,4.47,5.62,6.91,4.24,6.08]}

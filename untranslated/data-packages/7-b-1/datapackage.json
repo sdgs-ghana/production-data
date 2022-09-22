@@ -12,7 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TRT_HYDROPOWER",
+                "TRT_GEOTHERMAL",
+                "TRT_MULTIPLE",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Pro-Poor Share of Government Expenditure,,Percent,,28.7
-2017,Normal value,Units,Pro-Poor Share of Government Expenditure,,Percent,,37.1
-2018,Normal value,Units,Pro-Poor Share of Government Expenditure,,Percent,,35.8
+Year,Value
+2016,28.7
+2017,37.1
+2018,35.8

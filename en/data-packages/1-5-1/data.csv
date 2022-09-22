@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,997
-2018,Normal value,Units,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,1063
-2019,Normal value,Units,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,739
-2020,Normal value,Units,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,1184
+Year,Value
+2017,997
+2018,1063
+2019,739
+2020,1184

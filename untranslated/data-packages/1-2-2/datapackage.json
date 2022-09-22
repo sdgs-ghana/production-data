@@ -15,26 +15,6 @@
             "type": "string"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -84,20 +64,6 @@
                 "_L_GH_DEVELOPMENT",
                 "_L_GH_HEALTH",
                 "_L_GH_NUTRITION",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Multidimensional Poverty Index (MPI)",
                 ""
               ]
             }

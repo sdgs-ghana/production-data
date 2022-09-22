@@ -1,41 +1,41 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Public,Percent,,46
-2016,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Private,Percent,,70
-2017,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Public,Percent,,51
-2017,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Private,Percent,,72
-2018,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Public,Percent,,55
-2018,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Private,Percent,,75
-2019,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Public,Percent,,29
-2019,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Private,Percent,,22
-2020,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Public,Percent,,60
-2020,Normal value,Units,Proportion of schools with access to electricity [4.a.1],,Private,Percent,,77
-2016,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Public,Percent,,39
-2016,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Private,Percent,,73
-2017,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Public,Percent,,42
-2017,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Private,Percent,,74
-2018,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Public,Percent,,71
-2018,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Private,Percent,,89
-2019,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Public,Percent,,39
-2019,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Private,Percent,,25
-2020,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Public,Percent,,75
-2020,Normal value,Units,Proportion of schools with access to basic drinking water [4.a.1],,Private,Percent,,83
-2016,Normal value,Units,Proportion of schools with access to toilet facilities,,Public,Percent,,62
-2016,Normal value,Units,Proportion of schools with access to toilet facilities,,Private,Percent,,82
-2017,Normal value,Units,Proportion of schools with access to toilet facilities,,Public,Percent,,65
-2017,Normal value,Units,Proportion of schools with access to toilet facilities,,Private,Percent,,82
-2018,Normal value,Units,Proportion of schools with access to toilet facilities,,Public,Percent,,65
-2018,Normal value,Units,Proportion of schools with access to toilet facilities,,Private,Percent,,84
-2019,Normal value,Units,Proportion of schools with access to toilet facilities,,Public,Percent,,33
-2019,Normal value,Units,Proportion of schools with access to toilet facilities,,Private,Percent,,22
-2020,Normal value,Units,Proportion of schools with access to toilet facilities,,Public,Percent,,74
-2020,Normal value,Units,Proportion of schools with access to toilet facilities,,Private,Percent,,89
-2016,Normal value,Units,Proportion of schools with access to urinals,,Public,Percent,,65
-2016,Normal value,Units,Proportion of schools with access to urinals,,Private,Percent,,80
-2017,Normal value,Units,Proportion of schools with access to urinals,,Public,Percent,,67
-2017,Normal value,Units,Proportion of schools with access to urinals,,Private,Percent,,81
-2018,Normal value,Units,Proportion of schools with access to urinals,,Public,Percent,,66
-2018,Normal value,Units,Proportion of schools with access to urinals,,Private,Percent,,82
-2019,Normal value,Units,Proportion of schools with access to urinals,,Public,Percent,,32
-2019,Normal value,Units,Proportion of schools with access to urinals,,Private,Percent,,20
-2020,Normal value,Units,Proportion of schools with access to urinals,,Public,Percent,,69
-2020,Normal value,Units,Proportion of schools with access to urinals,,Private,Percent,,84
+Year,SERIES,COMPOSITE_BREAKDOWN,Value
+2016,Proportion of schools with access to electricity [4.a.1],Public,46
+2016,Proportion of schools with access to electricity [4.a.1],Private,70
+2017,Proportion of schools with access to electricity [4.a.1],Public,51
+2017,Proportion of schools with access to electricity [4.a.1],Private,72
+2018,Proportion of schools with access to electricity [4.a.1],Public,55
+2018,Proportion of schools with access to electricity [4.a.1],Private,75
+2019,Proportion of schools with access to electricity [4.a.1],Public,29
+2019,Proportion of schools with access to electricity [4.a.1],Private,22
+2020,Proportion of schools with access to electricity [4.a.1],Public,60
+2020,Proportion of schools with access to electricity [4.a.1],Private,77
+2016,Proportion of schools with access to basic drinking water [4.a.1],Public,39
+2016,Proportion of schools with access to basic drinking water [4.a.1],Private,73
+2017,Proportion of schools with access to basic drinking water [4.a.1],Public,42
+2017,Proportion of schools with access to basic drinking water [4.a.1],Private,74
+2018,Proportion of schools with access to basic drinking water [4.a.1],Public,71
+2018,Proportion of schools with access to basic drinking water [4.a.1],Private,89
+2019,Proportion of schools with access to basic drinking water [4.a.1],Public,39
+2019,Proportion of schools with access to basic drinking water [4.a.1],Private,25
+2020,Proportion of schools with access to basic drinking water [4.a.1],Public,75
+2020,Proportion of schools with access to basic drinking water [4.a.1],Private,83
+2016,Proportion of schools with access to toilet facilities,Public,62
+2016,Proportion of schools with access to toilet facilities,Private,82
+2017,Proportion of schools with access to toilet facilities,Public,65
+2017,Proportion of schools with access to toilet facilities,Private,82
+2018,Proportion of schools with access to toilet facilities,Public,65
+2018,Proportion of schools with access to toilet facilities,Private,84
+2019,Proportion of schools with access to toilet facilities,Public,33
+2019,Proportion of schools with access to toilet facilities,Private,22
+2020,Proportion of schools with access to toilet facilities,Public,74
+2020,Proportion of schools with access to toilet facilities,Private,89
+2016,Proportion of schools with access to urinals,Public,65
+2016,Proportion of schools with access to urinals,Private,80
+2017,Proportion of schools with access to urinals,Public,67
+2017,Proportion of schools with access to urinals,Private,81
+2018,Proportion of schools with access to urinals,Public,66
+2018,Proportion of schools with access to urinals,Private,82
+2019,Proportion of schools with access to urinals,Public,32
+2019,Proportion of schools with access to urinals,Private,20
+2020,Proportion of schools with access to urinals,Public,69
+2020,Proportion of schools with access to urinals,Private,84

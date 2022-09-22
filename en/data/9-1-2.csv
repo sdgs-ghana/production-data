@@ -1,42 +1,42 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,,47677.0
-2017,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,,50360.0
-2018,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,,52390.0
-2019,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,,49846.0
-2020,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,,43428.0
-2016,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,,586650.0
-2017,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,,9138000.0
-2018,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,,630000.0
-2019,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,,1940000.0
-2016,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,,399.82
-2017,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,,40441.0
-2018,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,,44620.0
-2019,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,,35660.0
-2016,Normal value,Units,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,942000.0
-2017,Normal value,Units,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,1009755.0
-2018,Normal value,Units,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,1056785.0
-2019,Normal value,Units,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,1048377.0
-2016,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,19000000.0
-2017,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,22100000.0
-2018,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,25500000.0
-2019,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Maritime,Metric Tons,,28000000.0
-2016,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,,492798.0
-2017,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,,798370.0
-2018,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,,846892.0
-2019,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,,889225.0
-2020,Normal value,Units,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,,871144.0
-2016,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,,63000.0
-2017,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,,92000.0
-2018,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,,147000.0
-2019,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,,96000.0
-2020,Normal value,Units,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,,105045.0
-2016,Normal value,Units,"Air transport, domestic passengers carried",,Mode of Transport: Air,Number,,421986.0
-2017,Normal value,Units,"Air transport, domestic passengers carried",,Mode of Transport: Air,Number,,483261.0
-2018,Normal value,Units,"Air transport, domestic passengers carried",,Mode of Transport: Air,Number,,418610.0
-2019,Normal value,Units,"Air transport, domestic passengers carried",,Mode of Transport: Air,Number,,690314.0
-2020,Normal value,Units,"Air transport, domestic passengers carried",,Mode of Transport: Air,Number,,423748.0
-2016,Normal value,Units,"Air transport, international passengers carried",,Mode of Transport: Air,Number,,1746699.0
-2017,Normal value,Units,"Air transport, international passengers carried",,Mode of Transport: Air,Number,,1811428.0
-2018,Normal value,Units,"Air transport, international passengers carried",,Mode of Transport: Air,Number,,1975803.0
-2019,Normal value,Units,"Air transport, international passengers carried",,Mode of Transport: Air,Number,,2110593.0
-2020,Normal value,Units,"Air transport, international passengers carried",,Mode of Transport: Air,Number,,702651.0
+Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2016,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Metric Tons,47677.0
+2017,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Metric Tons,50360.0
+2018,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Metric Tons,52390.0
+2019,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Metric Tons,49846.0
+2020,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Metric Tons,43428.0
+2016,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Rail,Number,586650.0
+2017,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Rail,Number,9138000.0
+2018,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Rail,Number,630000.0
+2019,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Rail,Number,1940000.0
+2016,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Rail,Metric Tons,399.82
+2017,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Rail,Metric Tons,40441.0
+2018,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Rail,Metric Tons,44620.0
+2019,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Rail,Metric Tons,35660.0
+2016,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Metric Tons,942000.0
+2017,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Metric Tons,1009755.0
+2018,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Metric Tons,1056785.0
+2019,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Metric Tons,1048377.0
+2016,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Maritime,Metric Tons,19000000.0
+2017,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Maritime,Metric Tons,22100000.0
+2018,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Maritime,Metric Tons,25500000.0
+2019,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Maritime,Metric Tons,28000000.0
+2016,Passenger volume (passenger kilometres) [9.1.2],Mode of transport: Inland waterway transport,Number,492798.0
+2017,Passenger volume (passenger kilometres) [9.1.2],Mode of transport: Inland waterway transport,Number,798370.0
+2018,Passenger volume (passenger kilometres) [9.1.2],Mode of transport: Inland waterway transport,Number,846892.0
+2019,Passenger volume (passenger kilometres) [9.1.2],Mode of transport: Inland waterway transport,Number,889225.0
+2020,Passenger volume (passenger kilometres) [9.1.2],Mode of transport: Inland waterway transport,Number,871144.0
+2016,Freight volume (tonne kilometres) [9.1.2],Mode of transport: Inland waterway transport,Metric Tons,63000.0
+2017,Freight volume (tonne kilometres) [9.1.2],Mode of transport: Inland waterway transport,Metric Tons,92000.0
+2018,Freight volume (tonne kilometres) [9.1.2],Mode of transport: Inland waterway transport,Metric Tons,147000.0
+2019,Freight volume (tonne kilometres) [9.1.2],Mode of transport: Inland waterway transport,Metric Tons,96000.0
+2020,Freight volume (tonne kilometres) [9.1.2],Mode of transport: Inland waterway transport,Metric Tons,105045.0
+2016,"Air transport, domestic passengers carried",Mode of Transport: Air,Number,421986.0
+2017,"Air transport, domestic passengers carried",Mode of Transport: Air,Number,483261.0
+2018,"Air transport, domestic passengers carried",Mode of Transport: Air,Number,418610.0
+2019,"Air transport, domestic passengers carried",Mode of Transport: Air,Number,690314.0
+2020,"Air transport, domestic passengers carried",Mode of Transport: Air,Number,423748.0
+2016,"Air transport, international passengers carried",Mode of Transport: Air,Number,1746699.0
+2017,"Air transport, international passengers carried",Mode of Transport: Air,Number,1811428.0
+2018,"Air transport, international passengers carried",Mode of Transport: Air,Number,1975803.0
+2019,"Air transport, international passengers carried",Mode of Transport: Air,Number,2110593.0
+2020,"Air transport, international passengers carried",Mode of Transport: Air,Number,702651.0

@@ -1,1 +1,1 @@
-{"From":["Sex","Age","Degree of urbanisation"],"To":["Age","Degree of urbanisation","COMPOSITE_BREAKDOWN"]}
+{"From":["Sex","Age"],"To":["Age","Degree of urbanisation"]}

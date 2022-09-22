@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2017","2018","2019"],"Observation status":["Normal value","Normal value","Normal value","Normal value"],"Unit multiplier":["Units","Units","Units","Units"],"SERIES":["Red List Index [15.5.1]","Red List Index [15.5.1]","Red List Index [15.5.1]","Red List Index [15.5.1]"],"Reference area":[null,null,null,null],"UNIT_MEASURE":["Index","Index","Index","Index"],"GeoCode":[null,null,null,null],"Value":[0.9,0.9,0.9,1.0]},"edges":[]}
+{"data":{"Year":["2016","2017","2018","2019"],"Value":[0.9,0.9,0.9,1.0]},"edges":[]}

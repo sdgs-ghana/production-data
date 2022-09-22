@@ -1,1 +1,1 @@
-{"Year":["1993","1998","2003","2008","2014","2017"],"OBS_STATUS":["A","A","A","A","A","A"],"UNIT_MULT":["0","0","0","0","0","0"],"SERIES":["SP_DYN_ADKL","SP_DYN_ADKL","SP_DYN_ADKL","SP_DYN_ADKL","SP_DYN_ADKL","SP_DYN_ADKL"],"REF_AREA":[null,null,null,null,null,null],"AGE":["Y15T19","Y15T19","Y15T19","Y15T19","Y15T19","Y15T19"],"UNIT_MEASURE":["PT","PT","PT","PT","PT","PT"],"GeoCode":[null,null,null,null,null,null],"Value":[116,88,74,66,76,75]}
+{"Year":["1993","1998","2003","2008","2014","2017"],"Value":[116,88,74,66,76,75]}

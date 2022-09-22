@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2018,2892,,Normal value,Units,Number,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]"
-2020,1194,,Normal value,Units,Number,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]"
-2021,1300,,Normal value,Units,Number,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]"
+Year,Value
+2018,2892
+2020,1194
+2021,1300

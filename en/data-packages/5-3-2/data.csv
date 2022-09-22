@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2011,Normal value,Units,Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting [5.3.2],,Female,15 to 49 years old,,Percent,,4.0
-2011,Normal value,Units,Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting [5.3.2],,Female,15 to 49 years old,Urban,Percent,,3.0
-2011,Normal value,Units,Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting [5.3.2],,Female,15 to 49 years old,Rural,Percent,,5.0
-2017,Normal value,Units,Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting [5.3.2],,Female,15 to 49 years old,,Percent,,2.4
-2017,Normal value,Units,Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting [5.3.2],,Female,15 to 49 years old,Urban,Percent,,1.2
-2017,Normal value,Units,Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting [5.3.2],,Female,15 to 49 years old,Rural,Percent,,3.6
+Year,Degree of urbanisation,Value
+2011,,4.0
+2011,Urban,3.0
+2011,Rural,5.0
+2017,,2.4
+2017,Urban,1.2
+2017,Rural,3.6

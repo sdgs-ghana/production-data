@@ -1,6 +1,6 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2017,39.1,,Normal value,Units,Percent,"Proportion of the population who are refugees, by country of origin [10.7.4]"
-2018,36.3,,Normal value,Units,Percent,"Proportion of the population who are refugees, by country of origin [10.7.4]"
-2019,35.4,,Normal value,Units,Percent,"Proportion of the population who are refugees, by country of origin [10.7.4]"
-2020,34.2,,Normal value,Units,Percent,"Proportion of the population who are refugees, by country of origin [10.7.4]"
-2021,34.2,,Normal value,Units,Percent,"Proportion of the population who are refugees, by country of origin [10.7.4]"
+Year,Value
+2017,39.1
+2018,36.3
+2019,35.4
+2020,34.2
+2021,34.2

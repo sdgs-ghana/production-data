@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2013,5.2,,Normal value,Units,Percent,Unemployment rate [8.5.2]
-2015,11.9,,Normal value,Units,Percent,Unemployment rate [8.5.2]
-2017,8.4,,Normal value,Units,Percent,Unemployment rate [8.5.2]
+Year,Value,SERIES
+2013,5.2,Unemployment rate [8.5.2]
+2015,11.9,Unemployment rate [8.5.2]
+2017,8.4,Unemployment rate [8.5.2]

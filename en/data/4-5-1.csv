@@ -1,60 +1,60 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Education level,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper West,Pre-primary education,Index,10_o,1.0
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper East,Pre-primary education,Index,09_o,0.98
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Central,Pre-primary education,Index,02_o,1.04
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Volta,Pre-primary education,Index,04_o,0.99
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Ashanti,Pre-primary education,Index,06_o,0.98
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Eastern,Pre-primary education,Index,05_o,0.96
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Greater Accra,Pre-primary education,Index,03_o,1.04
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Brong Ahafo,Pre-primary education,Index,07_o,1.07
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Northern,Pre-primary education,Index,08_o,1.02
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Western,Pre-primary education,Index,01_o,0.96
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Pre-primary education,Index,,0.99
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper West,Primary education,Index,10_o,1.01
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper East,Primary education,Index,09_o,0.99
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Central,Primary education,Index,02_o,1.03
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Volta,Primary education,Index,04_o,1.0
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Ashanti,Primary education,Index,06_o,1.0
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Eastern,Primary education,Index,05_o,0.95
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Greater Accra,Primary education,Index,03_o,1.05
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Brong Ahafo,Primary education,Index,07_o,1.1
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Northern,Primary education,Index,08_o,1.02
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Western,Primary education,Index,01_o,0.95
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Primary education,Index,,1.0
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper West,Lower secondary education,Index,10_o,1.01
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper East,Lower secondary education,Index,09_o,0.97
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Central,Lower secondary education,Index,02_o,1.06
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Volta,Lower secondary education,Index,04_o,1.03
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Ashanti,Lower secondary education,Index,06_o,1.0
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Eastern,Lower secondary education,Index,05_o,0.95
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Greater Accra,Lower secondary education,Index,03_o,1.19
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Brong Ahafo,Lower secondary education,Index,07_o,1.14
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Northern,Lower secondary education,Index,08_o,1.03
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Western,Lower secondary education,Index,01_o,0.95
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Lower secondary education,Index,,1.02
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper West,Upper secondary education,Index,10_o,0.94
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Upper East,Upper secondary education,Index,09_o,0.98
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Central,Upper secondary education,Index,02_o,0.97
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Volta,Upper secondary education,Index,04_o,1.09
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Ashanti,Upper secondary education,Index,06_o,0.74
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Eastern,Upper secondary education,Index,05_o,0.89
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Greater Accra,Upper secondary education,Index,03_o,1.04
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Brong Ahafo,Upper secondary education,Index,07_o,0.93
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Northern,Upper secondary education,Index,08_o,1.0
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],Western,Upper secondary education,Index,01_o,0.94
-2019,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Upper secondary education,Index,,0.95
-2017,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Pre-primary education,Index,,1.0
-2018,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Pre-primary education,Index,,1.0
-2020,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Pre-primary education,Index,,1.03
-2021,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Pre-primary education,Index,,0.99
-2017,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Primary education,Index,,1.03
-2018,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Primary education,Index,,1.0
-2020,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Primary education,Index,,1.02
-2021,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Primary education,Index,,1.0
-2017,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Lower secondary education,Index,,0.97
-2018,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Lower secondary education,Index,,1.0
-2020,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Lower secondary education,Index,,1.02
-2021,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Lower secondary education,Index,,1.0
-2017,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Upper secondary education,Index,,0.96
-2018,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Upper secondary education,Index,,0.92
-2020,Normal value,Units,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Upper secondary education,Index,,0.96
+Year,Reference area,Education level,GeoCode,Value
+2019,Upper West,Pre-primary education,10_o,1.0
+2019,Upper East,Pre-primary education,09_o,0.98
+2019,Central,Pre-primary education,02_o,1.04
+2019,Volta,Pre-primary education,04_o,0.99
+2019,Ashanti,Pre-primary education,06_o,0.98
+2019,Eastern,Pre-primary education,05_o,0.96
+2019,Greater Accra,Pre-primary education,03_o,1.04
+2019,Brong Ahafo,Pre-primary education,07_o,1.07
+2019,Northern,Pre-primary education,08_o,1.02
+2019,Western,Pre-primary education,01_o,0.96
+2019,,Pre-primary education,,0.99
+2019,Upper West,Primary education,10_o,1.01
+2019,Upper East,Primary education,09_o,0.99
+2019,Central,Primary education,02_o,1.03
+2019,Volta,Primary education,04_o,1.0
+2019,Ashanti,Primary education,06_o,1.0
+2019,Eastern,Primary education,05_o,0.95
+2019,Greater Accra,Primary education,03_o,1.05
+2019,Brong Ahafo,Primary education,07_o,1.1
+2019,Northern,Primary education,08_o,1.02
+2019,Western,Primary education,01_o,0.95
+2019,,Primary education,,1.0
+2019,Upper West,Lower secondary education,10_o,1.01
+2019,Upper East,Lower secondary education,09_o,0.97
+2019,Central,Lower secondary education,02_o,1.06
+2019,Volta,Lower secondary education,04_o,1.03
+2019,Ashanti,Lower secondary education,06_o,1.0
+2019,Eastern,Lower secondary education,05_o,0.95
+2019,Greater Accra,Lower secondary education,03_o,1.19
+2019,Brong Ahafo,Lower secondary education,07_o,1.14
+2019,Northern,Lower secondary education,08_o,1.03
+2019,Western,Lower secondary education,01_o,0.95
+2019,,Lower secondary education,,1.02
+2019,Upper West,Upper secondary education,10_o,0.94
+2019,Upper East,Upper secondary education,09_o,0.98
+2019,Central,Upper secondary education,02_o,0.97
+2019,Volta,Upper secondary education,04_o,1.09
+2019,Ashanti,Upper secondary education,06_o,0.74
+2019,Eastern,Upper secondary education,05_o,0.89
+2019,Greater Accra,Upper secondary education,03_o,1.04
+2019,Brong Ahafo,Upper secondary education,07_o,0.93
+2019,Northern,Upper secondary education,08_o,1.0
+2019,Western,Upper secondary education,01_o,0.94
+2019,,Upper secondary education,,0.95
+2017,,Pre-primary education,,1.0
+2018,,Pre-primary education,,1.0
+2020,,Pre-primary education,,1.03
+2021,,Pre-primary education,,0.99
+2017,,Primary education,,1.03
+2018,,Primary education,,1.0
+2020,,Primary education,,1.02
+2021,,Primary education,,1.0
+2017,,Lower secondary education,,0.97
+2018,,Lower secondary education,,1.0
+2020,,Lower secondary education,,1.02
+2021,,Lower secondary education,,1.0
+2017,,Upper secondary education,,0.96
+2018,,Upper secondary education,,0.92
+2020,,Upper secondary education,,0.96

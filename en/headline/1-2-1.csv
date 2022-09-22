@@ -1,7 +1,7 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2013,24.2,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
-2017,23.4,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
-2006,28.5,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
-1999,39.5,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
-1992,51.7,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
-2020,25.5,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
+Year,Value,GeoCode
+2013,24.2,
+2017,23.4,
+2006,28.5,
+1999,39.5,
+1992,51.7,
+2020,25.5,

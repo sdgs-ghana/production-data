@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2014,0.006,,Normal value,Units,Percent,Labour share of GDP [10.4.1]
-2015,0.007,,Normal value,Units,Percent,Labour share of GDP [10.4.1]
-2017,0.0056,,Normal value,Units,Percent,Labour share of GDP [10.4.1]
+Year,Value
+2014,0.006
+2015,0.007
+2017,0.0056

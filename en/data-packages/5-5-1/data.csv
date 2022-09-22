@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],,Female,Percent,,12.7
-2017,Normal value,Units,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],,Female,Percent,,13.4
-2019,Normal value,Units,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],,Female,Percent,,13.8
-2016,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,,5.0
-2017,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,,5.0
-2019,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,,3.2
-2016,Normal value,Units,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",,Female,Percent,,10.3
-2017,Normal value,Units,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",,Female,Percent,,14.8
-2019,Normal value,Units,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",,Female,Percent,,14.8
+Year,SERIES,Value
+2016,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],12.7
+2017,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],13.4
+2019,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],13.8
+2016,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],5.0
+2017,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],5.0
+2019,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],3.2
+2016,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",10.3
+2017,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",14.8
+2019,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",14.8

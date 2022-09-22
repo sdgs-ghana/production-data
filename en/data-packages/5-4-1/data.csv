@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2013,Normal value,Units,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,Minute,,42.8
-2013,Normal value,Units,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,,Minute,,33.2
-2013,Normal value,Units,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,,Minute,,51.6
-2013,Normal value,Units,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,Urban,Minute,,47.1
-2013,Normal value,Units,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,Rural,Minute,,40.0
+Year,Sex,Degree of urbanisation,Value
+2013,,,42.8
+2013,Male,,33.2
+2013,Female,,51.6
+2013,,Urban,47.1
+2013,,Rural,40.0

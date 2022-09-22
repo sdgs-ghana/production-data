@@ -1,1 +1,1 @@
-{"data":{"Year":["2003","2008","2014","2017"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"SERIES":["SH_DYN_MORT","SH_DYN_MORT","SH_DYN_MORT","SH_DYN_MORT"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["PER_100000_LIVE_BIRTHS","PER_100000_LIVE_BIRTHS","PER_100000_LIVE_BIRTHS","PER_100000_LIVE_BIRTHS"],"GeoCode":[null,null,null,null],"Value":[111,80,60,56]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}
+{"data":{"Year":["2003","2008","2014","2017"],"Value":[111,80,60,56]},"edges":[]}

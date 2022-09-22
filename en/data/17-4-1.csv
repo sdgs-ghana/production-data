@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Debt Service as a percentage of total domestic revenue,,Percent,,47.3
-2017,Normal value,Units,Debt Service as a percentage of total domestic revenue,,Percent,,46.3
-2018,Normal value,Units,Debt Service as a percentage of total domestic revenue,,Percent,,45.4
-2019,Normal value,Units,Debt Service as a percentage of total domestic revenue,,Percent,,59.2
+Year,Value
+2016,47.3
+2017,46.3
+2018,45.4
+2019,59.2

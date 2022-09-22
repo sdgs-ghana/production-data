@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2013,Normal value,Units,Percentage of children engaged in child labour,,Male,5 to 17 years old,,Percent,,22.7
-2013,Normal value,Units,Percentage of children engaged in child labour,,Female,5 to 17 years old,,Percent,,20.8
-2013,Normal value,Units,Percentage of children engaged in child labour,,,5 to 17 years old,Urban,Percent,,12.4
-2013,Normal value,Units,Percentage of children engaged in child labour,,,5 to 17 years old,Rural,Percent,,30.2
-2013,Normal value,Units,Percentage of children engaged in child labour,,,5 to 17 years old,,Percent,,21.8
-2013,Normal value,Units,Percentage of children engaged in hazardous forms of child labour,,Male,5 to 17 years old,,Percent,,15.4
-2013,Normal value,Units,Percentage of children engaged in hazardous forms of child labour,,Female,5 to 17 years old,,Percent,,12.9
-2013,Normal value,Units,Percentage of children engaged in hazardous forms of child labour,,,5 to 17 years old,Urban,Percent,,7.7
-2013,Normal value,Units,Percentage of children engaged in hazardous forms of child labour,,,5 to 17 years old,Rural,Percent,,20.0
-2013,Normal value,Units,Percentage of children engaged in hazardous forms of child labour,,,5 to 17 years old,,Percent,,14.2
+Year,SERIES,Sex,Degree of urbanisation,Value
+2013,Percentage of children engaged in child labour,Male,,22.7
+2013,Percentage of children engaged in child labour,Female,,20.8
+2013,Percentage of children engaged in child labour,,Urban,12.4
+2013,Percentage of children engaged in child labour,,Rural,30.2
+2013,Percentage of children engaged in child labour,,,21.8
+2013,Percentage of children engaged in hazardous forms of child labour,Male,,15.4
+2013,Percentage of children engaged in hazardous forms of child labour,Female,,12.9
+2013,Percentage of children engaged in hazardous forms of child labour,,Urban,7.7
+2013,Percentage of children engaged in hazardous forms of child labour,,Rural,20.0
+2013,Percentage of children engaged in hazardous forms of child labour,,,14.2

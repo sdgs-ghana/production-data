@@ -1,71 +1,71 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Type of product,UNIT_MEASURE,GeoCode,Value
-2010,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,17.4
-2010,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,5.3
-2010,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,7.3
-2010,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,24.2
-2010,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,20.9
-2010,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,30.2
-2010,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,30.2
-2011,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,16.9
-2011,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,5.1
-2011,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,7.1
-2011,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,23.6
-2011,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,20.4
-2011,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,29.5
-2011,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,29.5
-2012,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,16.5
-2012,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,5.0
-2012,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,6.9
-2012,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,23.0
-2012,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,19.8
-2012,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,28.7
-2012,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,28.8
-2013,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,16.1
-2013,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,4.9
-2013,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,6.8
-2013,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,22.4
-2013,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,19.3
-2013,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,28.0
-2013,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,28.1
-2014,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,15.7
-2014,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,4.8
-2014,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,6.6
-2014,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,21.9
-2014,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,18.9
-2014,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,27.3
-2014,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,27.4
-2015,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,15.3
-2015,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,4.6
-2015,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,6.4
-2015,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,21.3
-2015,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,18.4
-2015,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,26.6
-2015,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,26.7
-2016,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,18.3
-2016,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,5.5
-2016,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,7.5
-2016,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,25.5
-2016,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,22.0
-2016,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,26.6
-2016,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,26.7
-2017,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,17.5
-2017,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,5.2
-2017,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,7.3
-2017,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,25.1
-2017,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,21.5
-2017,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,26.6
-2017,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,26.7
-2018,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,17.7
-2018,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,4.8
-2018,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,7.1
-2018,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,24.7
-2018,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,21.0
-2018,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,26.6
-2018,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,26.7
-2019,Normal value,Units,Post-harvest losses for selected produce,,Maize,Percent,,16.9
-2019,Normal value,Units,Post-harvest losses for selected produce,,Rice,Percent,,4.5
-2019,Normal value,Units,Post-harvest losses for selected produce,,Sorghum,Percent,,5.7
-2019,Normal value,Units,Post-harvest losses for selected produce,,Cassava,Percent,,23.7
-2019,Normal value,Units,Post-harvest losses for selected produce,,Yam,Percent,,20.8
-2019,Normal value,Units,Post-harvest losses for selected produce,,Fish(Marine),Percent,,25.3
-2019,Normal value,Units,Post-harvest losses for selected produce,,Fish(Artisanal),Percent,,25.5
+Year,Type of product,Value
+2010,Maize,17.4
+2010,Rice,5.3
+2010,Sorghum,7.3
+2010,Cassava,24.2
+2010,Yam,20.9
+2010,Fish(Marine),30.2
+2010,Fish(Artisanal),30.2
+2011,Maize,16.9
+2011,Rice,5.1
+2011,Sorghum,7.1
+2011,Cassava,23.6
+2011,Yam,20.4
+2011,Fish(Marine),29.5
+2011,Fish(Artisanal),29.5
+2012,Maize,16.5
+2012,Rice,5.0
+2012,Sorghum,6.9
+2012,Cassava,23.0
+2012,Yam,19.8
+2012,Fish(Marine),28.7
+2012,Fish(Artisanal),28.8
+2013,Maize,16.1
+2013,Rice,4.9
+2013,Sorghum,6.8
+2013,Cassava,22.4
+2013,Yam,19.3
+2013,Fish(Marine),28.0
+2013,Fish(Artisanal),28.1
+2014,Maize,15.7
+2014,Rice,4.8
+2014,Sorghum,6.6
+2014,Cassava,21.9
+2014,Yam,18.9
+2014,Fish(Marine),27.3
+2014,Fish(Artisanal),27.4
+2015,Maize,15.3
+2015,Rice,4.6
+2015,Sorghum,6.4
+2015,Cassava,21.3
+2015,Yam,18.4
+2015,Fish(Marine),26.6
+2015,Fish(Artisanal),26.7
+2016,Maize,18.3
+2016,Rice,5.5
+2016,Sorghum,7.5
+2016,Cassava,25.5
+2016,Yam,22.0
+2016,Fish(Marine),26.6
+2016,Fish(Artisanal),26.7
+2017,Maize,17.5
+2017,Rice,5.2
+2017,Sorghum,7.3
+2017,Cassava,25.1
+2017,Yam,21.5
+2017,Fish(Marine),26.6
+2017,Fish(Artisanal),26.7
+2018,Maize,17.7
+2018,Rice,4.8
+2018,Sorghum,7.1
+2018,Cassava,24.7
+2018,Yam,21.0
+2018,Fish(Marine),26.6
+2018,Fish(Artisanal),26.7
+2019,Maize,16.9
+2019,Rice,4.5
+2019,Sorghum,5.7
+2019,Cassava,23.7
+2019,Yam,20.8
+2019,Fish(Marine),25.3
+2019,Fish(Artisanal),25.5

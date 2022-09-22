@@ -1,17 +1,17 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2013,Normal value,Units,Corruption Perception Index score,,Index,,46
-2014,Normal value,Units,Corruption Perception Index score,,Index,,48
-2015,Normal value,Units,Corruption Perception Index score,,Index,,47
-2016,Normal value,Units,Corruption Perception Index score,,Index,,43
-2017,Normal value,Units,Corruption Perception Index score,,Index,,40
-2018,Normal value,Units,Corruption Perception Index score,,Index,,41
-2019,Normal value,Units,Corruption Perception Index score,,Index,,41
-2020,Normal value,Units,Corruption Perception Index score,,Index,,43
-2013,Normal value,Units,Corruption Perception Index Rank,,Rank,,63
-2014,Normal value,Units,Corruption Perception Index Rank,,Rank,,61
-2015,Normal value,Units,Corruption Perception Index Rank,,Rank,,56
-2016,Normal value,Units,Corruption Perception Index Rank,,Rank,,70
-2017,Normal value,Units,Corruption Perception Index Rank,,Rank,,81
-2018,Normal value,Units,Corruption Perception Index Rank,,Rank,,78
-2019,Normal value,Units,Corruption Perception Index Rank,,Rank,,80
-2020,Normal value,Units,Corruption Perception Index Rank,,Rank,,75
+Year,SERIES,UNIT_MEASURE,Value
+2013,Corruption Perception Index score,Index,46
+2014,Corruption Perception Index score,Index,48
+2015,Corruption Perception Index score,Index,47
+2016,Corruption Perception Index score,Index,43
+2017,Corruption Perception Index score,Index,40
+2018,Corruption Perception Index score,Index,41
+2019,Corruption Perception Index score,Index,41
+2020,Corruption Perception Index score,Index,43
+2013,Corruption Perception Index Rank,Rank,63
+2014,Corruption Perception Index Rank,Rank,61
+2015,Corruption Perception Index Rank,Rank,56
+2016,Corruption Perception Index Rank,Rank,70
+2017,Corruption Perception Index Rank,Rank,81
+2018,Corruption Perception Index Rank,Rank,78
+2019,Corruption Perception Index Rank,Rank,80
+2020,Corruption Perception Index Rank,Rank,75

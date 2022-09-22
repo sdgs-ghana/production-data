@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-1998,Normal value,Units,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Percent,,22.0
-2003,Normal value,Units,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Percent,,25.2
-2008,Normal value,Units,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Percent,,23.5
-2014,Normal value,Units,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Percent,,26.7
-2017,Normal value,Units,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Percent,,42.0
+Year,Value
+1998,22.0
+2003,25.2
+2008,23.5
+2014,26.7
+2017,42.0

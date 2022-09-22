@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Doctor to population ratio,,Ratio,,8301
-2017,Normal value,Units,Doctor to population ratio,,Ratio,,8100
-2018,Normal value,Units,Doctor to population ratio,,Ratio,,7196
-2019,Normal value,Units,Doctor to population ratio,,Ratio,,6899
-2020,Normal value,Units,Doctor to population ratio,,Ratio,,6355
-2016,Normal value,Units,Nurse to population ratio,,Ratio,,823
-2017,Normal value,Units,Nurse to population ratio,,Ratio,,779
-2018,Normal value,Units,Nurse to population ratio,,Ratio,,823
-2019,Normal value,Units,Nurse to population ratio,,Ratio,,727
-2020,Normal value,Units,Nurse to population ratio,,Ratio,,698
+Year,SERIES,Value
+2016,Doctor to population ratio,8301
+2017,Doctor to population ratio,8100
+2018,Doctor to population ratio,7196
+2019,Doctor to population ratio,6899
+2020,Doctor to population ratio,6355
+2016,Nurse to population ratio,823
+2017,Nurse to population ratio,779
+2018,Nurse to population ratio,823
+2019,Nurse to population ratio,727
+2020,Nurse to population ratio,698

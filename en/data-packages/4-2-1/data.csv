@@ -1,25 +1,25 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Proportion of children who are developmentally on track in literacy-numeracy,,Urban,Percent,,61.0
-2017,Normal value,Units,Proportion of children who are developmentally on track in physical development,,Urban,Percent,,95.5
-2017,Normal value,Units,Proportion of children who are developmentally on track in social-emotional development,,Urban,Percent,,69.1
-2017,Normal value,Units,Proportion of children who are developmentally on track in learning,,Urban,Percent,,88.5
-2017,Normal value,Units,Proportion of children who are developmentally on track in literacy-numeracy,,Rural,Percent,,31.2
-2017,Normal value,Units,Proportion of children who are developmentally on track in physical development,,Rural,Percent,,91.7
-2017,Normal value,Units,Proportion of children who are developmentally on track in social-emotional development,,Rural,Percent,,64.7
-2017,Normal value,Units,Proportion of children who are developmentally on track in learning,,Rural,Percent,,81.9
-2017,Normal value,Units,Proportion of children who are developmentally on track in literacy-numeracy,,,Percent,,43.9
-2017,Normal value,Units,Proportion of children who are developmentally on track in physical development,,,Percent,,93.3
-2017,Normal value,Units,Proportion of children who are developmentally on track in social-emotional development,,,Percent,,66.6
-2017,Normal value,Units,Proportion of children who are developmentally on track in learning,,,Percent,,84.7
-2011,Normal value,Units,Proportion of children who are developmentally on track in literacy-numeracy,,Urban,Percent,,40.6
-2011,Normal value,Units,Proportion of children who are developmentally on track in physical development,,Urban,Percent,,98.0
-2011,Normal value,Units,Proportion of children who are developmentally on track in social-emotional development,,Urban,Percent,,71.3
-2011,Normal value,Units,Proportion of children who are developmentally on track in learning,,Urban,Percent,,90.6
-2011,Normal value,Units,Proportion of children who are developmentally on track in literacy-numeracy,,Rural,Percent,,18.8
-2011,Normal value,Units,Proportion of children who are developmentally on track in physical development,,Rural,Percent,,96.7
-2011,Normal value,Units,Proportion of children who are developmentally on track in social-emotional development,,Rural,Percent,,74.1
-2011,Normal value,Units,Proportion of children who are developmentally on track in learning,,Rural,Percent,,87.8
-2011,Normal value,Units,Proportion of children who are developmentally on track in literacy-numeracy,,,Percent,,26.3
-2011,Normal value,Units,Proportion of children who are developmentally on track in physical development,,,Percent,,97.3
-2011,Normal value,Units,Proportion of children who are developmentally on track in social-emotional development,,,Percent,,72.9
-2011,Normal value,Units,Proportion of children who are developmentally on track in learning,,,Percent,,89.0
+Year,SERIES,Degree of urbanisation,Value
+2017,Proportion of children who are developmentally on track in literacy-numeracy,Urban,61.0
+2017,Proportion of children who are developmentally on track in physical development,Urban,95.5
+2017,Proportion of children who are developmentally on track in social-emotional development,Urban,69.1
+2017,Proportion of children who are developmentally on track in learning,Urban,88.5
+2017,Proportion of children who are developmentally on track in literacy-numeracy,Rural,31.2
+2017,Proportion of children who are developmentally on track in physical development,Rural,91.7
+2017,Proportion of children who are developmentally on track in social-emotional development,Rural,64.7
+2017,Proportion of children who are developmentally on track in learning,Rural,81.9
+2017,Proportion of children who are developmentally on track in literacy-numeracy,,43.9
+2017,Proportion of children who are developmentally on track in physical development,,93.3
+2017,Proportion of children who are developmentally on track in social-emotional development,,66.6
+2017,Proportion of children who are developmentally on track in learning,,84.7
+2011,Proportion of children who are developmentally on track in literacy-numeracy,Urban,40.6
+2011,Proportion of children who are developmentally on track in physical development,Urban,98.0
+2011,Proportion of children who are developmentally on track in social-emotional development,Urban,71.3
+2011,Proportion of children who are developmentally on track in learning,Urban,90.6
+2011,Proportion of children who are developmentally on track in literacy-numeracy,Rural,18.8
+2011,Proportion of children who are developmentally on track in physical development,Rural,96.7
+2011,Proportion of children who are developmentally on track in social-emotional development,Rural,74.1
+2011,Proportion of children who are developmentally on track in learning,Rural,87.8
+2011,Proportion of children who are developmentally on track in literacy-numeracy,,26.3
+2011,Proportion of children who are developmentally on track in physical development,,97.3
+2011,Proportion of children who are developmentally on track in social-emotional development,,72.9
+2011,Proportion of children who are developmentally on track in learning,,89.0

@@ -1,9 +1,9 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-1999,41.0,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
-2006,49.2,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
-2013,70.6,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
-2017,81.1,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
-2018,84.3,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
-2019,85.0,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
-2020,85.3,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
-2021,84.1,,Normal value,Units,Percent,Proportion of population with access to electricity [7.1.1]
+Year,Value,GeoCode
+1999,41.0,
+2006,49.2,
+2013,70.6,
+2017,81.1,
+2018,84.3,
+2019,85.0,
+2020,85.3,
+2021,84.1,

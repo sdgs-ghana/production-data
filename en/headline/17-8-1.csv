@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2006,1.5,,Normal value,Units,Percent,Proportion of individuals using the internet
-2013,56.6,,Normal value,Units,Percent,Proportion of individuals using the internet
-2017,98.9,,Normal value,Units,Percent,Proportion of individuals using the internet
+Year,Value,GeoCode
+2006,1.5,
+2013,56.6,
+2017,98.9,

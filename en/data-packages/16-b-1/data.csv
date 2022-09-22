@@ -1,23 +1,23 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",,Discriminated against,Percent,,95.6
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",,Not Discriminated against,Percent,,4.4
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Western,Discriminated against,Percent,01_o,95.0
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Western,Not Discriminated against,Percent,01_o,5.0
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Central,Discriminated against,Percent,02_o,97.2
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Central,Not Discriminated against,Percent,02_o,2.8
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Greater Accra,Discriminated against,Percent,03_o,97.4
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Greater Accra,Not Discriminated against,Percent,03_o,2.6
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Volta,Discriminated against,Percent,04_o,97.9
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Volta,Not Discriminated against,Percent,04_o,2.1
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Eastern,Discriminated against,Percent,05_o,95.5
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Eastern,Not Discriminated against,Percent,05_o,4.5
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Ashanti,Discriminated against,Percent,06_o,93.3
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Ashanti,Not Discriminated against,Percent,06_o,6.7
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Brong Ahafo,Discriminated against,Percent,07_o,96.2
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Brong Ahafo,Not Discriminated against,Percent,07_o,3.8
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Northern,Discriminated against,Percent,08_o,95.1
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Northern,Not Discriminated against,Percent,08_o,4.9
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Upper East,Discriminated against,Percent,09_o,95.7
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Upper East,Not Discriminated against,Percent,09_o,4.3
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Upper West,Discriminated against,Percent,10_o,95.0
-2017,Normal value,Units,"Proportion of population reporting having felt discriminated against [10.3.1, 16.b.1]",Upper West,Not Discriminated against,Percent,10_o,5.0
+Year,Reference area,COMPOSITE_BREAKDOWN,GeoCode,Value
+2017,,Discriminated against,,95.6
+2017,,Not Discriminated against,,4.4
+2017,Western,Discriminated against,01_o,95.0
+2017,Western,Not Discriminated against,01_o,5.0
+2017,Central,Discriminated against,02_o,97.2
+2017,Central,Not Discriminated against,02_o,2.8
+2017,Greater Accra,Discriminated against,03_o,97.4
+2017,Greater Accra,Not Discriminated against,03_o,2.6
+2017,Volta,Discriminated against,04_o,97.9
+2017,Volta,Not Discriminated against,04_o,2.1
+2017,Eastern,Discriminated against,05_o,95.5
+2017,Eastern,Not Discriminated against,05_o,4.5
+2017,Ashanti,Discriminated against,06_o,93.3
+2017,Ashanti,Not Discriminated against,06_o,6.7
+2017,Brong Ahafo,Discriminated against,07_o,96.2
+2017,Brong Ahafo,Not Discriminated against,07_o,3.8
+2017,Northern,Discriminated against,08_o,95.1
+2017,Northern,Not Discriminated against,08_o,4.9
+2017,Upper East,Discriminated against,09_o,95.7
+2017,Upper East,Not Discriminated against,09_o,4.3
+2017,Upper West,Discriminated against,10_o,95.0
+2017,Upper West,Not Discriminated against,10_o,5.0

@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2013,Normal value,Units,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,,Percent,,27.7
-2017,Normal value,Units,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,,Percent,,30.5
-2013,Normal value,Units,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,Urban,Percent,,30.6
-2017,Normal value,Units,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,Urban,Percent,,32.6
-2013,Normal value,Units,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,Rural,Percent,,24.0
-2017,Normal value,Units,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,Rural,Percent,,27.9
+Year,Degree of urbanisation,Value
+2013,,27.7
+2017,,30.5
+2013,Urban,30.6
+2017,Urban,32.6
+2013,Rural,24.0
+2017,Rural,27.9

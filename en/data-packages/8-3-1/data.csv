@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Male,Percent,,6.35
-2015,Normal value,Units,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Female,Percent,,4.47
-2015,Normal value,Units,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Percent,,5.62
-2017,Normal value,Units,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Male,Percent,,6.91
-2017,Normal value,Units,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,Female,Percent,,4.24
-2017,Normal value,Units,"Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",,,Percent,,6.08
+Year,Sex,Value
+2015,Male,6.35
+2015,Female,4.47
+2015,,5.62
+2017,Male,6.91
+2017,Female,4.24
+2017,,6.08

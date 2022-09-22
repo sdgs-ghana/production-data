@@ -1,7 +1,7 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2016,11.2,,Normal value,Units,Percent,Manufacturing value added as a proportion of GDP [9.2.1]
-2017,10.46,,Normal value,Units,Percent,Manufacturing value added as a proportion of GDP [9.2.1]
-2018,10.46,,Normal value,Units,Percent,Manufacturing value added as a proportion of GDP [9.2.1]
-2016,845.05,,Normal value,Units,Local currency,Manufacturing value added per capita [9.2.1]
-2017,927.61,,Normal value,Units,Local currency,Manufacturing value added per capita [9.2.1]
-2018,1061.67,,Normal value,Units,Local currency,Manufacturing value added per capita [9.2.1]
+Year,Value,UNIT_MEASURE,SERIES
+2016,11.2,Percent,Manufacturing value added as a proportion of GDP [9.2.1]
+2017,10.46,Percent,Manufacturing value added as a proportion of GDP [9.2.1]
+2018,10.46,Percent,Manufacturing value added as a proportion of GDP [9.2.1]
+2016,845.05,Local currency,Manufacturing value added per capita [9.2.1]
+2017,927.61,Local currency,Manufacturing value added per capita [9.2.1]
+2018,1061.67,Local currency,Manufacturing value added per capita [9.2.1]

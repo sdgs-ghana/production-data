@@ -1,5 +1,5 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2015,18.2,,Normal value,Units,Percent,Unsentenced detainees as a proportion of overall prison population [16.3.2]
-2016,17.8,,Normal value,Units,Percent,Unsentenced detainees as a proportion of overall prison population [16.3.2]
-2017,13.6,,Normal value,Units,Percent,Unsentenced detainees as a proportion of overall prison population [16.3.2]
-2018,13.1,,Normal value,Units,Percent,Unsentenced detainees as a proportion of overall prison population [16.3.2]
+Year,Value
+2015,18.2
+2016,17.8
+2017,13.6
+2018,13.1

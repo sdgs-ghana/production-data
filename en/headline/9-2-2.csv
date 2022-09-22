@@ -1,5 +1,5 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2010,10.8,,Normal value,Units,Percent,Manufacturing employment as a proportion of total employment [9.2.2]
-2013,9.1,,Normal value,Units,Percent,Manufacturing employment as a proportion of total employment [9.2.2]
-2015,13.5,,Normal value,Units,Percent,Manufacturing employment as a proportion of total employment [9.2.2]
-2021,6.7,,Normal value,Units,Percent,Manufacturing employment as a proportion of total employment [9.2.2]
+Year,Value,GeoCode
+2010,10.8,
+2013,9.1,
+2015,13.5,
+2021,6.7,

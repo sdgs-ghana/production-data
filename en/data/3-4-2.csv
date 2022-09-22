@@ -1,52 +1,52 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",,,Percent,,48.7
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Western,,Percent,1,49.3
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Central,,Percent,2,53.5
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Greater Accra,,Percent,3,26.0
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Volta,,Percent,4,73.1
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Eastern,,Percent,5,53.8
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Ashanti,,Percent,6,47.2
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Western North,,Percent,7,48.6
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Ahafo,,Percent,8,55.2
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Bono,,Percent,9,49.5
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Bono East,,Percent,10,46.9
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Oti,,Percent,11,48.6
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Northern,,Percent,12,41.5
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Savannah,,Percent,13,58.1
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",North East,,Percent,14,51.5
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Upper East,,Percent,15,81.0
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Upper West,,Percent,16,80.9
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",,Urban,Percent,,36.5
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Western,Urban,Percent,1,41.4
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Central,Urban,Percent,2,46.3
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Greater Accra,Urban,Percent,3,24.6
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Volta,Urban,Percent,4,45.2
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Eastern,Urban,Percent,5,39.5
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Ashanti,Urban,Percent,6,39.9
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Western North,Urban,Percent,7,38.6
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Ahafo,Urban,Percent,8,50.8
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Bono,Urban,Percent,9,46.0
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Bono East,Urban,Percent,10,36.0
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Oti,Urban,Percent,11,42.9
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Northern,Urban,Percent,12,32.7
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Savannah,Urban,Percent,13,45.6
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",North East,Urban,Percent,14,42.3
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Upper East,Urban,Percent,15,50.4
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Upper West,Urban,Percent,16,42.4
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",,Rural,Percent,,64.3
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Western,Rural,Percent,1,57.6
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Central,Rural,Percent,2,63.2
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Greater Accra,Rural,Percent,3,40.6
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Volta,Rural,Percent,4,92.8
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Eastern,Rural,Percent,5,68.1
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Ashanti,Rural,Percent,6,58.5
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Western North,Rural,Percent,7,52.8
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Ahafo,Rural,Percent,8,59.2
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Bono,Rural,Percent,9,54.2
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Bono East,Rural,Percent,10,58.8
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Oti,Rural,Percent,11,51.3
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Northern,Rural,Percent,12,49.2
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Savannah,Rural,Percent,13,63.3
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",North East,Rural,Percent,14,55.7
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Upper East,Rural,Percent,15,91.0
-2021,Normal value,Units,"Death rate due to an accident, violence, homicide, or suicide",Upper West,Rural,Percent,16,93.8
+Year,Reference area,Degree of urbanisation,GeoCode,Value
+2021,,,,48.7
+2021,Western,,1,49.3
+2021,Central,,2,53.5
+2021,Greater Accra,,3,26.0
+2021,Volta,,4,73.1
+2021,Eastern,,5,53.8
+2021,Ashanti,,6,47.2
+2021,Western North,,7,48.6
+2021,Ahafo,,8,55.2
+2021,Bono,,9,49.5
+2021,Bono East,,10,46.9
+2021,Oti,,11,48.6
+2021,Northern,,12,41.5
+2021,Savannah,,13,58.1
+2021,North East,,14,51.5
+2021,Upper East,,15,81.0
+2021,Upper West,,16,80.9
+2021,,Urban,,36.5
+2021,Western,Urban,1,41.4
+2021,Central,Urban,2,46.3
+2021,Greater Accra,Urban,3,24.6
+2021,Volta,Urban,4,45.2
+2021,Eastern,Urban,5,39.5
+2021,Ashanti,Urban,6,39.9
+2021,Western North,Urban,7,38.6
+2021,Ahafo,Urban,8,50.8
+2021,Bono,Urban,9,46.0
+2021,Bono East,Urban,10,36.0
+2021,Oti,Urban,11,42.9
+2021,Northern,Urban,12,32.7
+2021,Savannah,Urban,13,45.6
+2021,North East,Urban,14,42.3
+2021,Upper East,Urban,15,50.4
+2021,Upper West,Urban,16,42.4
+2021,,Rural,,64.3
+2021,Western,Rural,1,57.6
+2021,Central,Rural,2,63.2
+2021,Greater Accra,Rural,3,40.6
+2021,Volta,Rural,4,92.8
+2021,Eastern,Rural,5,68.1
+2021,Ashanti,Rural,6,58.5
+2021,Western North,Rural,7,52.8
+2021,Ahafo,Rural,8,59.2
+2021,Bono,Rural,9,54.2
+2021,Bono East,Rural,10,58.8
+2021,Oti,Rural,11,51.3
+2021,Northern,Rural,12,49.2
+2021,Savannah,Rural,13,63.3
+2021,North East,Rural,14,55.7
+2021,Upper East,Rural,15,91.0
+2021,Upper West,Rural,16,93.8

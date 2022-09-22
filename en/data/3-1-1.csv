@@ -1,97 +1,97 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-1990,Normal value,Units,Survey-based Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,760.0
-2007,Normal value,Units,Survey-based Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,580.0
-2017,Normal value,Units,Survey-based Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,310.0
-2010,Normal value,Units,Census-based Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,485.0
-2021,Normal value,Units,Census-based Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,301.0
-2007,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,224.0
-2008,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,200.0
-2009,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,170.0
-2010,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,163.0
-2011,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,195.0
-2012,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,152.0
-2013,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,155.0
-2014,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,144.0
-2015,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,142.0
-2016,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,152.0
-2017,Normal value,Units,Institutional maternal mortality ratio,,"Per 100,000 live births",,147.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,253.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,215.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,150.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,232.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,77.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,125.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,115.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Ashanti,"Per 100,000 live births",06_o,136.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,185.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,194.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,139.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,208.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,167.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,139.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,135.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Brong Ahafo,"Per 100,000 live births",07_o,131.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,223.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,129.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,149.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,141.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,113.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,122.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,105.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Central,"Per 100,000 live births",02_o,108.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,171.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,136.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,192.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,207.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,179.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,200.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,176.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Eastern,"Per 100,000 live births",05_o,176.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,194.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,197.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,182.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,256.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,201.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,197.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,185.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Greater Accra,"Per 100,000 live births",03_o,177.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,176.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,147.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,137.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,165.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,212.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,174.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,108.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Northern,"Per 100,000 live births",08_o,144.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,152.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,131.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,138.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,120.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,136.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,108.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,139.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Upper East,"Per 100,000 live births",09_o,89.7
-2008,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,121.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,267.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,158.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,202.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,146.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,193.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,161.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Upper West,"Per 100,000 live births",10_o,156.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,145.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,146.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,210.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,201.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,175.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,161.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,179.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Volta,"Per 100,000 live births",04_o,134.0
-2008,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,270.0
-2009,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,148.0
-2010,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,176.0
-2011,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,114.0
-2012,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,132.0
-2013,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,153.0
-2014,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,150.0
-2015,Normal value,Units,Institutional maternal mortality ratio,Western,"Per 100,000 live births",01_o,125.0
+Year,SERIES,Reference area,GeoCode,Value
+1990,Survey-based Maternal mortality ratio [3.1.1],,,760.0
+2007,Survey-based Maternal mortality ratio [3.1.1],,,580.0
+2017,Survey-based Maternal mortality ratio [3.1.1],,,310.0
+2010,Census-based Maternal mortality ratio [3.1.1],,,485.0
+2021,Census-based Maternal mortality ratio [3.1.1],,,301.0
+2007,Institutional maternal mortality ratio,,,224.0
+2008,Institutional maternal mortality ratio,,,200.0
+2009,Institutional maternal mortality ratio,,,170.0
+2010,Institutional maternal mortality ratio,,,163.0
+2011,Institutional maternal mortality ratio,,,195.0
+2012,Institutional maternal mortality ratio,,,152.0
+2013,Institutional maternal mortality ratio,,,155.0
+2014,Institutional maternal mortality ratio,,,144.0
+2015,Institutional maternal mortality ratio,,,142.0
+2016,Institutional maternal mortality ratio,,,152.0
+2017,Institutional maternal mortality ratio,,,147.0
+2008,Institutional maternal mortality ratio,Ashanti,06_o,253.0
+2009,Institutional maternal mortality ratio,Ashanti,06_o,215.0
+2010,Institutional maternal mortality ratio,Ashanti,06_o,150.0
+2011,Institutional maternal mortality ratio,Ashanti,06_o,232.0
+2012,Institutional maternal mortality ratio,Ashanti,06_o,77.0
+2013,Institutional maternal mortality ratio,Ashanti,06_o,125.0
+2014,Institutional maternal mortality ratio,Ashanti,06_o,115.0
+2015,Institutional maternal mortality ratio,Ashanti,06_o,136.0
+2008,Institutional maternal mortality ratio,Brong Ahafo,07_o,185.0
+2009,Institutional maternal mortality ratio,Brong Ahafo,07_o,194.0
+2010,Institutional maternal mortality ratio,Brong Ahafo,07_o,139.0
+2011,Institutional maternal mortality ratio,Brong Ahafo,07_o,208.0
+2012,Institutional maternal mortality ratio,Brong Ahafo,07_o,167.0
+2013,Institutional maternal mortality ratio,Brong Ahafo,07_o,139.0
+2014,Institutional maternal mortality ratio,Brong Ahafo,07_o,135.0
+2015,Institutional maternal mortality ratio,Brong Ahafo,07_o,131.0
+2008,Institutional maternal mortality ratio,Central,02_o,223.0
+2009,Institutional maternal mortality ratio,Central,02_o,129.0
+2010,Institutional maternal mortality ratio,Central,02_o,149.0
+2011,Institutional maternal mortality ratio,Central,02_o,141.0
+2012,Institutional maternal mortality ratio,Central,02_o,113.0
+2013,Institutional maternal mortality ratio,Central,02_o,122.0
+2014,Institutional maternal mortality ratio,Central,02_o,105.0
+2015,Institutional maternal mortality ratio,Central,02_o,108.0
+2008,Institutional maternal mortality ratio,Eastern,05_o,171.0
+2009,Institutional maternal mortality ratio,Eastern,05_o,136.0
+2010,Institutional maternal mortality ratio,Eastern,05_o,192.0
+2011,Institutional maternal mortality ratio,Eastern,05_o,207.0
+2012,Institutional maternal mortality ratio,Eastern,05_o,179.0
+2013,Institutional maternal mortality ratio,Eastern,05_o,200.0
+2014,Institutional maternal mortality ratio,Eastern,05_o,176.0
+2015,Institutional maternal mortality ratio,Eastern,05_o,176.0
+2008,Institutional maternal mortality ratio,Greater Accra,03_o,194.0
+2009,Institutional maternal mortality ratio,Greater Accra,03_o,197.0
+2010,Institutional maternal mortality ratio,Greater Accra,03_o,182.0
+2011,Institutional maternal mortality ratio,Greater Accra,03_o,256.0
+2012,Institutional maternal mortality ratio,Greater Accra,03_o,201.0
+2013,Institutional maternal mortality ratio,Greater Accra,03_o,197.0
+2014,Institutional maternal mortality ratio,Greater Accra,03_o,185.0
+2015,Institutional maternal mortality ratio,Greater Accra,03_o,177.0
+2008,Institutional maternal mortality ratio,Northern,08_o,176.0
+2009,Institutional maternal mortality ratio,Northern,08_o,147.0
+2010,Institutional maternal mortality ratio,Northern,08_o,137.0
+2011,Institutional maternal mortality ratio,Northern,08_o,165.0
+2012,Institutional maternal mortality ratio,Northern,08_o,212.0
+2013,Institutional maternal mortality ratio,Northern,08_o,174.0
+2014,Institutional maternal mortality ratio,Northern,08_o,108.0
+2015,Institutional maternal mortality ratio,Northern,08_o,144.0
+2008,Institutional maternal mortality ratio,Upper East,09_o,152.0
+2009,Institutional maternal mortality ratio,Upper East,09_o,131.0
+2010,Institutional maternal mortality ratio,Upper East,09_o,138.0
+2011,Institutional maternal mortality ratio,Upper East,09_o,120.0
+2012,Institutional maternal mortality ratio,Upper East,09_o,136.0
+2013,Institutional maternal mortality ratio,Upper East,09_o,108.0
+2014,Institutional maternal mortality ratio,Upper East,09_o,139.0
+2015,Institutional maternal mortality ratio,Upper East,09_o,89.7
+2008,Institutional maternal mortality ratio,Upper West,10_o,121.0
+2009,Institutional maternal mortality ratio,Upper West,10_o,267.0
+2010,Institutional maternal mortality ratio,Upper West,10_o,158.0
+2011,Institutional maternal mortality ratio,Upper West,10_o,202.0
+2012,Institutional maternal mortality ratio,Upper West,10_o,146.0
+2013,Institutional maternal mortality ratio,Upper West,10_o,193.0
+2014,Institutional maternal mortality ratio,Upper West,10_o,161.0
+2015,Institutional maternal mortality ratio,Upper West,10_o,156.0
+2008,Institutional maternal mortality ratio,Volta,04_o,145.0
+2009,Institutional maternal mortality ratio,Volta,04_o,146.0
+2010,Institutional maternal mortality ratio,Volta,04_o,210.0
+2011,Institutional maternal mortality ratio,Volta,04_o,201.0
+2012,Institutional maternal mortality ratio,Volta,04_o,175.0
+2013,Institutional maternal mortality ratio,Volta,04_o,161.0
+2014,Institutional maternal mortality ratio,Volta,04_o,179.0
+2015,Institutional maternal mortality ratio,Volta,04_o,134.0
+2008,Institutional maternal mortality ratio,Western,01_o,270.0
+2009,Institutional maternal mortality ratio,Western,01_o,148.0
+2010,Institutional maternal mortality ratio,Western,01_o,176.0
+2011,Institutional maternal mortality ratio,Western,01_o,114.0
+2012,Institutional maternal mortality ratio,Western,01_o,132.0
+2013,Institutional maternal mortality ratio,Western,01_o,153.0
+2014,Institutional maternal mortality ratio,Western,01_o,150.0
+2015,Institutional maternal mortality ratio,Western,01_o,125.0

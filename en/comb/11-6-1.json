@@ -1,1 +1,1 @@
-{"data":{"Year":["2019","2018","2017"],"Observation status":["Normal value","Normal value","Normal value"],"Unit multiplier":["Units","Units","Units"],"SERIES":["Proportion of urban solid waste regularly collected","Proportion of urban solid waste regularly collected","Proportion of urban solid waste regularly collected"],"Reference area":[null,null,null],"UNIT_MEASURE":["Percent","Percent","Percent"],"GeoCode":[null,null,null],"Value":[80,80,70]},"edges":[]}
+{"data":{"Year":["2019","2018","2017"],"Value":[80,80,70]},"edges":[]}

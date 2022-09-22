@@ -1,13 +1,13 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Urban,No facility (bush/beach/field),Percent,,5.9
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Rural,No facility (bush/beach/field),Percent,,29.0
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Urban,Water Closet (WC),Percent,,28.6
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Rural,Water Closet (WC),Percent,,4.5
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Urban,Pit Latrine,Percent,,13.6
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Rural,Pit Latrine,Percent,,27.2
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Urban,Kumasi Ventilated Improved Pit (KVIP),Percent,,15.4
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Rural,Kumasi Ventilated Improved Pit (KVIP),Percent,,11.9
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Urban,Bucket/Pan,Percent,,0.4
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Rural,Bucket/Pan,Percent,,0.2
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Urban,Public Toilet,Percent,,36.2
-2017,Normal value,Units,Type of toilet facility used by households by locality type,,Rural,Public Toilet,Percent,,27.2
+Year,Degree of urbanisation,COMPOSITE_BREAKDOWN,Value
+2017,Urban,No facility (bush/beach/field),5.9
+2017,Rural,No facility (bush/beach/field),29.0
+2017,Urban,Water Closet (WC),28.6
+2017,Rural,Water Closet (WC),4.5
+2017,Urban,Pit Latrine,13.6
+2017,Rural,Pit Latrine,27.2
+2017,Urban,Kumasi Ventilated Improved Pit (KVIP),15.4
+2017,Rural,Kumasi Ventilated Improved Pit (KVIP),11.9
+2017,Urban,Bucket/Pan,0.4
+2017,Rural,Bucket/Pan,0.2
+2017,Urban,Public Toilet,36.2
+2017,Rural,Public Toilet,27.2

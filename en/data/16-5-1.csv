@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,Top three perceived corrupt institutions(16.5.1),,Police,Percent,,64
-2015,Normal value,Units,Top three perceived corrupt institutions(16.5.1),,Government Officials,Percent,,53
-2015,Normal value,Units,Top three perceived corrupt institutions(16.5.1),,Judges ad Magistrates,Percent,,49
-2019,Normal value,Units,Top three perceived corrupt institutions(16.5.1),,Police,Percent,,59
-2019,Normal value,Units,Top three perceived corrupt institutions(16.5.1),,Government Officials,Percent,,35
-2019,Normal value,Units,Top three perceived corrupt institutions(16.5.1),,Judges ad Magistrates,Percent,,38
+Year,COMPOSITE_BREAKDOWN,Value
+2015,Police,64
+2015,Government Officials,53
+2015,Judges ad Magistrates,49
+2019,Police,59
+2019,Government Officials,35
+2019,Judges ad Magistrates,38

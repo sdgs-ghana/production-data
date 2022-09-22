@@ -1,5 +1,5 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2016,0.25,,Normal value,Units,Percent,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]"
-2017,0.08,,Normal value,Units,Percent,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]"
-2018,2.57,,Normal value,Units,Percent,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]"
-2019,0.12,,Normal value,Units,Percent,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]"
+Year,Value
+2016,0.25
+2017,0.08
+2018,2.57
+2019,0.12

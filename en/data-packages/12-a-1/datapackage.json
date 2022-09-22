@@ -11,51 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
-          },
-          {
-            "name": "OBS_STATUS",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Normal value"
+                "Type of renewable technology: Geothermal energy",
+                "Type of renewable technology: Hydropower",
+                "Type of renewable technology: Multiple renewables"
               ]
             },
-            "title": "Observation status"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
+            "title": "Composite breakdown"
           },
           {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Units"
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "Value",

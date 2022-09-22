@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2011,22.7,,Normal value,Units,Percent,Proportion of children moderately or severely stunted [2.2.1]
-2014,18.8,,Normal value,Units,Percent,Proportion of children moderately or severely stunted [2.2.1]
-2017,17.5,,Normal value,Units,Percent,Proportion of children moderately or severely stunted [2.2.1]
+Year,Value
+2011,22.7
+2014,18.8
+2017,17.5

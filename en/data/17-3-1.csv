@@ -1,8 +1,8 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],,Percent,,20.0
-2016,Normal value,Units,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],,Percent,,26.0
-2017,Normal value,Units,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],,Percent,,32.0
-2018,Normal value,Units,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],,Percent,,24.0
-2015,Normal value,Units,Official Development Assistance (ODA) inflows as a percentage of national budget,,Percent,,18.9
-2016,Normal value,Units,Official Development Assistance (ODA) inflows as a percentage of national budget,,Percent,,12.2
-2017,Normal value,Units,Official Development Assistance (ODA) inflows as a percentage of national budget,,Percent,,10.2
+Year,SERIES,Value
+2015,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],20.0
+2016,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],26.0
+2017,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],32.0
+2018,Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1],24.0
+2015,Official Development Assistance (ODA) inflows as a percentage of national budget,18.9
+2016,Official Development Assistance (ODA) inflows as a percentage of national budget,12.2
+2017,Official Development Assistance (ODA) inflows as a percentage of national budget,10.2

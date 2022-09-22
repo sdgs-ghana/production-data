@@ -1,8 +1,8 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2012,Normal value,Units,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,10.54
-2013,Normal value,Units,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,11.24
-2014,Normal value,Units,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,8.08
-2015,Normal value,Units,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,7.62
-2016,Normal value,Units,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,4.41
-2017,Normal value,Units,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,7.19
-2018,Normal value,Units,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,7.95
+Year,Value
+2012,10.54
+2013,11.24
+2014,8.08
+2015,7.62
+2016,4.41
+2017,7.19
+2018,7.95

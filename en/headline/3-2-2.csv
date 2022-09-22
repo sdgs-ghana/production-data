@@ -1,5 +1,5 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2003,43,,Normal value,Units,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
-2008,30,,Normal value,Units,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
-2014,29,,Normal value,Units,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
-2017,27,,Normal value,Units,"Per 1,000 live births",Neonatal mortality rate [3.2.2]
+Year,Value
+2003,43
+2008,30
+2014,29
+2017,27

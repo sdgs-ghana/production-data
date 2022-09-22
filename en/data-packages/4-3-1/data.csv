@@ -1,108 +1,108 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Education level,Custom Breakdown,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2007,Normal value,Units,Enrolment for National Functional Literacy Programme (number of classes),,,,,,Number,,8500.0
-2007,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Male,,,,Number,,12164.0
-2007,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Female,,,,Number,,19204.0
-2007,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,,,,,Number,,31368.0
-2007,Normal value,Units,Enrolment for National Functional Literacy Programme (percentage girls),,Female,,,,Percent,,61.0
-2008,Normal value,Units,Enrolment for National Functional Literacy Programme (number of classes),,,,,,Number,,1600.0
-2008,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Male,,,,Number,,11573.0
-2008,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Female,,,,Number,,19612.0
-2008,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,,,,,Number,,31185.0
-2008,Normal value,Units,Enrolment for National Functional Literacy Programme (percentage girls),,Female,,,,Percent,,63.0
-2009,Normal value,Units,Enrolment for National Functional Literacy Programme (number of classes),,,,,,Number,,1600.0
-2009,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Male,,,,Number,,14813.0
-2009,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Female,,,,Number,,24041.0
-2009,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,,,,,Number,,38854.0
-2009,Normal value,Units,Enrolment for National Functional Literacy Programme (percentage girls),,Female,,,,Percent,,62.0
-2010,Normal value,Units,Enrolment for National Functional Literacy Programme (number of classes),,,,,,Number,,1600.0
-2010,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Male,,,,Number,,17224.0
-2010,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Female,,,,Number,,24796.0
-2010,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,,,,,Number,,42020.0
-2010,Normal value,Units,Enrolment for National Functional Literacy Programme (percentage girls),,Female,,,,Percent,,59.0
-2011,Normal value,Units,Enrolment for National Functional Literacy Programme (number of classes),,,,,,Number,,2000.0
-2011,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Male,,,,Number,,18904.0
-2011,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Female,,,,Number,,31777.0
-2011,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,,,,,Number,,50681.0
-2011,Normal value,Units,Enrolment for National Functional Literacy Programme (percentage girls),,Female,,,,Percent,,63.0
-2013,Normal value,Units,Enrolment for National Functional Literacy Programme (number of classes),,,,,,Number,,1886.0
-2013,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Male,,,,Number,,16195.0
-2013,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Female,,,,Number,,28535.0
-2013,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,,,,,Number,,44730.0
-2013,Normal value,Units,Enrolment for National Functional Literacy Programme (percentage girls),,Female,,,,Percent,,64.0
-2015,Normal value,Units,Enrolment for National Functional Literacy Programme (number of classes),,,,,,Number,,584.0
-2015,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Male,,,,Number,,5612.0
-2015,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,Female,,,,Number,,8417.0
-2015,Normal value,Units,Enrolment for National Functional Literacy Programme (number of students),,,,,,Number,,14029.0
-2015,Normal value,Units,Enrolment for National Functional Literacy Programme (percentage girls),,Female,,,,Percent,,60.0
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Public,Number,,155.0
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Public,Number,,164.0
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Public,Number,,115.0
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Public,Number,,129.0
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Private,Number,,29.0
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Private,Number,,32.0
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Private,Number,,62.0
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,Private,Number,,48.0
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,,Number,,184.0
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,,Number,,196.0
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,,Number,,177.0
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,,Upper secondary vocational education,,,Number,,177.0
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,,Upper secondary vocational education,,Private,Percent,,13.6
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,,Upper secondary vocational education,,Private,Percent,,13.6
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,,Upper secondary vocational education,,Private,Percent,,13.6
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,,Upper secondary vocational education,,Private,Percent,,27.1
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Male,Upper secondary vocational education,,,Number,,24464.0
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Male,Upper secondary vocational education,,,Number,,26092.0
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Male,Upper secondary vocational education,,,Number,,40362.0
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Male,Upper secondary vocational education,,,Number,,56258.0
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Female,Upper secondary vocational education,,,Number,,1360.0
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Female,Upper secondary vocational education,,,Number,,3185.0
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Female,Upper secondary vocational education,,,Number,,9056.0
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Female,Upper secondary vocational education,,,Number,,20512.0
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,,Upper secondary vocational education,,,Number,,25824.0
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,,Upper secondary vocational education,,,Number,,29277.0
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,,Upper secondary vocational education,,,Number,,49418.0
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,,Upper secondary vocational education,,,Number,,76770.0
-2016,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),,Female,Upper secondary vocational education,,,Percent,,5.6
-2017,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),,Female,Upper secondary vocational education,,,Percent,,12.2
-2018,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),,Female,Upper secondary vocational education,,,Percent,,22.4
-2019,Normal value,Units,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),,Female,Upper secondary vocational education,,,Percent,,36.5
-2016,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,GES,Public,Number,,45.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,GES,Public,Number,,47.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,GES,Public,Number,,47.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,GES,Public,Number,,47.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,Other public,Public,Number,,64.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,Other public,Public,Number,,73.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,Other public,Public,Number,,68.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,Other public,Public,Number,,82.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Public,Number,,109.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Public,Number,,120.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Public,Number,,115.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Public,Number,,129.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Private,Number,,55.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Private,Number,,58.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Private,Number,,62.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,Private,Number,,48.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,,Number,,164.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,,Number,,178.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,,Number,,177.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (number of institutions),,,Vocational secondary education,,,Number,,177.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,GES,Public,Number,,38459.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,GES,Public,Number,,45215.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,GES,Public,Number,,49418.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,GES,Public,Number,,59583.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,Other public,Public,Number,,9897.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,Other public,Public,Number,,9217.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,Other public,Public,Number,,8328.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,Other public,Public,Number,,12701.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Public,Number,,48356.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Public,Number,,54432.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Public,Number,,57746.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Public,Number,,72284.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Private,Number,,4815.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Private,Number,,4678.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Private,Number,,5836.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,Private,Number,,4486.0
-2016,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,,Number,,53171.0
-2017,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,,Number,,59110.0
-2018,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,,Number,,63582.0
-2019,Normal value,Units,Number of Technical and Vocational Institutes (Enrolled students),,,Vocational secondary education,,,Number,,76770.0
+Year,SERIES,Sex,Education level,Custom Breakdown,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2007,Enrolment for National Functional Literacy Programme (number of classes),,,,,Number,8500.0
+2007,Enrolment for National Functional Literacy Programme (number of students),Male,,,,Number,12164.0
+2007,Enrolment for National Functional Literacy Programme (number of students),Female,,,,Number,19204.0
+2007,Enrolment for National Functional Literacy Programme (number of students),,,,,Number,31368.0
+2007,Enrolment for National Functional Literacy Programme (percentage girls),Female,,,,Percent,61.0
+2008,Enrolment for National Functional Literacy Programme (number of classes),,,,,Number,1600.0
+2008,Enrolment for National Functional Literacy Programme (number of students),Male,,,,Number,11573.0
+2008,Enrolment for National Functional Literacy Programme (number of students),Female,,,,Number,19612.0
+2008,Enrolment for National Functional Literacy Programme (number of students),,,,,Number,31185.0
+2008,Enrolment for National Functional Literacy Programme (percentage girls),Female,,,,Percent,63.0
+2009,Enrolment for National Functional Literacy Programme (number of classes),,,,,Number,1600.0
+2009,Enrolment for National Functional Literacy Programme (number of students),Male,,,,Number,14813.0
+2009,Enrolment for National Functional Literacy Programme (number of students),Female,,,,Number,24041.0
+2009,Enrolment for National Functional Literacy Programme (number of students),,,,,Number,38854.0
+2009,Enrolment for National Functional Literacy Programme (percentage girls),Female,,,,Percent,62.0
+2010,Enrolment for National Functional Literacy Programme (number of classes),,,,,Number,1600.0
+2010,Enrolment for National Functional Literacy Programme (number of students),Male,,,,Number,17224.0
+2010,Enrolment for National Functional Literacy Programme (number of students),Female,,,,Number,24796.0
+2010,Enrolment for National Functional Literacy Programme (number of students),,,,,Number,42020.0
+2010,Enrolment for National Functional Literacy Programme (percentage girls),Female,,,,Percent,59.0
+2011,Enrolment for National Functional Literacy Programme (number of classes),,,,,Number,2000.0
+2011,Enrolment for National Functional Literacy Programme (number of students),Male,,,,Number,18904.0
+2011,Enrolment for National Functional Literacy Programme (number of students),Female,,,,Number,31777.0
+2011,Enrolment for National Functional Literacy Programme (number of students),,,,,Number,50681.0
+2011,Enrolment for National Functional Literacy Programme (percentage girls),Female,,,,Percent,63.0
+2013,Enrolment for National Functional Literacy Programme (number of classes),,,,,Number,1886.0
+2013,Enrolment for National Functional Literacy Programme (number of students),Male,,,,Number,16195.0
+2013,Enrolment for National Functional Literacy Programme (number of students),Female,,,,Number,28535.0
+2013,Enrolment for National Functional Literacy Programme (number of students),,,,,Number,44730.0
+2013,Enrolment for National Functional Literacy Programme (percentage girls),Female,,,,Percent,64.0
+2015,Enrolment for National Functional Literacy Programme (number of classes),,,,,Number,584.0
+2015,Enrolment for National Functional Literacy Programme (number of students),Male,,,,Number,5612.0
+2015,Enrolment for National Functional Literacy Programme (number of students),Female,,,,Number,8417.0
+2015,Enrolment for National Functional Literacy Programme (number of students),,,,,Number,14029.0
+2015,Enrolment for National Functional Literacy Programme (percentage girls),Female,,,,Percent,60.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Public,Number,155.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Public,Number,164.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Public,Number,115.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Public,Number,129.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Private,Number,29.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Private,Number,32.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Private,Number,62.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,Private,Number,48.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,,Number,184.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,,Number,196.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,,Number,177.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (number of schools),,Upper secondary vocational education,,,Number,177.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,Upper secondary vocational education,,Private,Percent,13.6
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,Upper secondary vocational education,,Private,Percent,13.6
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,Upper secondary vocational education,,Private,Percent,13.6
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (Private Schools as share (%) of total enrolment),,Upper secondary vocational education,,Private,Percent,27.1
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Male,Upper secondary vocational education,,,Number,24464.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Male,Upper secondary vocational education,,,Number,26092.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Male,Upper secondary vocational education,,,Number,40362.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Male,Upper secondary vocational education,,,Number,56258.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Female,Upper secondary vocational education,,,Number,1360.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Female,Upper secondary vocational education,,,Number,3185.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Female,Upper secondary vocational education,,,Number,9056.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),Female,Upper secondary vocational education,,,Number,20512.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Upper secondary vocational education,,,Number,25824.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Upper secondary vocational education,,,Number,29277.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Upper secondary vocational education,,,Number,49418.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (number of students),,Upper secondary vocational education,,,Number,76770.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),Female,Upper secondary vocational education,,,Percent,5.6
+2017,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),Female,Upper secondary vocational education,,,Percent,12.2
+2018,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),Female,Upper secondary vocational education,,,Percent,22.4
+2019,Enrolment in TVET Programmes in Senior High Technical Schools (Girls' share in enrolment),Female,Upper secondary vocational education,,,Percent,36.5
+2016,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,GES,Public,Number,45.0
+2017,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,GES,Public,Number,47.0
+2018,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,GES,Public,Number,47.0
+2019,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,GES,Public,Number,47.0
+2016,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,Other public,Public,Number,64.0
+2017,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,Other public,Public,Number,73.0
+2018,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,Other public,Public,Number,68.0
+2019,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,Other public,Public,Number,82.0
+2016,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Public,Number,109.0
+2017,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Public,Number,120.0
+2018,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Public,Number,115.0
+2019,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Public,Number,129.0
+2016,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Private,Number,55.0
+2017,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Private,Number,58.0
+2018,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Private,Number,62.0
+2019,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,Private,Number,48.0
+2016,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,,Number,164.0
+2017,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,,Number,178.0
+2018,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,,Number,177.0
+2019,Number of Technical and Vocational Institutes (number of institutions),,Vocational secondary education,,,Number,177.0
+2016,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,GES,Public,Number,38459.0
+2017,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,GES,Public,Number,45215.0
+2018,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,GES,Public,Number,49418.0
+2019,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,GES,Public,Number,59583.0
+2016,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,Other public,Public,Number,9897.0
+2017,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,Other public,Public,Number,9217.0
+2018,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,Other public,Public,Number,8328.0
+2019,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,Other public,Public,Number,12701.0
+2016,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Public,Number,48356.0
+2017,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Public,Number,54432.0
+2018,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Public,Number,57746.0
+2019,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Public,Number,72284.0
+2016,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Private,Number,4815.0
+2017,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Private,Number,4678.0
+2018,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Private,Number,5836.0
+2019,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,Private,Number,4486.0
+2016,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,,Number,53171.0
+2017,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,,Number,59110.0
+2018,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,,Number,63582.0
+2019,Number of Technical and Vocational Institutes (Enrolled students),,Vocational secondary education,,,Number,76770.0

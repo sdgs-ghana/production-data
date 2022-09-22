@@ -1,46 +1,46 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2006,Normal value,Units,Proportion of individuals using the internet,,,,Percent,,1.5
-2013,Normal value,Units,Proportion of individuals using the internet,,,,Percent,,56.6
-2017,Normal value,Units,Proportion of individuals using the internet,,,,Percent,,98.9
-2006,Normal value,Units,Proportion of individuals using the internet,,,Rural,Percent,,0.1
-2013,Normal value,Units,Proportion of individuals using the internet,,,Rural,Percent,,42.1
-2017,Normal value,Units,Proportion of individuals using the internet,,,Rural,Percent,,97.9
-2006,Normal value,Units,Proportion of individuals using the internet,,,Urban,Percent,,3.9
-2013,Normal value,Units,Proportion of individuals using the internet,,,Urban,Percent,,59.3
-2017,Normal value,Units,Proportion of individuals using the internet,,,Urban,Percent,,98.4
-2006,Normal value,Units,Proportion of individuals using the internet,,Male,,Percent,,1.6
-2013,Normal value,Units,Proportion of individuals using the internet,,Male,,Percent,,58.7
-2017,Normal value,Units,Proportion of individuals using the internet,,Male,,Percent,,98.4
-2006,Normal value,Units,Proportion of individuals using the internet,,Female,,Percent,,1.5
-2013,Normal value,Units,Proportion of individuals using the internet,,Female,,Percent,,54.7
-2017,Normal value,Units,Proportion of individuals using the internet,,Female,,Percent,,98.0
-2006,Normal value,Units,Proportion of individuals using the internet,Western,,,Percent,01_o,0.6
-2013,Normal value,Units,Proportion of individuals using the internet,Western,,,Percent,01_o,84.8
-2017,Normal value,Units,Proportion of individuals using the internet,Western,,,Percent,01_o,97.4
-2006,Normal value,Units,Proportion of individuals using the internet,Central,,,Percent,02_o,1.1
-2013,Normal value,Units,Proportion of individuals using the internet,Central,,,Percent,02_o,46.0
-2017,Normal value,Units,Proportion of individuals using the internet,Central,,,Percent,02_o,98.2
-2006,Normal value,Units,Proportion of individuals using the internet,Greater Accra,,,Percent,03_o,6.9
-2013,Normal value,Units,Proportion of individuals using the internet,Greater Accra,,,Percent,03_o,73.0
-2017,Normal value,Units,Proportion of individuals using the internet,Greater Accra,,,Percent,03_o,98.6
-2006,Normal value,Units,Proportion of individuals using the internet,Volta,,,Percent,04_o,0.3
-2013,Normal value,Units,Proportion of individuals using the internet,Volta,,,Percent,04_o,43.3
-2017,Normal value,Units,Proportion of individuals using the internet,Volta,,,Percent,04_o,97.5
-2006,Normal value,Units,Proportion of individuals using the internet,Eastern,,,Percent,05_o,0.6
-2013,Normal value,Units,Proportion of individuals using the internet,Eastern,,,Percent,05_o,33.9
-2017,Normal value,Units,Proportion of individuals using the internet,Eastern,,,Percent,05_o,98.1
-2006,Normal value,Units,Proportion of individuals using the internet,Ashanti,,,Percent,06_o,0.8
-2013,Normal value,Units,Proportion of individuals using the internet,Ashanti,,,Percent,06_o,53.5
-2017,Normal value,Units,Proportion of individuals using the internet,Ashanti,,,Percent,06_o,99.0
-2006,Normal value,Units,Proportion of individuals using the internet,Brong Ahafo,,,Percent,07_o,0.8
-2013,Normal value,Units,Proportion of individuals using the internet,Brong Ahafo,,,Percent,07_o,39.3
-2017,Normal value,Units,Proportion of individuals using the internet,Brong Ahafo,,,Percent,07_o,98.3
-2006,Normal value,Units,Proportion of individuals using the internet,Northern,,,Percent,08_o,0.9
-2013,Normal value,Units,Proportion of individuals using the internet,Northern,,,Percent,08_o,62.1
-2017,Normal value,Units,Proportion of individuals using the internet,Northern,,,Percent,08_o,97.1
-2006,Normal value,Units,Proportion of individuals using the internet,Upper East,,,Percent,09_o,0.1
-2013,Normal value,Units,Proportion of individuals using the internet,Upper East,,,Percent,09_o,21.9
-2017,Normal value,Units,Proportion of individuals using the internet,Upper East,,,Percent,09_o,98.2
-2006,Normal value,Units,Proportion of individuals using the internet,Upper West,,,Percent,10_o,0.0
-2013,Normal value,Units,Proportion of individuals using the internet,Upper West,,,Percent,10_o,73.1
-2017,Normal value,Units,Proportion of individuals using the internet,Upper West,,,Percent,10_o,98.5
+Year,Reference area,Sex,Degree of urbanisation,GeoCode,Value
+2006,,,,,1.5
+2013,,,,,56.6
+2017,,,,,98.9
+2006,,,Rural,,0.1
+2013,,,Rural,,42.1
+2017,,,Rural,,97.9
+2006,,,Urban,,3.9
+2013,,,Urban,,59.3
+2017,,,Urban,,98.4
+2006,,Male,,,1.6
+2013,,Male,,,58.7
+2017,,Male,,,98.4
+2006,,Female,,,1.5
+2013,,Female,,,54.7
+2017,,Female,,,98.0
+2006,Western,,,01_o,0.6
+2013,Western,,,01_o,84.8
+2017,Western,,,01_o,97.4
+2006,Central,,,02_o,1.1
+2013,Central,,,02_o,46.0
+2017,Central,,,02_o,98.2
+2006,Greater Accra,,,03_o,6.9
+2013,Greater Accra,,,03_o,73.0
+2017,Greater Accra,,,03_o,98.6
+2006,Volta,,,04_o,0.3
+2013,Volta,,,04_o,43.3
+2017,Volta,,,04_o,97.5
+2006,Eastern,,,05_o,0.6
+2013,Eastern,,,05_o,33.9
+2017,Eastern,,,05_o,98.1
+2006,Ashanti,,,06_o,0.8
+2013,Ashanti,,,06_o,53.5
+2017,Ashanti,,,06_o,99.0
+2006,Brong Ahafo,,,07_o,0.8
+2013,Brong Ahafo,,,07_o,39.3
+2017,Brong Ahafo,,,07_o,98.3
+2006,Northern,,,08_o,0.9
+2013,Northern,,,08_o,62.1
+2017,Northern,,,08_o,97.1
+2006,Upper East,,,09_o,0.1
+2013,Upper East,,,09_o,21.9
+2017,Upper East,,,09_o,98.2
+2006,Upper West,,,10_o,0.0
+2013,Upper West,,,10_o,73.1
+2017,Upper West,,,10_o,98.5

@@ -1,11 +1,6 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
 _L_GH_Y_GE11,11 years old and over,4,1
 Y0T17,under 18 years old,8,1
-Y0T4,under 5 years old,1,1
-Y15T19,15 to 19 years old,1,1
-Y15T24,15 to 24 years old,6,2
-Y15T49,15 to 49 years old,3,1
-Y20T24,20 to 24 years old,2,1
-Y5T17,5 to 17 years old,10,1
-Y_GE15,15 years old and over,5,2
+Y15T24,15 to 24 years old,3,1
+Y_GE15,15 years old and over,4,1
 Y_GE6,6 years old and over,4,1

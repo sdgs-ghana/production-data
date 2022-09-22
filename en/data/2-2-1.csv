@@ -1,21 +1,21 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation-level footnotes,GeoCode,Value
-2011,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,,22.7
-2011,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,,,18.1
-2011,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,,,2.6
-2011,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,,,25.3
-2011,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,,,20.3
-2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,,18.8
-2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,,,14.8
-2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,,,22.1
-2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,,,20.4
-2014,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,,,17.0
-2017,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,,17.5
-2017,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,,,13.0
-2017,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,,,20.3
-2017,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,,,19.5
-2017,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,,,15.6
-2025,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,projection,,10.1
-2025,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,projection,,7.9
-2025,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,projection,,11.9
-2025,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,projection,,11.1
-2025,Normal value,Units,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,projection,,9.0
+Year,Sex,Degree of urbanisation,Observation-level footnotes,Value
+2011,,,,22.7
+2011,,Urban,,18.1
+2011,,Rural,,2.6
+2011,Male,,,25.3
+2011,Female,,,20.3
+2014,,,,18.8
+2014,,Urban,,14.8
+2014,,Rural,,22.1
+2014,Male,,,20.4
+2014,Female,,,17.0
+2017,,,,17.5
+2017,,Urban,,13.0
+2017,,Rural,,20.3
+2017,Male,,,19.5
+2017,Female,,,15.6
+2025,,,projection,10.1
+2025,,Urban,projection,7.9
+2025,,Rural,projection,11.9
+2025,Male,,projection,11.1
+2025,Female,,projection,9.0

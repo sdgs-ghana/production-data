@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2019,80,,Normal value,Units,Percent,Proportion of urban solid waste regularly collected
-2018,80,,Normal value,Units,Percent,Proportion of urban solid waste regularly collected
-2017,70,,Normal value,Units,Percent,Proportion of urban solid waste regularly collected
+Year,Value
+2019,80
+2018,80
+2017,70

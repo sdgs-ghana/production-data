@@ -1,6 +1,6 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2017,0.05,,Normal value,Units,Percent,Research and development expenditure as a proportion of GDP [9.5.1]
-2018,0.08,,Normal value,Units,Percent,Research and development expenditure as a proportion of GDP [9.5.1]
-2019,0.08,,Normal value,Units,Percent,Research and development expenditure as a proportion of GDP [9.5.1]
-2020,0.15,,Normal value,Units,Percent,Research and development expenditure as a proportion of GDP [9.5.1]
-2021,0.12,,Normal value,Units,Percent,Research and development expenditure as a proportion of GDP [9.5.1]
+Year,Value
+2017,0.05
+2018,0.08
+2019,0.08
+2020,0.15
+2021,0.12

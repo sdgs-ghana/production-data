@@ -1,6 +1,6 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2016,49.4,,Normal value,Units,"Per 1,000 population",Tuberculosis incidence [3.3.2]
-2017,47.5,,Normal value,Units,"Per 1,000 population",Tuberculosis incidence [3.3.2]
-2018,46.3,,Normal value,Units,"Per 1,000 population",Tuberculosis incidence [3.3.2]
-2019,48.5,,Normal value,Units,"Per 1,000 population",Tuberculosis incidence [3.3.2]
-2020,40.2,,Normal value,Units,"Per 1,000 population",Tuberculosis incidence [3.3.2]
+Year,Value
+2016,49.4
+2017,47.5
+2018,46.3
+2019,48.5
+2020,40.2

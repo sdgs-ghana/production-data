@@ -1,13 +1,13 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Age,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,6 years old and over,Rural,Skill: Functional literacy,Percent,,50.2
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,11 years old and over,Rural,Skill: Functional literacy,Percent,,53.0
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 years old and over,Rural,Skill: Functional literacy,Percent,,51.0
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,6 years old and over,Rural,Skill: Functional literacy,Percent,,60.2
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,11 years old and over,Rural,Skill: Functional literacy,Percent,,65.5
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 years old and over,Rural,Skill: Functional literacy,Percent,,65.8
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,6 years old and over,Urban,Skill: Functional literacy,Percent,,76.7
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,11 years old and over,Urban,Skill: Functional literacy,Percent,,78.0
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 years old and over,Urban,Skill: Functional literacy,Percent,,76.7
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,6 years old and over,Urban,Skill: Functional literacy,Percent,,84.7
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,11 years old and over,Urban,Skill: Functional literacy,Percent,,87.5
-2021,Normal value,Units,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 years old and over,Urban,Skill: Functional literacy,Percent,,87.4
+Year,Sex,Age,Degree of urbanisation,Value
+2021,Female,6 years old and over,Rural,50.2
+2021,Female,11 years old and over,Rural,53.0
+2021,Female,15 years old and over,Rural,51.0
+2021,Male,6 years old and over,Rural,60.2
+2021,Male,11 years old and over,Rural,65.5
+2021,Male,15 years old and over,Rural,65.8
+2021,Female,6 years old and over,Urban,76.7
+2021,Female,11 years old and over,Urban,78.0
+2021,Female,15 years old and over,Urban,76.7
+2021,Male,6 years old and over,Urban,84.7
+2021,Male,11 years old and over,Urban,87.5
+2021,Male,15 years old and over,Urban,87.4

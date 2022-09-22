@@ -1,1 +1,1 @@
-[{"Year":"2013","Value":12.5,"GeoCode":null,"Observation status":"Normal value","Unit multiplier":"Units","UNIT_MEASURE":"Percent","SERIES":"Expenditure share of the bottom 40 percent of the population"},{"Year":"2017","Value":22.0,"GeoCode":null,"Observation status":"Normal value","Unit multiplier":"Units","UNIT_MEASURE":"Percent","SERIES":"Expenditure share of the bottom 40 percent of the population"}]
+[{"Year":"2013","Value":12.5},{"Year":"2017","Value":22.0}]

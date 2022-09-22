@@ -1,6 +1,6 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2017,0.79,,Normal value,Units,Percent,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
-2018,1.45,,Normal value,Units,Percent,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
-2019,1.42,,Normal value,Units,Percent,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
-2020,1.91,,Normal value,Units,Percent,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
-2021,3.64,,Normal value,Units,Percent,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
+Year,Value,SERIES
+2017,0.79,"Installed renewable�electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
+2018,1.45,"Installed renewable�electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
+2019,1.42,"Installed renewable�electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
+2020,1.91,"Installed renewable�electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"
+2021,3.64,"Installed renewable�electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]"

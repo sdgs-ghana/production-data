@@ -1,5 +1,5 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2020,152134672,,Normal value,Units,Square kilometers,Plastic debris density [14.1.1(b)]
-2019,179760103,,Normal value,Units,Square kilometers,Plastic debris density [14.1.1(b)]
-2017,56875108,,Normal value,Units,Square kilometers,Plastic debris density [14.1.1(b)]
-2016,33579283,,Normal value,Units,Square kilometers,Plastic debris density [14.1.1(b)]
+Year,Value
+2020,152134672
+2019,179760103
+2017,56875108
+2016,33579283

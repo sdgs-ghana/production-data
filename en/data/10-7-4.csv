@@ -1,21 +1,21 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,,Percent,,39.1
-2017,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,COTE D'IVOIRE,Percent,,23.1
-2017,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,TOGO,Percent,,11.8
-2017,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,LIBERIA,Percent,,4.2
-2018,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,,Percent,,36.3
-2018,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,COTE D'IVOIRE,Percent,,22.2
-2018,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,TOGO,Percent,,11.6
-2018,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,LIBERIA,Percent,,2.5
-2019,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,,Percent,,35.4
-2019,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,COTE D'IVOIRE,Percent,,21.5
-2019,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,TOGO,Percent,,11.4
-2019,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,LIBERIA,Percent,,2.4
-2020,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,,Percent,,34.2
-2020,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,COTE D'IVOIRE,Percent,,20.7
-2020,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,TOGO,Percent,,11.2
-2020,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,LIBERIA,Percent,,2.2
-2021,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,,Percent,,34.2
-2021,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,COTE D'IVOIRE,Percent,,20.8
-2021,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,TOGO,Percent,,11.2
-2021,Normal value,Units,"Proportion of the population who are refugees, by country of origin [10.7.4]",,LIBERIA,Percent,,2.2
+Year,COMPOSITE_BREAKDOWN,Value
+2017,,39.1
+2017,COTE D'IVOIRE,23.1
+2017,TOGO,11.8
+2017,LIBERIA,4.2
+2018,,36.3
+2018,COTE D'IVOIRE,22.2
+2018,TOGO,11.6
+2018,LIBERIA,2.5
+2019,,35.4
+2019,COTE D'IVOIRE,21.5
+2019,TOGO,11.4
+2019,LIBERIA,2.4
+2020,,34.2
+2020,COTE D'IVOIRE,20.7
+2020,TOGO,11.2
+2020,LIBERIA,2.2
+2021,,34.2
+2021,COTE D'IVOIRE,20.8
+2021,TOGO,11.2
+2021,LIBERIA,2.2

@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2013,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,,Percent,,66.8
-2017,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,,Percent,,82.5
-2013,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,Female,,Percent,,62.7
-2017,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,Female,,Percent,,79.8
-2013,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,Male,,Percent,,68.5
-2017,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,Male,,Percent,,83.9
-2013,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,Rural,Percent,,74.3
-2017,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,Rural,Percent,,87.6
-2013,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,Urban,Percent,,60.7
-2017,Normal value,Units,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,Urban,Percent,,78.5
+Year,Sex,Degree of urbanisation,Value
+2013,,,66.8
+2017,,,82.5
+2013,Female,,62.7
+2017,Female,,79.8
+2013,Male,,68.5
+2017,Male,,83.9
+2013,,Rural,74.3
+2017,,Rural,87.6
+2013,,Urban,60.7
+2017,,Urban,78.5

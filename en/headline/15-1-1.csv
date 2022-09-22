@@ -1,8 +1,8 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2012,38.7,,Normal value,Units,Percent,Forest area as a proportion of total land area [15.1.1]
-2013,38.7,,Normal value,Units,Percent,Forest area as a proportion of total land area [15.1.1]
-2014,38.8,,Normal value,Units,Percent,Forest area as a proportion of total land area [15.1.1]
-2015,39.0,,Normal value,Units,Percent,Forest area as a proportion of total land area [15.1.1]
-2016,39.0,,Normal value,Units,Percent,Forest area as a proportion of total land area [15.1.1]
-2017,41.0,,Normal value,Units,Percent,Forest area as a proportion of total land area [15.1.1]
-2018,42.9,,Normal value,Units,Percent,Forest area as a proportion of total land area [15.1.1]
+Year,Value
+2012,38.7
+2013,38.7
+2014,38.8
+2015,39.0
+2016,39.0
+2017,41.0
+2018,42.9

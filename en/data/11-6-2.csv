@@ -1,3 +1,3 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,"Annual mean levels of fine particulate matter in cities, urban population [11.6.2]",Greater Accra,Micrograms per cubic meter,03_o,266
-2017,Normal value,Units,"Annual mean levels of fine particulate matter in cities, urban population [11.6.2]",Greater Accra,Micrograms per cubic meter,03_o,265
+Year,Value
+2016,266
+2017,265

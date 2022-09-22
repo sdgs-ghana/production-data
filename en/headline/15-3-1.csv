@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2016,31,,Normal value,Units,Percent,Percentage of degraded areas within forest areas under protection
-2017,31,,Normal value,Units,Percent,Percentage of degraded areas within forest areas under protection
-2018,37,,Normal value,Units,Percent,Percentage of degraded areas within forest areas under protection
+Year,Value
+2016,31
+2017,31
+2018,37

@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2014,495.47,,Normal value,Units,Ghana Cedi,Average hourly earnings [8.5.1]
-2015,898.65,,Normal value,Units,Ghana Cedi,Average hourly earnings [8.5.1]
-2017,972.0,,Normal value,Units,Ghana Cedi,Average hourly earnings [8.5.1]
+Year,Value
+2014,495.47
+2015,898.65
+2017,972.0
