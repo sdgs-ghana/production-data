@@ -1,0 +1,78 @@
+Value,en,Disaggregation combinations using this value,Number of indicators
+_L_GH_AGRIC,Agriculture,1,1
+_L_GH_AGRICFOREST,"Agriculture, Forestry, and Other Land Use",1,1
+_L_GH_BASIC_SERVICE,Basic Service,3,1
+_L_GH_BOTTLED_WATER,Bottled Water,1,1
+_L_GH_BUCKET,Bucket/Pan,2,1
+_L_GH_CHILDRIGHTS,Children Rights,1,1
+_L_GH_CIVPOLRIGHTS,Civil and Political Rights,1,1
+_L_GH_CURSE,Curse,1,1
+_L_GH_DEFILE,Defilement,1,1
+_L_GH_DEVELOPMENT,DEVELOPMENT,1,1
+_L_GH_DISCRIMINATED,Discriminated against,11,1
+_L_GH_DP,Development Partner,9,1
+_L_GH_ECOSOCCULRIGHTS,"Economic, Social and Cultural Rights",1,1
+_L_GH_ENERGY,Energy,1,1
+_L_GH_ENGLISH,English,9,1
+_L_GH_GOG,Government of Ghana,9,1
+_L_GH_GOVOFF,Government Officials,1,1
+_L_GH_ground,Thrown into the ground/street/outside,3,1
+_L_GH_gutter,Flows or thrown into drains/gutter,3,1
+_L_GH_HEALTH,HEALTH,1,1
+_L_GH_HOUSING,HOUSING,1,1
+_L_GH_ICT,ICT,1,1
+_L_GH_IGF,Internally Generated Funds,9,1
+_L_GH_INDUPRO,Industrial Processes and Product Use,1,1
+_L_GH_INDUSTRY,Industry,1,1
+_L_GH_JUGMAG,Judges ad Magistrates,1,1
+_L_GH_KVIP,Kumasi Ventilated Improved Pit (KVIP),2,1
+_L_GH_LIMITED_SERVICE,Limited Service,3,1
+_L_GH_NE_W_FOLU,National Emissions with FOLU,1,1
+_L_GH_NE_WO_FOLU,National Emissions without FOLU,1,1
+_L_GH_NO_CARE,No Care,2,1
+_L_GH_NO_FACILITY,No facility (bush/beach/field),2,1
+_L_GH_NOT_DISCRIMINATED,Not Discriminated against,11,1
+_L_GH_NUTRITION,NUTRITION,1,1
+_L_GH_OTHER_FUNDS,Other Fund,9,1
+_L_GH_PIPE_BORNE,Pipe-borne,1,1
+_L_GH_PIT_LATRINE,Pit Latrine,2,1
+_L_GH_POLICE,Police,1,1
+_L_GH_PRIVATE,Private,19,3
+_L_GH_PRORIGHTS,Property Rights,1,1
+_L_GH_PROTECTION,PROTECTION,1,1
+_L_GH_PUBLIC,Public,22,3
+_L_GH_PUBLIC_TOILET,Public Toilet,2,1
+_L_GH_RAPE_SED,Rape/Seduction,1,1
+_L_GH_SACHET_WATER,Satchet Water,1,1
+_L_GH_SAFELY_MANAGED,Safely Managed,3,1
+_L_GH_SANITATION,SANITATION,1,1
+_L_GH_SERVICES,Services,1,1
+_L_GH_Sewerage,Through the sewerage system,3,1
+_L_GH_SEX_HER,Sexual Harassment,1,1
+_L_GH_SKILLED_CARE,Skilled Care,2,1
+_L_GH_Soakaway,Through drainage into a pit (soakaway),3,1
+_L_GH_STATUTORY,Statutory,9,1
+_L_GH_SURFACE_WATER,Surface Water,3,1
+_L_GH_TANKER,Tanker/Vendor,1,1
+_L_GH_TotHuRiCom,Total Human Rights Complaints,1,1
+_L_GH_TotRes,Total Resolved,1,1
+_L_GH_UNIMPROVED,Unimproved,3,1
+_L_GH_UNSKILLED_CARE,Unskilled Care,2,1
+_L_GH_VERB_ASS,Verbal assault,1,1
+_L_GH_WASTE,Waste,1,1
+_L_GH_WATER,WATER,1,1
+_L_GH_WC,Water Closet (WC),2,1
+_L_GH_WELL,Well,1,1
+_L_GH_WORIGHTS,Women Rights,1,1
+_NATURAL_SOURCE,Natural Source,1,1
+CI,COTE D'IVOIRE,1,1
+LR,LIBERIA,1,1
+MOT_AIR,Mode of Transport: Air,3,1
+MOT_IWW,Mode of transport: Inland waterway transport,2,1
+MOT_RAI,Mode of Transport: Rail,2,1
+MOT_SEA,Mode of Transport: Maritime,2,1
+SKILL_LTRCY,Skill: Functional literacy,21,2
+SKILL_MATH,Skill: Mathematics,9,1
+SKILL_NMRCY,Skill: Functional numeracy,18,1
+SKILL_READ,Skill: Reading,9,1
+TG,TOGO,1,1

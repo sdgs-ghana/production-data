@@ -1,0 +1,675 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: COMPOSITE_BREAKDOWN - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+            </style>
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: COMPOSITE_BREAKDOWN</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--composite_breakdown.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--composite_breakdown">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--composite_breakdown" class="download-info">Size: 2.9 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">77</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>en</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_agric.html">_L_GH_AGRIC</a></td>
+      <td>Agriculture</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_agricforest.html">_L_GH_AGRICFOREST</a></td>
+      <td>Agriculture, Forestry, and Other Land Use</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_basic_service.html">_L_GH_BASIC_SERVICE</a></td>
+      <td>Basic Service</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_bottled_water.html">_L_GH_BOTTLED_WATER</a></td>
+      <td>Bottled Water</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_bucket.html">_L_GH_BUCKET</a></td>
+      <td>Bucket/Pan</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_childrights.html">_L_GH_CHILDRIGHTS</a></td>
+      <td>Children Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_civpolrights.html">_L_GH_CIVPOLRIGHTS</a></td>
+      <td>Civil and Political Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_curse.html">_L_GH_CURSE</a></td>
+      <td>Curse</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_defile.html">_L_GH_DEFILE</a></td>
+      <td>Defilement</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_development.html">_L_GH_DEVELOPMENT</a></td>
+      <td>DEVELOPMENT</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_discriminated.html">_L_GH_DISCRIMINATED</a></td>
+      <td>Discriminated against</td>
+      <td>11</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_dp.html">_L_GH_DP</a></td>
+      <td>Development Partner</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_ecosocculrights.html">_L_GH_ECOSOCCULRIGHTS</a></td>
+      <td>Economic, Social and Cultural Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_energy.html">_L_GH_ENERGY</a></td>
+      <td>Energy</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_english.html">_L_GH_ENGLISH</a></td>
+      <td>English</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_gog.html">_L_GH_GOG</a></td>
+      <td>Government of Ghana</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_govoff.html">_L_GH_GOVOFF</a></td>
+      <td>Government Officials</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_ground.html">_L_GH_ground</a></td>
+      <td>Thrown into the ground/street/outside</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_gutter.html">_L_GH_gutter</a></td>
+      <td>Flows or thrown into drains/gutter</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_health.html">_L_GH_HEALTH</a></td>
+      <td>HEALTH</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_housing.html">_L_GH_HOUSING</a></td>
+      <td>HOUSING</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_ict.html">_L_GH_ICT</a></td>
+      <td>ICT</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_igf.html">_L_GH_IGF</a></td>
+      <td>Internally Generated Funds</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_indupro.html">_L_GH_INDUPRO</a></td>
+      <td>Industrial Processes and Product Use</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_industry.html">_L_GH_INDUSTRY</a></td>
+      <td>Industry</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_jugmag.html">_L_GH_JUGMAG</a></td>
+      <td>Judges ad Magistrates</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_kvip.html">_L_GH_KVIP</a></td>
+      <td>Kumasi Ventilated Improved Pit (KVIP)</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_limited_service.html">_L_GH_LIMITED_SERVICE</a></td>
+      <td>Limited Service</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_ne_w_folu.html">_L_GH_NE_W_FOLU</a></td>
+      <td>National Emissions with FOLU</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_ne_wo_folu.html">_L_GH_NE_WO_FOLU</a></td>
+      <td>National Emissions without FOLU</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_no_care.html">_L_GH_NO_CARE</a></td>
+      <td>No Care</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_no_facility.html">_L_GH_NO_FACILITY</a></td>
+      <td>No facility (bush/beach/field)</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_not_discriminated.html">_L_GH_NOT_DISCRIMINATED</a></td>
+      <td>Not Discriminated against</td>
+      <td>11</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_nutrition.html">_L_GH_NUTRITION</a></td>
+      <td>NUTRITION</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_other_funds.html">_L_GH_OTHER_FUNDS</a></td>
+      <td>Other Fund</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_pipe_borne.html">_L_GH_PIPE_BORNE</a></td>
+      <td>Pipe-borne</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_pit_latrine.html">_L_GH_PIT_LATRINE</a></td>
+      <td>Pit Latrine</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_police.html">_L_GH_POLICE</a></td>
+      <td>Police</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_private.html">_L_GH_PRIVATE</a></td>
+      <td>Private</td>
+      <td>19</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_prorights.html">_L_GH_PRORIGHTS</a></td>
+      <td>Property Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_protection.html">_L_GH_PROTECTION</a></td>
+      <td>PROTECTION</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_public.html">_L_GH_PUBLIC</a></td>
+      <td>Public</td>
+      <td>22</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_public_toilet.html">_L_GH_PUBLIC_TOILET</a></td>
+      <td>Public Toilet</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_rape_sed.html">_L_GH_RAPE_SED</a></td>
+      <td>Rape/Seduction</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_sachet_water.html">_L_GH_SACHET_WATER</a></td>
+      <td>Satchet Water</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_safely_managed.html">_L_GH_SAFELY_MANAGED</a></td>
+      <td>Safely Managed</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_sanitation.html">_L_GH_SANITATION</a></td>
+      <td>SANITATION</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_services.html">_L_GH_SERVICES</a></td>
+      <td>Services</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_sewerage.html">_L_GH_Sewerage</a></td>
+      <td>Through the sewerage system</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_sex_her.html">_L_GH_SEX_HER</a></td>
+      <td>Sexual Harassment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_skilled_care.html">_L_GH_SKILLED_CARE</a></td>
+      <td>Skilled Care</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_soakaway.html">_L_GH_Soakaway</a></td>
+      <td>Through drainage into a pit (soakaway)</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_statutory.html">_L_GH_STATUTORY</a></td>
+      <td>Statutory</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_surface_water.html">_L_GH_SURFACE_WATER</a></td>
+      <td>Surface Water</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_tanker.html">_L_GH_TANKER</a></td>
+      <td>Tanker/Vendor</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_tothuricom.html">_L_GH_TotHuRiCom</a></td>
+      <td>Total Human Rights Complaints</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_totres.html">_L_GH_TotRes</a></td>
+      <td>Total Resolved</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_unimproved.html">_L_GH_UNIMPROVED</a></td>
+      <td>Unimproved</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_unskilled_care.html">_L_GH_UNSKILLED_CARE</a></td>
+      <td>Unskilled Care</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_verb_ass.html">_L_GH_VERB_ASS</a></td>
+      <td>Verbal assault</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_waste.html">_L_GH_WASTE</a></td>
+      <td>Waste</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_water.html">_L_GH_WATER</a></td>
+      <td>WATER</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_wc.html">_L_GH_WC</a></td>
+      <td>Water Closet (WC)</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_well.html">_L_GH_WELL</a></td>
+      <td>Well</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_l_gh_worights.html">_L_GH_WORIGHTS</a></td>
+      <td>Women Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--_natural_source.html">_NATURAL_SOURCE</a></td>
+      <td>Natural Source</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ci.html">CI</a></td>
+      <td>COTE D'IVOIRE</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lr.html">LR</a></td>
+      <td>LIBERIA</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mot_air.html">MOT_AIR</a></td>
+      <td>Mode of Transport: Air</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mot_iww.html">MOT_IWW</a></td>
+      <td>Mode of transport: Inland waterway transport</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mot_rai.html">MOT_RAI</a></td>
+      <td>Mode of Transport: Rail</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mot_sea.html">MOT_SEA</a></td>
+      <td>Mode of Transport: Maritime</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill_ltrcy.html">SKILL_LTRCY</a></td>
+      <td>Skill: Functional literacy</td>
+      <td>21</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill_math.html">SKILL_MATH</a></td>
+      <td>Skill: Mathematics</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill_nmrcy.html">SKILL_NMRCY</a></td>
+      <td>Skill: Functional numeracy</td>
+      <td>18</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--skill_read.html">SKILL_READ</a></td>
+      <td>Skill: Reading</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tg.html">TG</a></td>
+      <td>TOGO</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--_l_gh_agric.html\">_L_GH_AGRIC<\/a>","en":"Agriculture","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_agricforest.html\">_L_GH_AGRICFOREST<\/a>","en":"Agriculture, Forestry, and Other Land Use","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_basic_service.html\">_L_GH_BASIC_SERVICE<\/a>","en":"Basic Service","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_bottled_water.html\">_L_GH_BOTTLED_WATER<\/a>","en":"Bottled Water","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_bucket.html\">_L_GH_BUCKET<\/a>","en":"Bucket\/Pan","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_childrights.html\">_L_GH_CHILDRIGHTS<\/a>","en":"Children Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_civpolrights.html\">_L_GH_CIVPOLRIGHTS<\/a>","en":"Civil and Political Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_curse.html\">_L_GH_CURSE<\/a>","en":"Curse","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_defile.html\">_L_GH_DEFILE<\/a>","en":"Defilement","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_development.html\">_L_GH_DEVELOPMENT<\/a>","en":"DEVELOPMENT","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_discriminated.html\">_L_GH_DISCRIMINATED<\/a>","en":"Discriminated against","Disaggregation combinations using this value":11,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_dp.html\">_L_GH_DP<\/a>","en":"Development Partner","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_ecosocculrights.html\">_L_GH_ECOSOCCULRIGHTS<\/a>","en":"Economic, Social and Cultural Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_energy.html\">_L_GH_ENERGY<\/a>","en":"Energy","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_english.html\">_L_GH_ENGLISH<\/a>","en":"English","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_gog.html\">_L_GH_GOG<\/a>","en":"Government of Ghana","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_govoff.html\">_L_GH_GOVOFF<\/a>","en":"Government Officials","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_ground.html\">_L_GH_ground<\/a>","en":"Thrown into the ground\/street\/outside","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_gutter.html\">_L_GH_gutter<\/a>","en":"Flows or thrown into drains\/gutter","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_health.html\">_L_GH_HEALTH<\/a>","en":"HEALTH","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_housing.html\">_L_GH_HOUSING<\/a>","en":"HOUSING","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_ict.html\">_L_GH_ICT<\/a>","en":"ICT","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_igf.html\">_L_GH_IGF<\/a>","en":"Internally Generated Funds","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_indupro.html\">_L_GH_INDUPRO<\/a>","en":"Industrial Processes and Product Use","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_industry.html\">_L_GH_INDUSTRY<\/a>","en":"Industry","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_jugmag.html\">_L_GH_JUGMAG<\/a>","en":"Judges ad Magistrates","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_kvip.html\">_L_GH_KVIP<\/a>","en":"Kumasi Ventilated Improved Pit (KVIP)","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_limited_service.html\">_L_GH_LIMITED_SERVICE<\/a>","en":"Limited Service","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_ne_w_folu.html\">_L_GH_NE_W_FOLU<\/a>","en":"National Emissions with FOLU","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_ne_wo_folu.html\">_L_GH_NE_WO_FOLU<\/a>","en":"National Emissions without FOLU","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_no_care.html\">_L_GH_NO_CARE<\/a>","en":"No Care","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_no_facility.html\">_L_GH_NO_FACILITY<\/a>","en":"No facility (bush\/beach\/field)","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_not_discriminated.html\">_L_GH_NOT_DISCRIMINATED<\/a>","en":"Not Discriminated against","Disaggregation combinations using this value":11,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_nutrition.html\">_L_GH_NUTRITION<\/a>","en":"NUTRITION","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_other_funds.html\">_L_GH_OTHER_FUNDS<\/a>","en":"Other Fund","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_pipe_borne.html\">_L_GH_PIPE_BORNE<\/a>","en":"Pipe-borne","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_pit_latrine.html\">_L_GH_PIT_LATRINE<\/a>","en":"Pit Latrine","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_police.html\">_L_GH_POLICE<\/a>","en":"Police","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_private.html\">_L_GH_PRIVATE<\/a>","en":"Private","Disaggregation combinations using this value":19,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--_l_gh_prorights.html\">_L_GH_PRORIGHTS<\/a>","en":"Property Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_protection.html\">_L_GH_PROTECTION<\/a>","en":"PROTECTION","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_public.html\">_L_GH_PUBLIC<\/a>","en":"Public","Disaggregation combinations using this value":22,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--_l_gh_public_toilet.html\">_L_GH_PUBLIC_TOILET<\/a>","en":"Public Toilet","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_rape_sed.html\">_L_GH_RAPE_SED<\/a>","en":"Rape\/Seduction","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_sachet_water.html\">_L_GH_SACHET_WATER<\/a>","en":"Satchet Water","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_safely_managed.html\">_L_GH_SAFELY_MANAGED<\/a>","en":"Safely Managed","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_sanitation.html\">_L_GH_SANITATION<\/a>","en":"SANITATION","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_services.html\">_L_GH_SERVICES<\/a>","en":"Services","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_sewerage.html\">_L_GH_Sewerage<\/a>","en":"Through the sewerage system","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_sex_her.html\">_L_GH_SEX_HER<\/a>","en":"Sexual Harassment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_skilled_care.html\">_L_GH_SKILLED_CARE<\/a>","en":"Skilled Care","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_soakaway.html\">_L_GH_Soakaway<\/a>","en":"Through drainage into a pit (soakaway)","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_statutory.html\">_L_GH_STATUTORY<\/a>","en":"Statutory","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_surface_water.html\">_L_GH_SURFACE_WATER<\/a>","en":"Surface Water","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_tanker.html\">_L_GH_TANKER<\/a>","en":"Tanker\/Vendor","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_tothuricom.html\">_L_GH_TotHuRiCom<\/a>","en":"Total Human Rights Complaints","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_totres.html\">_L_GH_TotRes<\/a>","en":"Total Resolved","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_unimproved.html\">_L_GH_UNIMPROVED<\/a>","en":"Unimproved","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_unskilled_care.html\">_L_GH_UNSKILLED_CARE<\/a>","en":"Unskilled Care","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_verb_ass.html\">_L_GH_VERB_ASS<\/a>","en":"Verbal assault","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_waste.html\">_L_GH_WASTE<\/a>","en":"Waste","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_water.html\">_L_GH_WATER<\/a>","en":"WATER","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_wc.html\">_L_GH_WC<\/a>","en":"Water Closet (WC)","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_well.html\">_L_GH_WELL<\/a>","en":"Well","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_l_gh_worights.html\">_L_GH_WORIGHTS<\/a>","en":"Women Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--_natural_source.html\">_NATURAL_SOURCE<\/a>","en":"Natural Source","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ci.html\">CI<\/a>","en":"COTE D'IVOIRE","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lr.html\">LR<\/a>","en":"LIBERIA","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mot_air.html\">MOT_AIR<\/a>","en":"Mode of Transport: Air","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mot_iww.html\">MOT_IWW<\/a>","en":"Mode of transport: Inland waterway transport","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mot_rai.html\">MOT_RAI<\/a>","en":"Mode of Transport: Rail","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mot_sea.html\">MOT_SEA<\/a>","en":"Mode of Transport: Maritime","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--skill_ltrcy.html\">SKILL_LTRCY<\/a>","en":"Skill: Functional literacy","Disaggregation combinations using this value":21,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--skill_math.html\">SKILL_MATH<\/a>","en":"Skill: Mathematics","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--skill_nmrcy.html\">SKILL_NMRCY<\/a>","en":"Skill: Functional numeracy","Disaggregation combinations using this value":18,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--skill_read.html\">SKILL_READ<\/a>","en":"Skill: Reading","Disaggregation combinations using this value":9,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--tg.html\">TG<\/a>","en":"TOGO","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--composite_breakdown.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--composite_breakdown">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--composite_breakdown" class="download-info">Size: 148 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">19</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/1-2-2">#1-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/1-a-1">#1-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/10-3-1">#10-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/10-7-4">#10-7-4</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/13-2-2">#13-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-5-1">#16-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-a-1">#16-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-1-2">#3-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-1-1">#4-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-3-1">#4-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-6-1">#4-6-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-a-1">#4-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-c-1">#4-c-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/5-2-1">#5-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/6-1-1">#6-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/6-2-1">#6-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/6-3-1">#6-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-1-2">#9-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-4-1">#9-4-1</a></td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/1-2-2\">#1-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/1-a-1\">#1-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/10-3-1\">#10-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/10-7-4\">#10-7-4<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/13-2-2\">#13-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-5-1\">#16-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-a-1\">#16-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-1-2\">#3-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-1-1\">#4-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-3-1\">#4-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-6-1\">#4-6-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-a-1\">#4-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-c-1\">#4-c-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/5-2-1\">#5-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/6-1-1\">#6-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/6-2-1\">#6-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/6-3-1\">#6-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-1-2\">#9-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-4-1\">#9-4-1<\/a>"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

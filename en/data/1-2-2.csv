@@ -1,0 +1,15 @@
+Year,Observation status,Unit multiplier,SERIES,Reference area,Age,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation-level footnotes,GeoCode,Value
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,ICT,Percent,,,15.5
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,HOUSING,Percent,,,62.1
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,SANITATION,Percent,,,83.4
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,WATER,Percent,,,52.9
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,PROTECTION,Percent,,,63.5
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,DEVELOPMENT,Percent,,,58.1
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,HEALTH,Percent,,,62.7
+2017,Normal value,Units,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,NUTRITION,Percent,,,38.7
+2017,Normal value,Units,Proportion of population living in multidimensional poverty [1.2.2],,,Rural,,Percent,Multidimensional Poverty Index (MPI),,64.6
+2017,Normal value,Units,Proportion of population living in multidimensional poverty [1.2.2],,,Urban,,Percent,Multidimensional Poverty Index (MPI),,26.9
+2017,Normal value,Units,Proportion of population living in multidimensional poverty [1.2.2],Coastal Zone,,,,Percent,Multidimensional Poverty Index (MPI),_L_GH_Coastal,32.1
+2017,Normal value,Units,Proportion of population living in multidimensional poverty [1.2.2],Forest Zone,,,,Percent,Multidimensional Poverty Index (MPI),_L_GH_Forest,41.3
+2017,Normal value,Units,Proportion of population living in multidimensional poverty [1.2.2],Savannah Zone,,,,Percent,Multidimensional Poverty Index (MPI),_L_GH_Savannah,70.9
+2017,Normal value,Units,Proportion of population living in multidimensional poverty [1.2.2],,,,,Percent,Multidimensional Poverty Index (MPI),,45.6
