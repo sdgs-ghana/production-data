@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_GH_NODOC",
+                "_L_GH_COMPDOC",
+                "_L_GH_PARTIAL",
+                "_L_GH_PROCESS",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

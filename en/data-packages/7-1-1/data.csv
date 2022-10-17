@@ -1,59 +1,31 @@
-Year,Reference area,Degree of urbanisation,GeoCode,Value
-1999,,,,41.0
-2006,,,,49.2
-2013,,,,70.6
-2017,,,,81.1
-2018,,,,84.3
-2019,,,,85.0
-2020,,,,85.3
-2021,,,,84.1
-2021,Western,,1,88.9
-2021,Central,,2,91.8
-2021,Greater Accra,,3,96.5
-2021,Volta,,4,85.4
-2021,Eastern,,5,87.7
-2021,Ashanti,,6,87.4
-2021,Western North,,7,75.2
-2021,Ahafo,,8,72.7
-2021,Bono,,9,83.5
-2021,Bono East,,10,73.8
-2021,Oti,,11,70.2
-2021,Northern,,12,77.0
-2021,Savannah,,13,59.6
-2021,North East,,14,71.4
-2021,Upper East,,15,55.1
-2021,Upper West,,16,70.5
-2021,,Urban,,95.0
-2021,Western,Urban,1,97.5
-2021,Central,Urban,2,95.8
-2021,Greater Accra,Urban,3,97.3
-2021,Volta,Urban,4,91.8
-2021,Eastern,Urban,5,95.1
-2021,Ashanti,Urban,6,94.7
-2021,Western North,Urban,7,96.7
-2021,Ahafo,Urban,8,90.3
-2021,Bono,Urban,9,92.8
-2021,Bono East,Urban,10,89.3
-2021,Oti,Urban,11,87.5
-2021,Northern,Urban,12,95.5
-2021,Savannah,Urban,13,89.5
-2021,North East,Urban,14,87.9
-2021,Upper East,Urban,15,90.0
-2021,Upper West,Urban,16,93.2
-2021,,Rural,,70.3
-2021,Western,Rural,1,80.1
-2021,Central,Rural,2,86.4
-2021,Greater Accra,Rural,3,88.5
-2021,Volta,Rural,4,80.9
-2021,Eastern,Rural,5,80.1
-2021,Ashanti,Rural,6,76.1
-2021,Western North,Rural,7,66.4
-2021,Ahafo,Rural,8,56.8
-2021,Bono,Rural,9,70.8
-2021,Bono East,Rural,10,57.0
-2021,Oti,Rural,11,62.1
-2021,Northern,Rural,12,60.9
-2021,Savannah,Rural,13,47.3
-2021,North East,Rural,14,63.7
-2021,Upper East,Rural,15,43.7
-2021,Upper West,Rural,16,63.0
+Year,Degree of urbanisation,Value
+2010,,64.2
+2013,,70.6
+2014,,73.1
+2015,,75.7
+2016,,78.5
+2017,,81.4
+2018,,81.6
+2019,,82.5
+2020,,82.8
+2021,,83.9
+2010,Urban,83.8
+2013,Urban,88.6
+2014,Urban,89.8
+2015,Urban,90.7
+2016,Urban,91.4
+2017,Urban,92.0
+2018,Urban,92.2
+2019,Urban,92.6
+2020,Urban,93.0
+2021,Urban,93.1
+2010,Rural,39.5
+2013,Rural,48.3
+2014,Rural,52.2
+2015,Rural,56.6
+2016,Rural,61.5
+2017,Rural,66.9
+2018,Rural,68.1
+2019,Rural,70.4
+2020,Rural,71.5
+2021,Rural,72.8

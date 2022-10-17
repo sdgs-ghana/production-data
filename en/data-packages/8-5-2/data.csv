@@ -38,3 +38,8 @@ Year,SERIES,Sex,Age,Degree of urbanisation,Disability status,Value
 2017,Unemployment rate [8.5.2],Male,15 to 24 years old,,,17.9
 2013,Unemployment rate [8.5.2],Female,15 to 24 years old,,,11.7
 2017,Unemployment rate [8.5.2],Female,15 to 24 years old,,,19.1
+2021,Unemployment rate [8.5.2],,15 to 24 years old,,,32.8
+2021,Unemployment rate [8.5.2],Male,15 to 24 years old,,,29.3
+2021,Unemployment rate [8.5.2],Female,15 to 24 years old,,,36.7
+2021,Unemployment rate [8.5.2],,15 to 24 years old,Urban,,35.0
+2021,Unemployment rate [8.5.2],,15 to 24 years old,Rural,,30.2

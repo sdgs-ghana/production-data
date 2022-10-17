@@ -1,7 +1,58 @@
-Year,Sex,Value
-2015,Male,6.35
-2015,Female,4.47
-2015,,5.62
-2017,Male,6.91
-2017,Female,4.24
-2017,,6.08
+Year,Reference area,Sex,GeoCode,Value
+2000,,,,83.9
+2000,,Male,,79.1
+2000,,Female,,88.8
+2010,,,,86.2
+2010,,Male,,81.2
+2010,,Female,,91.0
+2021,,,,77.1
+2021,,Male,,73.7
+2021,,Female,,81.1
+2021,Western,,1,75.634916
+2021,Central,,2,80.189875
+2021,Greater Accra,,3,65.152207
+2021,Volta,,4,80.799678
+2021,Eastern,,5,79.572232
+2021,Ashanti,,6,77.465983
+2021,Western North,,7,82.685211
+2021,Ahafo,,8,78.586446
+2021,Bono,,9,79.390076
+2021,Bono East,,10,85.502564
+2021,Oti,,11,88.336556
+2021,Northern,,12,84.609715
+2021,Savannah,,13,88.568579
+2021,North East,,14,87.889965
+2021,Upper East,,15,78.818628
+2021,Upper West,,16,81.309565
+2021,Western,Male,1,71.438292
+2021,Central,Male,2,76.500965
+2021,Greater Accra,Male,3,59.32196
+2021,Volta,Male,4,77.223617
+2021,Eastern,Male,5,76.767856
+2021,Ashanti,Male,6,74.807031
+2021,Western North,Male,7,80.490048
+2021,Ahafo,Male,8,76.179742
+2021,Bono,Male,9,76.958723
+2021,Bono East,Male,10,83.876582
+2021,Oti,Male,11,86.126338
+2021,Northern,Male,12,81.994204
+2021,Savannah,Male,13,87.557364
+2021,North East,Male,14,85.927652
+2021,Upper East,Male,15,74.845995
+2021,Upper West,Male,16,79.216509
+2021,Western,Female,1,80.999687
+2021,Central,Female,2,84.137413
+2021,Greater Accra,Female,3,71.834694
+2021,Volta,Female,4,84.587546
+2021,Eastern,Female,5,82.783651
+2021,Ashanti,Female,6,80.561914
+2021,Western North,Female,7,85.634203
+2021,Ahafo,Female,8,81.715023
+2021,Bono,Female,9,82.224628
+2021,Bono East,Female,10,87.562945
+2021,Oti,Female,11,91.058836
+2021,Northern,Female,12,87.996046
+2021,Savannah,Female,13,90.398184
+2021,North East,Female,14,90.731783
+2021,Upper East,Female,15,83.033547
+2021,Upper West,Female,16,84.018519

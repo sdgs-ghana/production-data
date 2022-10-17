@@ -1,1 +1,1 @@
-{"data":{"Year":["2019","2019","2019"],"URBANISATION":[null,"U","R"],"Value":[16.8,20.0,12.8]},"edges":[]}
+{"data":{"Year":["2019","2019","2019","2016","2018","2019","2020"],"SERIES":["_L_GH_170601","_L_GH_170601","_L_GH_170601","IT_NET_BBND","IT_NET_BBND","IT_NET_BBND","IT_NET_BBND"],"URBANISATION":[null,"U","R",null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PER_100_POP","PER_100_POP","PER_100_POP","PER_100_POP"],"Value":[16.8,20.0,12.8,0.31,0.2,0.19,0.25]},"edges":[]}

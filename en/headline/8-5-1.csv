@@ -1,4 +1,6 @@
-Year,Value
-2014,495.47
-2015,898.65
-2017,972.0
+Year,Value,SERIES
+2014,495.47,Average monthly earnings [8.5.1]
+2015,898.65,Average monthly earnings [8.5.1]
+2017,972.0,Average monthly earnings [8.5.1]
+2015,5.62,Average hourly earnings [8.5.1]
+2017,6.08,Average hourly earnings [8.5.1]

@@ -1,1 +1,13 @@
-Year,Value
+Year,Sex,COMPOSITE_BREAKDOWN,Value
+2018,,No Document,82.6
+2018,Male,No Document,82.2
+2018,Female,No Document,83.5
+2018,,Complete Document,12.9
+2018,Male,Complete Document,13.1
+2018,Female,Complete Document,12.1
+2018,,Partial,3.2
+2018,Male,Partial,3.3
+2018,Female,Partial,3.1
+2018,,Now Processing,1.3
+2018,Male,Now Processing,1.4
+2018,Female,Now Processing,1.2

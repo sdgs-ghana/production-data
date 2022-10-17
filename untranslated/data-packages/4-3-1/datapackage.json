@@ -34,19 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_35",
                 "ISCED11_25_35_45",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GES",
-                "OTHER_PUBLIC",
+                "ISCED11_35",
                 ""
               ]
             }
@@ -56,8 +45,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_PUBLIC",
+                "GES",
+                "OTHER_PUBLIC",
                 "_L_GH_PRIVATE",
+                "_L_GH_PUBLIC",
                 ""
               ]
             }

@@ -16,23 +16,13 @@
             "constraints": {
               "enum": [
                 "",
+                "Ghana Education Service",
+                "Other Public Institutions",
                 "Private",
                 "Public"
               ]
             },
             "title": "Composite breakdown"
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "GES",
-                "Other public"
-              ]
-            },
-            "title": "Custom Breakdown"
           },
           {
             "name": "EDUCATION_LEV",

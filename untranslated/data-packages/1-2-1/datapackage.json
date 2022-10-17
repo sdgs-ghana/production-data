@@ -56,6 +56,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank Estimate",
+                ""
+              ]
+            }
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },

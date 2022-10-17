@@ -11,6 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Western",
+                "Bono East",
+                "Oti",
+                "Northern",
+                "Savannah",
+                "North East",
+                "Upper East",
+                "Upper West",
+                "Central",
+                "Greater Accra",
+                "Volta",
+                "Eastern",
+                "Ashanti",
+                "Western North",
+                "Ahafo",
+                "Bono"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {

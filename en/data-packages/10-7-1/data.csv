@@ -1,1 +1,24 @@
-Year,Value
+Year,Sex,COMPOSITE_BREAKDOWN,Value
+2020,Male,,2.0
+2020,Female,,2.1
+2020,,,2.0
+2020,Male,ECOWAS countries,0.7
+2020,Female,ECOWAS countries,0.6
+2020,,ECOWAS countries,0.7
+2020,Male,Other African Countries,1.9
+2020,Female,Other African Countries,2.4
+2020,,Other African Countries,1.9
+2020,Male,Europe,1.8
+2020,Female,Europe,2.0
+2020,,Europe,1.9
+2020,Male,Middle East/Gulf Cooperation Council countries,2.0
+2020,Female,Middle East/Gulf Cooperation Council countries,4.1
+2020,,Middle East/Gulf Cooperation Council countries,3.0
+2020,Male,Asia,2.6
+2020,Female,Asia,3.0
+2020,,Asia,2.7
+2020,Male,America,2.7
+2020,Female,America,1.7
+2020,,America,2.3
+2020,Female,Oceania,2.1
+2020,,Oceania,2.1

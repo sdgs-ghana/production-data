@@ -27,12 +27,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEVELOPMENT",
+                "LEARNING AND DEVELOPMENT",
                 "HEALTH",
                 "HOUSING",
                 "ICT",
                 "NUTRITION",
-                "PROTECTION",
+                "SOCIAL PROTECTION",
                 "SANITATION",
                 "WATER"
               ]

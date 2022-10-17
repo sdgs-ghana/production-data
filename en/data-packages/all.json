@@ -451,6 +451,56 @@
       "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
+      "path": "5-a-1/data.csv",
+      "name": "5-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Complete Document",
+                "No Document",
+                "Partial",
+                "Now Processing"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+    },
+    {
       "path": "5-b-1/data.csv",
       "name": "5-b-1",
       "profile": "tabular-data-resource",
@@ -1394,7 +1444,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1777,6 +1827,17 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "World Bank Estimate"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -1866,12 +1927,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEVELOPMENT",
+                "LEARNING AND DEVELOPMENT",
                 "HEALTH",
                 "HOUSING",
                 "ICT",
                 "NUTRITION",
-                "PROTECTION",
+                "SOCIAL PROTECTION",
                 "SANITATION",
                 "WATER"
               ]
@@ -2369,23 +2430,13 @@
             "constraints": {
               "enum": [
                 "",
+                "Ghana Education Service",
+                "Other Public Institutions",
                 "Private",
                 "Public"
               ]
             },
             "title": "Composite breakdown"
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "GES",
-                "Other public"
-              ]
-            },
-            "title": "Custom Breakdown"
           },
           {
             "name": "EDUCATION_LEV",
@@ -2697,7 +2748,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -3094,6 +3145,59 @@
       "title": "Labour share of GDP"
     },
     {
+      "path": "10-7-1/data.csv",
+      "name": "10-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "America",
+                "Asia",
+                "ECOWAS countries",
+                "Europe",
+                "Middle East/Gulf Cooperation Council countries",
+                "Oceania",
+                "Other African Countries"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
+    },
+    {
       "path": "10-7-4/data.csv",
       "name": "10-7-4",
       "profile": "tabular-data-resource",
@@ -3182,24 +3286,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Type of renewable technology: Geothermal energy",
-                "Type of renewable technology: Hydropower",
-                "Type of renewable technology: Multiple renewables"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3223,37 +3309,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Western",
-                "Bono East",
-                "Oti",
-                "Northern",
-                "Savannah",
-                "North East",
-                "Upper East",
-                "Upper West",
-                "Central",
-                "Greater Accra",
-                "Volta",
-                "Eastern",
-                "Ashanti",
-                "Western North",
-                "Ahafo",
-                "Bono"
-              ]
-            },
-            "title": "Reference area"
-          },
           {
             "name": "URBANISATION",
             "type": "string",
@@ -3372,6 +3427,35 @@
       "title": "Renewable energy share in the total final energy consumption"
     },
     {
+      "path": "7-3-1/data.csv",
+      "name": "7-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Energy intensity measured in terms of primary energy and GDP"
+    },
+    {
       "path": "7-b-1/data.csv",
       "name": "7-b-1",
       "profile": "tabular-data-resource",
@@ -3381,24 +3465,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Type of renewable technology: Geothermal energy",
-                "Type of renewable technology: Hydropower",
-                "Type of renewable technology: Multiple renewables"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
           {
             "name": "Value",
             "type": "number",
@@ -3448,6 +3514,37 @@
       "schema": {
         "fields": [
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Western",
+                "Bono East",
+                "Oti",
+                "Northern",
+                "Savannah",
+                "North East",
+                "Upper East",
+                "Upper West",
+                "Central",
+                "Greater Accra",
+                "Volta",
+                "Eastern",
+                "Ashanti",
+                "Western North",
+                "Ahafo",
+                "Bono"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -3483,6 +3580,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
           {
             "name": "SEX",
             "type": "string",
@@ -3679,6 +3781,35 @@
       "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+    },
+    {
       "path": "8-10-1/data.csv",
       "name": "8-10-1",
       "profile": "tabular-data-resource",
@@ -3717,6 +3848,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
           {
             "name": "Value",
             "type": "number",
@@ -3931,6 +4067,16 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -4136,6 +4282,30 @@
       "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
       "path": "2-5-2/data.csv",
       "name": "2-5-2",
       "profile": "tabular-data-resource",
@@ -4158,54 +4328,6 @@
         ]
       },
       "title": "Proportion of local breeds classified as being at risk of extinction"
-    },
-    {
-      "path": "3-9-z2/data.csv",
-      "name": "3-9-z2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "3-9-z2"
-    },
-    {
-      "path": "3-9-z1/data.csv",
-      "name": "3-9-z1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "3-9-z1"
     },
     {
       "path": "2-5-1/data.csv",
@@ -4232,6 +4354,30 @@
       "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     },
     {
+      "path": "14-2-1/data.csv",
+      "name": "14-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
+    },
+    {
       "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
@@ -4254,30 +4400,6 @@
         ]
       },
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
-    },
-    {
-      "path": "10-7-1/data.csv",
-      "name": "10-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
     },
     {
       "path": "15-1-2/data.csv",
@@ -4398,30 +4520,6 @@
         ]
       },
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
-    },
-    {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
     },
     {
       "path": "5-5-2/data.csv",
@@ -5046,30 +5144,6 @@
         ]
       },
       "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
-    },
-    {
-      "path": "5-a-1/data.csv",
-      "name": "5-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
     },
     {
       "path": "11-a-1/data.csv",
@@ -5982,30 +6056,6 @@
         ]
       },
       "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
-    },
-    {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "11-3-1/data.csv",
@@ -7400,30 +7450,6 @@
       "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
-    },
-    {
       "path": "12-b-1/data.csv",
       "name": "12-b-1",
       "profile": "tabular-data-resource",
@@ -7638,30 +7664,6 @@
         ]
       },
       "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
-    },
-    {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
       "path": "3-5-1/data.csv",
