@@ -11,13 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -26,5 +36,5 @@
   ],
   "profile": "data-package",
   "name": "covid-1",
-  "title": "Covid 1"
+  "title": "COVID-19 impact on work and income of households in Ghana"
 }

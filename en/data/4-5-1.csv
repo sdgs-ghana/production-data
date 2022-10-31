@@ -21,28 +21,28 @@ Year,Reference area,Education level,GeoCode,Value
 2019,Northern,Primary education,08_o,1.02
 2019,Western,Primary education,01_o,0.95
 2019,,Primary education,,1.0
-2019,Upper West,Lower secondary education,10_o,1.01
-2019,Upper East,Lower secondary education,09_o,0.97
-2019,Central,Lower secondary education,02_o,1.06
-2019,Volta,Lower secondary education,04_o,1.03
-2019,Ashanti,Lower secondary education,06_o,1.0
-2019,Eastern,Lower secondary education,05_o,0.95
-2019,Greater Accra,Lower secondary education,03_o,1.19
-2019,Brong Ahafo,Lower secondary education,07_o,1.14
-2019,Northern,Lower secondary education,08_o,1.03
-2019,Western,Lower secondary education,01_o,0.95
-2019,,Lower secondary education,,1.02
-2019,Upper West,Upper secondary education,10_o,0.94
-2019,Upper East,Upper secondary education,09_o,0.98
-2019,Central,Upper secondary education,02_o,0.97
-2019,Volta,Upper secondary education,04_o,1.09
-2019,Ashanti,Upper secondary education,06_o,0.74
-2019,Eastern,Upper secondary education,05_o,0.89
-2019,Greater Accra,Upper secondary education,03_o,1.04
-2019,Brong Ahafo,Upper secondary education,07_o,0.93
-2019,Northern,Upper secondary education,08_o,1.0
-2019,Western,Upper secondary education,01_o,0.94
-2019,,Upper secondary education,,0.95
+2019,Upper West,Junior High School (JHS),10_o,1.01
+2019,Upper East,Junior High School (JHS),09_o,0.97
+2019,Central,Junior High School (JHS),02_o,1.06
+2019,Volta,Junior High School (JHS),04_o,1.03
+2019,Ashanti,Junior High School (JHS),06_o,1.0
+2019,Eastern,Junior High School (JHS),05_o,0.95
+2019,Greater Accra,Junior High School (JHS),03_o,1.19
+2019,Brong Ahafo,Junior High School (JHS),07_o,1.14
+2019,Northern,Junior High School (JHS),08_o,1.03
+2019,Western,Junior High School (JHS),01_o,0.95
+2019,,Junior High School (JHS),,1.02
+2019,Upper West,Senior High School (SHS),10_o,0.94
+2019,Upper East,Senior High School (SHS),09_o,0.98
+2019,Central,Senior High School (SHS),02_o,0.97
+2019,Volta,Senior High School (SHS),04_o,1.09
+2019,Ashanti,Senior High School (SHS),06_o,0.74
+2019,Eastern,Senior High School (SHS),05_o,0.89
+2019,Greater Accra,Senior High School (SHS),03_o,1.04
+2019,Brong Ahafo,Senior High School (SHS),07_o,0.93
+2019,Northern,Senior High School (SHS),08_o,1.0
+2019,Western,Senior High School (SHS),01_o,0.94
+2019,,Senior High School (SHS),,0.95
 2017,,Pre-primary education,,1.0
 2018,,Pre-primary education,,1.0
 2020,,Pre-primary education,,1.03
@@ -51,10 +51,10 @@ Year,Reference area,Education level,GeoCode,Value
 2018,,Primary education,,1.0
 2020,,Primary education,,1.02
 2021,,Primary education,,1.0
-2017,,Lower secondary education,,0.97
-2018,,Lower secondary education,,1.0
-2020,,Lower secondary education,,1.02
-2021,,Lower secondary education,,1.0
-2017,,Upper secondary education,,0.96
-2018,,Upper secondary education,,0.92
-2020,,Upper secondary education,,0.96
+2017,,Junior High School (JHS),,0.97
+2018,,Junior High School (JHS),,1.0
+2020,,Junior High School (JHS),,1.02
+2021,,Junior High School (JHS),,1.0
+2017,,Senior High School (SHS),,0.96
+2018,,Senior High School (SHS),,0.92
+2020,,Senior High School (SHS),,0.96

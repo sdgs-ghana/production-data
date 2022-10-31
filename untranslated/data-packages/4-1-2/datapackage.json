@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "ISCED11_10",
-                "ISCED11_2",
+                "_L_GH_JHS",
                 ""
               ]
             }

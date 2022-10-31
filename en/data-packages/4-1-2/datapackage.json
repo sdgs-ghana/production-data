@@ -17,7 +17,7 @@
               "enum": [
                 "",
                 "Primary education",
-                "Lower secondary education"
+                "Junior High School (JHS)"
               ]
             },
             "title": "Education level"

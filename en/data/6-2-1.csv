@@ -1,13 +1,80 @@
-Year,Degree of urbanisation,COMPOSITE_BREAKDOWN,Value
-2017,Urban,No facility (bush/beach/field),5.9
-2017,Rural,No facility (bush/beach/field),29.0
-2017,Urban,Water Closet (WC),28.6
-2017,Rural,Water Closet (WC),4.5
-2017,Urban,Pit Latrine,13.6
-2017,Rural,Pit Latrine,27.2
-2017,Urban,Kumasi Ventilated Improved Pit (KVIP),15.4
-2017,Rural,Kumasi Ventilated Improved Pit (KVIP),11.9
-2017,Urban,Bucket/Pan,0.4
-2017,Rural,Bucket/Pan,0.2
-2017,Urban,Public Toilet,36.2
-2017,Rural,Public Toilet,27.2
+Year,SERIES,Degree of urbanisation,COMPOSITE_BREAKDOWN,Value
+2000,Proportion of population using safely managed sanitation services [6.2.1],,,4.37
+2000,Proportion of population using safely managed sanitation services [6.2.1],Rural,,2.58
+2000,Proportion of population using safely managed sanitation services [6.2.1],Urban,,6.65
+2001,Proportion of population using safely managed sanitation services [6.2.1],,,4.43
+2001,Proportion of population using safely managed sanitation services [6.2.1],Rural,,2.62
+2001,Proportion of population using safely managed sanitation services [6.2.1],Urban,,6.67
+2002,Proportion of population using safely managed sanitation services [6.2.1],,,4.89
+2002,Proportion of population using safely managed sanitation services [6.2.1],Rural,,3.14
+2002,Proportion of population using safely managed sanitation services [6.2.1],Urban,,7.0
+2003,Proportion of population using safely managed sanitation services [6.2.1],,,5.35
+2003,Proportion of population using safely managed sanitation services [6.2.1],Rural,,3.67
+2003,Proportion of population using safely managed sanitation services [6.2.1],Urban,,7.32
+2004,Proportion of population using safely managed sanitation services [6.2.1],,,5.81
+2004,Proportion of population using safely managed sanitation services [6.2.1],Rural,,4.21
+2004,Proportion of population using safely managed sanitation services [6.2.1],Urban,,7.64
+2005,Proportion of population using safely managed sanitation services [6.2.1],,,6.28
+2005,Proportion of population using safely managed sanitation services [6.2.1],Rural,,4.78
+2005,Proportion of population using safely managed sanitation services [6.2.1],Urban,,7.95
+2006,Proportion of population using safely managed sanitation services [6.2.1],,,6.75
+2006,Proportion of population using safely managed sanitation services [6.2.1],Rural,,5.35
+2006,Proportion of population using safely managed sanitation services [6.2.1],Urban,,8.26
+2007,Proportion of population using safely managed sanitation services [6.2.1],,,7.22
+2007,Proportion of population using safely managed sanitation services [6.2.1],Rural,,5.94
+2007,Proportion of population using safely managed sanitation services [6.2.1],Urban,,8.57
+2008,Proportion of population using safely managed sanitation services [6.2.1],,,7.69
+2008,Proportion of population using safely managed sanitation services [6.2.1],Rural,,6.55
+2008,Proportion of population using safely managed sanitation services [6.2.1],Urban,,8.86
+2009,Proportion of population using safely managed sanitation services [6.2.1],,,8.16
+2009,Proportion of population using safely managed sanitation services [6.2.1],Rural,,7.17
+2009,Proportion of population using safely managed sanitation services [6.2.1],Urban,,9.16
+2010,Proportion of population using safely managed sanitation services [6.2.1],,,8.64
+2010,Proportion of population using safely managed sanitation services [6.2.1],Rural,,7.8
+2010,Proportion of population using safely managed sanitation services [6.2.1],Urban,,9.45
+2011,Proportion of population using safely managed sanitation services [6.2.1],,,9.11
+2011,Proportion of population using safely managed sanitation services [6.2.1],Rural,,8.45
+2011,Proportion of population using safely managed sanitation services [6.2.1],Urban,,9.73
+2012,Proportion of population using safely managed sanitation services [6.2.1],,,9.59
+2012,Proportion of population using safely managed sanitation services [6.2.1],Rural,,9.12
+2012,Proportion of population using safely managed sanitation services [6.2.1],Urban,,10.02
+2013,Proportion of population using safely managed sanitation services [6.2.1],,,10.06
+2013,Proportion of population using safely managed sanitation services [6.2.1],Rural,,9.8
+2013,Proportion of population using safely managed sanitation services [6.2.1],Urban,,10.29
+2014,Proportion of population using safely managed sanitation services [6.2.1],,,10.53
+2014,Proportion of population using safely managed sanitation services [6.2.1],Rural,,10.5
+2014,Proportion of population using safely managed sanitation services [6.2.1],Urban,,10.56
+2015,Proportion of population using safely managed sanitation services [6.2.1],,,11.0
+2015,Proportion of population using safely managed sanitation services [6.2.1],Rural,,11.21
+2015,Proportion of population using safely managed sanitation services [6.2.1],Urban,,10.83
+2016,Proportion of population using safely managed sanitation services [6.2.1],,,11.47
+2016,Proportion of population using safely managed sanitation services [6.2.1],Rural,,11.93
+2016,Proportion of population using safely managed sanitation services [6.2.1],Urban,,11.09
+2017,Proportion of population using safely managed sanitation services [6.2.1],,,11.94
+2017,Proportion of population using safely managed sanitation services [6.2.1],Rural,,12.67
+2017,Proportion of population using safely managed sanitation services [6.2.1],Urban,,11.35
+2018,Proportion of population using safely managed sanitation services [6.2.1],,,12.4
+2018,Proportion of population using safely managed sanitation services [6.2.1],Rural,,13.43
+2018,Proportion of population using safely managed sanitation services [6.2.1],Urban,,11.6
+2019,Proportion of population using safely managed sanitation services [6.2.1],,,12.87
+2019,Proportion of population using safely managed sanitation services [6.2.1],Rural,,14.2
+2019,Proportion of population using safely managed sanitation services [6.2.1],Urban,,11.85
+2020,Proportion of population using safely managed sanitation services [6.2.1],,,13.32
+2020,Proportion of population using safely managed sanitation services [6.2.1],Rural,,14.98
+2020,Proportion of population using safely managed sanitation services [6.2.1],Urban,,12.09
+2017,Type of toilet facility used by households by locality type,Urban,No facility (bush/beach/field),5.9
+2017,Type of toilet facility used by households by locality type,Rural,No facility (bush/beach/field),29.0
+2017,Type of toilet facility used by households by locality type,Urban,Water Closet (WC),28.6
+2017,Type of toilet facility used by households by locality type,Rural,Water Closet (WC),4.5
+2017,Type of toilet facility used by households by locality type,Urban,Pit Latrine,13.6
+2017,Type of toilet facility used by households by locality type,Rural,Pit Latrine,27.2
+2017,Type of toilet facility used by households by locality type,Urban,Kumasi Ventilated Improved Pit (KVIP),15.4
+2017,Type of toilet facility used by households by locality type,Rural,Kumasi Ventilated Improved Pit (KVIP),11.9
+2017,Type of toilet facility used by households by locality type,Urban,Bucket/Pan,0.4
+2017,Type of toilet facility used by households by locality type,Rural,Bucket/Pan,0.2
+2017,Type of toilet facility used by households by locality type,Urban,Public Toilet,36.2
+2017,Type of toilet facility used by households by locality type,Rural,Public Toilet,27.2
+2017,Proportion of population using handwashing facility with soap and water,,,41.3
+2018,Proportion of population using handwashing facility with soap and water,,,41.4
+2019,Proportion of population using handwashing facility with soap and water,,,41.5
+2020,Proportion of population using handwashing facility with soap and water,,,41.5

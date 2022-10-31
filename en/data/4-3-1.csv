@@ -59,48 +59,48 @@ Year,SERIES,Sex,Education level,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2017,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,4678.0
 2018,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,5836.0
 2019,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,4486.0
-2014,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Public,Number,149.0
-2015,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Public,Number,154.0
-2016,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Public,Number,155.0
-2017,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Public,Number,164.0
-2018,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Public,Number,115.0
-2019,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Public,Number,129.0
-2014,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Private,Number,39.0
-2015,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Private,Number,38.0
-2016,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Private,Number,29.0
-2017,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Private,Number,32.0
-2018,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Private,Number,62.0
-2019,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,Private,Number,48.0
-2014,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,,Number,188.0
-2015,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,,Number,192.0
-2016,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,,Number,184.0
-2017,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,,Number,196.0
-2018,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,,Number,177.0
-2019,Number of Senior High Technical Schools with TVET Programmes,,Upper secondary vocational education,,Number,177.0
-2014,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Upper secondary vocational education,Private,Percent,13.6
-2015,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Upper secondary vocational education,Private,Percent,13.3
-2016,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Upper secondary vocational education,Private,Percent,13.6
-2017,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Upper secondary vocational education,Private,Percent,13.6
-2018,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Upper secondary vocational education,Private,Percent,13.6
-2019,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Upper secondary vocational education,Private,Percent,27.1
-2014,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Upper secondary vocational education,,Number,22756.0
-2015,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Upper secondary vocational education,,Number,22982.0
-2016,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Upper secondary vocational education,,Number,24464.0
-2017,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Upper secondary vocational education,,Number,26092.0
-2018,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Upper secondary vocational education,,Number,40362.0
-2019,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Upper secondary vocational education,,Number,56258.0
-2014,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Upper secondary vocational education,,Number,1640.0
-2015,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Upper secondary vocational education,,Number,1925.0
-2016,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Upper secondary vocational education,,Number,1360.0
-2017,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Upper secondary vocational education,,Number,3185.0
-2018,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Upper secondary vocational education,,Number,9056.0
-2019,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Upper secondary vocational education,,Number,20512.0
-2014,Enrolment in TVET Programmes in Senior High Technical Schools,,Upper secondary vocational education,,Number,24396.0
-2015,Enrolment in TVET Programmes in Senior High Technical Schools,,Upper secondary vocational education,,Number,24907.0
-2016,Enrolment in TVET Programmes in Senior High Technical Schools,,Upper secondary vocational education,,Number,25824.0
-2017,Enrolment in TVET Programmes in Senior High Technical Schools,,Upper secondary vocational education,,Number,29277.0
-2018,Enrolment in TVET Programmes in Senior High Technical Schools,,Upper secondary vocational education,,Number,49418.0
-2019,Enrolment in TVET Programmes in Senior High Technical Schools,,Upper secondary vocational education,,Number,76770.0
+2014,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,149.0
+2015,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,154.0
+2016,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,155.0
+2017,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,164.0
+2018,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,115.0
+2019,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,129.0
+2014,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,39.0
+2015,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,38.0
+2016,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,29.0
+2017,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,32.0
+2018,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,62.0
+2019,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,48.0
+2014,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,188.0
+2015,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,192.0
+2016,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,184.0
+2017,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,196.0
+2018,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,177.0
+2019,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,177.0
+2014,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percent,13.6
+2015,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percent,13.3
+2016,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percent,13.6
+2017,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percent,13.6
+2018,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percent,13.6
+2019,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percent,27.1
+2014,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,22756.0
+2015,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,22982.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,24464.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,26092.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,40362.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,56258.0
+2014,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,1640.0
+2015,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,1925.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,1360.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,3185.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,9056.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,20512.0
+2014,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,24396.0
+2015,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,24907.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,25824.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,29277.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,49418.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,76770.0
 2007,Number of Classes for National Functional Literacy Programme,,,,Number,8500.0
 2007,Enrolment for National Functional Literacy Programme,Male,,,Number,12164.0
 2007,Enrolment for National Functional Literacy Programme,Female,,,Number,19204.0

@@ -3,8 +3,6 @@ _L_GH_AGRIC,Agriculture,1,1
 _L_GH_AGRICFOREST,"Agriculture, Forestry, and Other Land Use",1,1
 _L_GH_AMERICA,America,3,1
 _L_GH_ASIA,Asia,3,1
-_L_GH_BASIC_SERVICE,Basic Service,3,1
-_L_GH_BOTTLED_WATER,Bottled Water,1,1
 _L_GH_BUCKET,Bucket/Pan,2,1
 _L_GH_CHILDRIGHTS,Children Rights,1,1
 _L_GH_CIVPOLRIGHTS,Civil and Political Rights,1,1
@@ -31,7 +29,6 @@ _L_GH_INDUPRO,Industrial Processes and Product Use,1,1
 _L_GH_INDUSTRY,Industry,1,1
 _L_GH_JUGMAG,Judges ad Magistrates,1,1
 _L_GH_KVIP,Kumasi Ventilated Improved Pit (KVIP),2,1
-_L_GH_LIMITED_SERVICE,Limited Service,3,1
 _L_GH_MIDDLEEAST,Middle East/Gulf Cooperation Council countries,3,1
 _L_GH_NE_W_FOLU,National Emissions with FOLU,1,1
 _L_GH_NE_WO_FOLU,National Emissions without FOLU,1,1
@@ -44,7 +41,6 @@ _L_GH_OCEANIA,Oceania,2,1
 _L_GH_OTHER_AFRICA,Other African Countries,3,1
 _L_GH_OTHER_FUNDS,Other Fund,9,1
 _L_GH_PARTIAL,Partial,3,1
-_L_GH_PIPE_BORNE,Pipe-borne,1,1
 _L_GH_PIT_LATRINE,Pit Latrine,2,1
 _L_GH_POLICE,Police,1,1
 _L_GH_PRIVATE,Private,19,3
@@ -54,8 +50,6 @@ _L_GH_PROTECTION,SOCIAL PROTECTION,1,1
 _L_GH_PUBLIC,Public,16,3
 _L_GH_PUBLIC_TOILET,Public Toilet,2,1
 _L_GH_RAPE_SED,Rape/Seduction,1,1
-_L_GH_SACHET_WATER,Satchet Water,1,1
-_L_GH_SAFELY_MANAGED,Safely Managed,3,1
 _L_GH_SANITATION,SANITATION,1,1
 _L_GH_SERVICES,Services,1,1
 _L_GH_Sewerage,Through the sewerage system,3,1
@@ -63,19 +57,14 @@ _L_GH_SEX_HER,Sexual Harassment,1,1
 _L_GH_SKILLED_CARE,Skilled Care,2,1
 _L_GH_Soakaway,Through drainage into a pit (soakaway),3,1
 _L_GH_STATUTORY,Statutory,9,1
-_L_GH_SURFACE_WATER,Surface Water,3,1
-_L_GH_TANKER,Tanker/Vendor,1,1
 _L_GH_TotHuRiCom,Total Human Rights Complaints,1,1
 _L_GH_TotRes,Total Resolved,1,1
-_L_GH_UNIMPROVED,Unimproved,3,1
 _L_GH_UNSKILLED_CARE,Unskilled Care,2,1
 _L_GH_VERB_ASS,Verbal assault,1,1
 _L_GH_WASTE,Waste,1,1
 _L_GH_WATER,WATER,1,1
 _L_GH_WC,Water Closet (WC),2,1
-_L_GH_WELL,Well,1,1
 _L_GH_WORIGHTS,Women Rights,1,1
-_NATURAL_SOURCE,Natural Source,1,1
 CI,COTE D'IVOIRE,1,1
 GES,Ghana Education Service,2,1
 LR,LIBERIA,1,1

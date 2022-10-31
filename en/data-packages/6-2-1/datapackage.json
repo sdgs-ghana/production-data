@@ -27,6 +27,11 @@
             "title": "Composite breakdown"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {

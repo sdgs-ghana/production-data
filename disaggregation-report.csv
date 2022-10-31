@@ -1,10 +1,10 @@
 Disaggregation,en,Number of indicators,Number of values
 AGE,Age,3,5
 COMMENT_OBS,Observation-level footnotes,2,2
-COMPOSITE_BREAKDOWN,Composite breakdown,21,90
+COMPOSITE_BREAKDOWN,Composite breakdown,20,79
 DISABILITY_STATUS,Disability status,1,6
 EDUCATION_LEV,Education level,5,10
 PRODUCT,Type of product,2,16
-REF_AREA,Reference area,15,29
-SEX,Sex,21,2
-URBANISATION,Degree of urbanisation,26,2
+REF_AREA,Reference area,16,29
+SEX,Sex,22,2
+URBANISATION,Degree of urbanisation,27,2

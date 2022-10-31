@@ -35,7 +35,7 @@
             "constraints": {
               "enum": [
                 "ISCED11_25_35_45",
-                "ISCED11_35",
+                "_L_GH_SecTech",
                 ""
               ]
             }

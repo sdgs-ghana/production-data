@@ -11,32 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Basic Service",
-                "Bottled Water",
-                "Limited Service",
-                "Pipe-borne",
-                "Satchet Water",
-                "Safely Managed",
-                "Surface Water",
-                "Tanker/Vendor",
-                "Unimproved",
-                "Well",
-                "Natural Source"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {

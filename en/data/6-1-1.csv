@@ -1,52 +1,64 @@
-Year,SERIES,Degree of urbanisation,COMPOSITE_BREAKDOWN,Value
-2017,Sources of drinking water,,Tanker/Vendor,0.5
-2017,Sources of drinking water,,Satchet Water,35.0
-2017,Sources of drinking water,,Bottled Water,0.6
-2017,Sources of drinking water,,Natural Source,8.0
-2017,Sources of drinking water,,Well,28.5
-2017,Sources of drinking water,,Pipe-borne,27.3
-2015,Coverage of Drinking Water Services by Levels,,Safely Managed,33.0
-2015,Coverage of Drinking Water Services by Levels,,Basic Service,47.0
-2015,Coverage of Drinking Water Services by Levels,,Limited Service,8.0
-2015,Coverage of Drinking Water Services by Levels,,Unimproved,4.0
-2015,Coverage of Drinking Water Services by Levels,,Surface Water,8.0
-2017,Coverage of Drinking Water Services by Levels,,Safely Managed,36.0
-2017,Coverage of Drinking Water Services by Levels,,Basic Service,45.0
-2017,Coverage of Drinking Water Services by Levels,,Limited Service,8.0
-2017,Coverage of Drinking Water Services by Levels,,Unimproved,4.0
-2017,Coverage of Drinking Water Services by Levels,,Surface Water,6.0
-2020,Coverage of Drinking Water Services by Levels,,Safely Managed,41.0
-2020,Coverage of Drinking Water Services by Levels,,Basic Service,45.0
-2020,Coverage of Drinking Water Services by Levels,,Limited Service,7.0
-2020,Coverage of Drinking Water Services by Levels,,Unimproved,3.0
-2020,Coverage of Drinking Water Services by Levels,,Surface Water,5.0
-2015,Coverage of Drinking Water Services by Levels,Rural,Safely Managed,11.0
-2015,Coverage of Drinking Water Services by Levels,Rural,Basic Service,56.0
-2015,Coverage of Drinking Water Services by Levels,Rural,Limited Service,11.0
-2015,Coverage of Drinking Water Services by Levels,Rural,Unimproved,16.0
-2015,Coverage of Drinking Water Services by Levels,Rural,Surface Water,15.0
-2017,Coverage of Drinking Water Services by Levels,Rural,Safely Managed,11.0
-2017,Coverage of Drinking Water Services by Levels,Rural,Basic Service,56.0
-2017,Coverage of Drinking Water Services by Levels,Rural,Limited Service,13.0
-2017,Coverage of Drinking Water Services by Levels,Rural,Unimproved,6.0
-2017,Coverage of Drinking Water Services by Levels,Rural,Surface Water,15.0
-2020,Coverage of Drinking Water Services by Levels,Rural,Safely Managed,16.0
-2020,Coverage of Drinking Water Services by Levels,Rural,Basic Service,56.0
-2020,Coverage of Drinking Water Services by Levels,Rural,Limited Service,12.0
-2020,Coverage of Drinking Water Services by Levels,Rural,Unimproved,5.0
-2020,Coverage of Drinking Water Services by Levels,Rural,Surface Water,11.0
-2015,Coverage of Drinking Water Services by Levels,Urban,Safely Managed,52.0
-2015,Coverage of Drinking Water Services by Levels,Urban,Basic Service,39.0
-2015,Coverage of Drinking Water Services by Levels,Urban,Limited Service,5.0
-2015,Coverage of Drinking Water Services by Levels,Urban,Unimproved,3.0
-2015,Coverage of Drinking Water Services by Levels,Urban,Surface Water,1.0
-2017,Coverage of Drinking Water Services by Levels,Urban,Safely Managed,57.0
-2017,Coverage of Drinking Water Services by Levels,Urban,Basic Service,36.0
-2017,Coverage of Drinking Water Services by Levels,Urban,Limited Service,5.0
-2017,Coverage of Drinking Water Services by Levels,Urban,Unimproved,2.0
-2017,Coverage of Drinking Water Services by Levels,Urban,Surface Water,0.0
-2020,Coverage of Drinking Water Services by Levels,Urban,Safely Managed,60.0
-2020,Coverage of Drinking Water Services by Levels,Urban,Basic Service,36.0
-2020,Coverage of Drinking Water Services by Levels,Urban,Limited Service,3.0
-2020,Coverage of Drinking Water Services by Levels,Urban,Unimproved,1.0
-2020,Coverage of Drinking Water Services by Levels,Urban,Surface Water,0.0
+Year,Degree of urbanisation,Value
+2000,,13.27925
+2000,Rural,0.0
+2000,Urban,30.2289
+2001,,13.55671
+2001,Rural,0.0
+2001,Urban,30.39552
+2002,,14.51648
+2002,Rural,0.18335
+2002,Urban,31.84129
+2003,,15.7731
+2003,Rural,0.87134
+2003,Urban,33.301
+2004,,17.0599
+2004,Rural,1.58229
+2004,Urban,34.77466
+2005,,18.3754
+2005,Rural,2.31619
+2005,Urban,36.26227
+2006,,19.72045
+2006,Rural,3.07303
+2006,Urban,37.76383
+2007,,21.09455
+2007,Rural,3.85282
+2007,Urban,39.27933
+2008,,22.49754
+2008,Rural,4.65556
+2008,Urban,40.80879
+2009,,23.92815
+2009,Rural,5.48125
+2009,Urban,42.35218
+2010,,25.38766
+2010,Rural,6.32989
+2010,Urban,43.90953
+2011,,26.87477
+2011,Rural,7.20148
+2011,Urban,45.48082
+2012,,28.38889
+2012,Rural,8.09602
+2012,Urban,47.06606
+2013,,29.92901
+2013,Rural,9.0135
+2013,Urban,48.66525
+2014,,31.49485
+2014,Rural,9.95394
+2014,Urban,50.27839
+2015,,33.08617
+2015,Rural,10.91732
+2015,Urban,51.90547
+2016,,34.70269
+2016,Rural,11.90365
+2016,Urban,53.5465
+2017,,36.34375
+2017,Rural,12.91293
+2017,Urban,55.20148
+2018,,38.00905
+2018,Rural,13.94516
+2018,Urban,56.8704
+2019,,39.6979
+2019,Rural,15.00034
+2019,Urban,58.55327
+2020,,41.41045
+2020,Rural,16.07846
+2020,Urban,60.25009

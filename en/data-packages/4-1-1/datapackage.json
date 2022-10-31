@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Lower secondary education",
+                "Junior High School (JHS)",
                 "Primary 4",
                 "Primary 6"
               ]
