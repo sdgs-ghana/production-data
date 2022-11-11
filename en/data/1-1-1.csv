@@ -1,5 +1,6 @@
 Year,Reference area,Sex,Degree of urbanisation,GeoCode,Value
 2013,Western,,,01_o,9.0
+2013,Central,,,02_o,10.1
 2013,Greater Accra,,,03_o,2.9
 2013,Volta,,,04_o,17.2
 2013,Eastern,,,05_o,9.6
@@ -9,15 +10,16 @@ Year,Reference area,Sex,Degree of urbanisation,GeoCode,Value
 2013,Upper East,,,09_o,31.0
 2013,Upper West,,,10_o,57.6
 2017,Western,,,01_o,3.8
+2017,Central,,,02_o,4.9
 2017,Greater Accra,,,03_o,0.0
 2017,Volta,,,04_o,16.5
 2017,Eastern,,,05_o,4.6
 2017,Ashanti,,,06_o,3.4
 2017,Brong Ahafo,,,07_o,13.8
 2017,Northern,,,08_o,39.3
-2017,Upper East,,,09_o,40.0
+2017,Upper East,,,09_o,40.4
 2017,Upper West,,,10_o,55.6
-2013,,,,,11.6
+2013,,,,,13.6
 2013,,,Rural,,23.4
 2013,,,Urban,,3.9
 2013,,Male,,,9.7

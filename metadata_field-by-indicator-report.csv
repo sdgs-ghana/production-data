@@ -1,20 +1,20 @@
 Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1-1-1,complete,Tier I,"World Bank (WB), International Labour Organisation (ILO)",,True,,Percent,bar
-#1-2-1,complete,Tier I,World Bank (WB),,True,,Percent,line
-#1-2-2,complete,Tier II,"United Nations Children's Fund (UNICEFF), World Bank (WB), United Nations Development Programme (UNDP)",,,,Percent,bar
+#1-1-1,complete,Tier I,"World Bank (WB), International Labour Organisation (ILO)",,True,,Percentage (%),bar
+#1-2-1,complete,Tier I,World Bank (WB),,True,,Percentage (%),line
+#1-2-2,complete,Tier II,"United Nations Children's Fund (UNICEFF), World Bank (WB), United Nations Development Programme (UNDP)",,,,Percentage (%),bar
 #1-3-1,complete,Tier II,"International Labour Organization (ILO), World Bank (WB)",,,,,bar
 #1-4-1,notstarted,Tier I,UN-Habitat,,,,,line
-#1-4-2,complete,Tier II,World Bank (WB),,True,,Percent,bar
+#1-4-2,complete,Tier II,World Bank (WB),,True,,Percentage (%),bar
 #1-5-1,complete,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),,,,"Per 100,000 population",line
 #1-5-2,notstarted,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),,,,,line
 #1-5-3,complete,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),True,,,,line
 #1-5-4,notstarted,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),,,,,line
 #1-a-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,,,bar
-#1-a-2,complete,Tier II,UNESCO Institute for Statistics (UNESCO-UIS),,,,Percent,line
-#1-b-1,complete,Tier II,United Nations Children’s Fund (UNICEF),,,,Percent,line
-#10-1-1,complete,Tier II,World Bank (WB),,,,Percent,line
+#1-a-2,notstarted,Tier II,UNESCO Institute for Statistics (UNESCO-UIS),,,,Percentage (%),line
+#1-b-1,complete,Tier II,United Nations Children’s Fund (UNICEF),,,,Percentage (%),line
+#10-1-1,complete,Tier II,World Bank (WB),,,,Percentage (%),line
 #10-2-1,notstarted,Tier II,"United Nations Children's Fund (UNICEF), World Bank (WB)",,,,,line
-#10-3-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,Percent,bar
+#10-3-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,Percentage (%),bar
 #10-4-1,complete,Tier II,International Labour Organization (ILO),,,,Percent,line
 #10-4-2,notstarted,Tier II,The World Bank Group,,,,,line
 #10-5-1,notstarted,Tier I,International Monetary Fund (IMF),,,,,line
@@ -99,7 +99,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #16-3-3,notstarted,Tier II,United Nations Development Programme (UNDP)  United Nations on Drugs and Crime (UNODC)  Organization for Economic Cooperation and Development (OECD),,,,,line
 #16-4-1,notstarted,Tier II,"United Nations Office on Drugs and Crime (UNODC), United Nations Conference on Trade and Development (UNCTAD)",,,,,line
 #16-4-2,complete,Tier II,"United Nations Office on Drugs and Crime (UNODC), United Nations Conference on Trade and Development (UNCTAD)",,,,Number,line
-#16-5-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,,Percent,bar
+#16-5-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,,Percentage (%),bar
 #16-5-2,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-6-1,complete,Tier II,World Bank (WB),,,,Percent,line
 #16-6-2,notstarted,Tier II,United Nations Development Programme (UNDP),,,,,line
@@ -108,7 +108,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #16-8-1,notstarted,Tier I,United Nations Department of Economic and Social Affairs (DESA)/Financing for Development Office (FFDO),,,,,line
 #16-9-1,complete,Tier I,"United Nations Statistics Division (UNSD), United Nations Children's Fund (UNICEFF)",,,,Percent,bar
 #16-a-1,complete,Tier I,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#16-b-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,Percent,bar
+#16-b-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,Percentage (%),bar
 #17-1-1,complete,Tier I,International Monetary Fund (IMF),,,,Percent,line
 #17-1-2,complete,Tier I,International Monetary Fund (IMF),,,,Percent,line
 #17-10-1,notstarted,Tier I,"World Trade Organization (WTO), The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD)",,,,,line
@@ -134,9 +134,9 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #17-8-1,complete,Tier I,International Telecommunication Union (ITU),,,,Percent,line
 #17-9-1,notstarted,Tier I,"Organisation for Economic Co-operation and Development (OECD), United Nations Environment (UNEP), World Bank (WB)",,,,,line
 #2-1-1,notstarted,Tier I,Food and Agriculture Organization (FAO),,,,,line
-#2-1-2,complete,Tier I,Food and Agriculture Organization (FAO),,True,,Percent,bar
-#2-2-1,complete,Tier I,"United Nations Children's Fund (UNICEFF), World Health Organisation (WHO)",,,,Percent,line
-#2-2-2,complete,Tier I,"United Nations Children's Fund (UNICEF), World Health Organisation (WHO), World Bank (WB)",,,,Percent,line
+#2-1-2,complete,Tier I,Food and Agriculture Organization (FAO),,True,,Percentage (%),bar
+#2-2-1,complete,Tier I,"United Nations Children's Fund (UNICEFF), World Health Organisation (WHO)",,,,Percentage (%),line
+#2-2-2,complete,Tier I,"United Nations Children's Fund (UNICEF), World Health Organisation (WHO), World Bank (WB)",,,,Percentage (%),line
 #2-2-3,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #2-3-1,notstarted,Tier II,Food and Agriculture Organization (FAO),,,,,line
 #2-3-2,notstarted,Tier II,Food and Agriculture Organization (FAO),,,,,line
@@ -144,11 +144,11 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #2-5-1,notstarted,Tier I,Food and Agriculture Organization (FAO),,,,,line
 #2-5-2,notstarted,Tier II,Food and Agriculture Organization (FAO),,,,,line
 #2-a-1,complete,Tier I,Food and Agriculture Organization (FAO),,,,,line
-#2-a-2,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,,Percent,line
+#2-a-2,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,,Percentage (%),line
 #2-b-1,notstarted,Tier I,World Trade Organization (WTO),,,,,line
 #2-c-1,notstarted,Tier II,Food and Agriculture Organization (FAO),,,,,line
 #3-1-1,complete,Tier I,World Health Organisation (WHO),,True,,"Per 100,000 live births",line
-#3-1-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,,Percent,bar
+#3-1-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,,Percentage (%),bar
 #3-2-1,complete,Tier I,United Nations Children's Fund (UNICEFF),,,,"Per 1,000 live births",line
 #3-2-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,,"Per 1,000 live births",line
 #3-3-1,complete,Tier I,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
@@ -161,8 +161,8 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #3-5-1,notstarted,Tier II,"World Health Organisation (WHO), United Nations Office on Drugs and Crime (UNODC)",,,,,line
 #3-5-2,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #3-6-1,complete,Tier I,World Health Organisation (WHO),,,,"Per 100,000 population",line
-#3-7-1,complete,Tier I,United Nations Population Fund UNFPA,,,,Percent,line
-#3-7-2,complete,Tier I,"Department of Economic and Social Affairs (DESA), United Nations Population Fund (UNFPA)",,,,Percent,line
+#3-7-1,complete,Tier I,United Nations Population Fund UNFPA,,,,Percentage (%),line
+#3-7-2,complete,Tier I,"Department of Economic and Social Affairs (DESA), United Nations Population Fund (UNFPA)",,,,Percentage (%),line
 #3-8-1,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #3-8-2,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #3-9-1,notstarted,Tier I,World Health Organisation (WHO),,,,,line
@@ -173,16 +173,16 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #3-b-2,notstarted,Tier I,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #3-b-3,notstarted,Tier II,World Health Organisation (WHO),,,,,line
 #3-c-1,complete,Tier I,World Health Organisation (WHO),,,,Ratio,line
-#3-d-1,complete,Tier I,World Health Organisation (WHO),True,,,,line
+#3-d-1,complete,Tier I,World Health Organisation (WHO),,,,Percentage (%),line
 #3-d-2,notstarted,Tier II,World Health Organisation (WHO),,,,,line
-#4-1-1,complete,Tier I,UNESCO Institute for Statistics,,,Ghana,Percent,bar
-#4-1-2,complete,Tier I,UNESCO Institute for Statistics,,,,Percent,line
+#4-1-1,complete,Tier I,UNESCO Institute for Statistics,,,Ghana,Percentage (%),bar
+#4-1-2,complete,Tier I,UNESCO Institute for Statistics,,,,Percentage (%),line
 #4-2-1,complete,Tier II,United Nations Children's Fund (UNICEF),,,,Percent,bar
 #4-2-2,complete,Tier I,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,True,,Percent,bar
 #4-3-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,,,line
 #4-4-1,notstarted,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,,,line
 #4-5-1,complete,Tier I/II depending on indice,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,Index,line
-#4-6-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,,Percent,bar
+#4-6-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,,Percentage(%),bar
 #4-7-1,notstarted,Tier II,"United Nations Educational, Scientific and Cultural Organization - Institute for Statistics (UNESCO-UIS)",,,,,line
 #4-a-1,complete,Tier II,"United Nations Educational, Scientific and Cultural Organization - Institute for Statistics (UNESCO-UIS)",,,,Percent,line
 #4-b-1,notstarted,Tier I,Organisation for Economic Co-operation and Development (OECD),,,,,line
@@ -190,21 +190,21 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #5-1-1,complete,Tier II,"UN Women, World Bank (WB), Organisation for Economic Co-operation and Development (OECD)",True,,,,line
 #5-2-1,complete,Tier II,"United Nations Childrens Fund (UNICEF), The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Population Fund (UNFPA), World Health Organization (WHO), United Nations Office on Drugs and Crime (UNODC)",,,,,bar
 #5-2-2,notstarted,Tier II,"United Nations Children’s Fund (UNICEF), The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Population Fund (UNFPA), World Health Organization (WHO), United Nations Office on Drugs and Crime (UNODC)",,,,,line
-#5-3-1,complete,Tier I,United Nations Children's Fund (UNICEFF),,,,Percent,bar
-#5-3-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,,Percent,bar
+#5-3-1,complete,Tier I,United Nations Children's Fund (UNICEFF),,,,Percentage (%),bar
+#5-3-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,,Percentage (%),bar
 #5-4-1,complete,Tier II,UN Statistics Division (UNSD),,,,Minute(s),bar
 #5-5-1,complete,Tier I,"Inter-Parliamentary Union (IPU), UN Women",,,,Percent,line
 #5-5-2,notstarted,Tier I,International Labour Organization (ILO),,,,,line
 #5-6-1,notstarted,Tier II,United Nations Population Fund UNFPA,,,,,line
 #5-6-2,complete,Tier II,United Nations Population Fund UNFPA,True,,,,line
-#5-a-1,complete,Tier II,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Statistics Division (UNSD), Food and Agriculture Organization of the United Nations (FAO)",,,,Percent,bar
+#5-a-1,complete,Tier II,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Statistics Division (UNSD), Food and Agriculture Organization of the United Nations (FAO)",,,,Percentage (%),bar
 #5-a-2,notstarted,Tier II,Food and Agriculture Organization (FAO),,,,,line
-#5-b-1,complete,Tier II,International Telecommunication Union (ITU),,,,Percent,bar
+#5-b-1,complete,Tier II,International Telecommunication Union (ITU),,,,Percentage (%),bar
 #5-c-1,complete,Tier II,"UN Women, Organisation for Economic Co-operation and Development (OECD)",True,,,,line
-#6-1-1,complete,Tier II,"World Health Organisation (WHO), United Nations Children's Fund (UNICEFF)",,,,Percent,line
+#6-1-1,complete,Tier II,"World Health Organisation (WHO), United Nations Children's Fund (UNICEFF)",,,,Percentage (%),line
 #6-2-1,complete,Tier II,"World Health Organisation (WHO), United Nations Children's Fund (UNICEFF)",,,,Percent,bar
-#6-3-1,complete,Tier II,"World Health Organisation (WHO), United Nations Human Settlements Programme (UN-Habitat), United Nations Statistics Division (UNSD)",,,,Percent,line
-#6-3-2,complete,Tier II,United Nations Environment Programme (UNEP) (GEMS/Water),,,,,line
+#6-3-1,complete,Tier II,"World Health Organisation (WHO), United Nations Human Settlements Programme (UN-Habitat), United Nations Statistics Division (UNSD)",,,,Percentage (%),bar
+#6-3-2,complete,Tier II,United Nations Environment Programme (UNEP) (GEMS/Water),,,,Percentage (&),line
 #6-4-1,notstarted,Tier I,Food and Agriculture Organization (FAO),,,,,line
 #6-4-2,complete,Tier I,Food and Agriculture Organization of the United Nations (FAO),,,,m3/per person/year,line
 #6-5-1,complete,Tier I,United Nations Environment Programme (UNEP),,,,Percent,line
@@ -212,17 +212,17 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #6-6-1,notstarted,Tier I,"UN Environment (UNEP), Ramsar",,,,,line
 #6-a-1,notstarted,Tier I,"World Health Organization (WHO), United Nations Environment Programme (UNEP), Organisation for Economic Co-operation and Development (OECD)",,,,,line
 #6-b-1,notstarted,Tier I,"World Health Organisation (WHO), UN Environment (UNEP), Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,complete,Tier I,World Bank (WB),,,,Percent,line
+#7-1-1,complete,Tier I,World Bank (WB),,,,Percentage (%),line
 #7-1-2,complete,Tier I,"International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), The World Trade Organization (WTO)",,,,Percent,line
 #7-2-1,complete,Tier I,"International Energy Agency (IEA), United Nations Statistics Division (UNSD), United Nations' inter-agency mechanism on energy (UN Energy) and the SE4ALL Global Tracking Framework Consortium",,,,Percent,line
 #7-3-1,complete,Tier I,International Energy Agency (IEA) and United Nations Statistics Division (UNSD).,,,,TOE/million US$,line
 #7-a-1,notstarted,Tier I,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
 #7-b-1,complete,Tier I,International Renewable Energy Agency (IRENA),,,,Watts per capita,line
-#8-1-1,complete,Tier I,United Nations Statistics Division (UNSD),,,,Percent,line
+#8-1-1,complete,Tier I,United Nations Statistics Division (UNSD),,,,Percentage (%),line
 #8-10-1,complete,Tier I,International Monetary Fund (IMF),,,,"Per 100,000 population",line
 #8-10-2,complete,Tier I,World Bank (WB),,,,Million mobile money accounts,line
 #8-2-1,notstarted,Tier I,International Labour Organization (ILO),,,,,line
-#8-3-1,complete,Tier II,International Labour Organization (ILO),,,,Percent,line
+#8-3-1,complete,Tier II,International Labour Organization (ILO),,,,Percentage (%),line
 #8-4-1,notstarted,Tier II,United Nations Environment Programme (UNEP),,,,,line
 #8-4-2,notstarted,Tier I,United Nations Environment Programme (UNEP),,,,,line
 #8-5-1,complete,Tier II,International Labour Organization (ILO),,,,Ghana Cedi,line
@@ -237,7 +237,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #9-1-1,notstarted,Tier II,World Bank (WB),,,,,line
 #9-1-2,complete,Tier I,International Civil Aviation Organization (ICAO),,,,,line
 #9-2-1,complete,Tier I,United Nations Industrial Development Organization (UNIDO),,,,,line
-#9-2-2,complete,Tier I,United Nations Industrial Development Organization (UNIDO),,,,Percent,line
+#9-2-2,complete,Tier I,United Nations Industrial Development Organization (UNIDO),,,,Percentage (%),line
 #9-3-1,notstarted,Tier II,United Nations Industrial Development Organization (UNIDO),,,,,line
 #9-3-2,notstarted,Tier I,"United Nations Industrial Development Organization (UNIDO), World Bank (WB)",,,,,line
 #9-4-1,complete,Tier I,"International Energy Agency (IEA), United Nations Industrial Development Organization (UNIDO)",,,,kg CO2 equivalent per constant 2010 GDP $,line

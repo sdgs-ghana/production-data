@@ -1,10 +1,13 @@
-Year,SERIES,Value
-2011,Proportion of children moderately or severely overweight [2.2.2],2.6
-2014,Proportion of children moderately or severely overweight [2.2.2],2.6
-2017,Proportion of children moderately or severely overweight [2.2.2],1.4
-2011,Proportion of children moderately or severely wasted [2.2.2],6.2
-2014,Proportion of children moderately or severely wasted [2.2.2],4.7
-2017,Proportion of children moderately or severely wasted [2.2.2],6.8
-2011,Proportion of children underweight,13.4
-2014,Proportion of children underweight,11.0
-2017,Proportion of children underweight,12.6
+Year,SERIES,Observation-level footnotes,Value
+2011,Proportion of children moderately or severely overweight [2.2.2],,2.6
+2014,Proportion of children moderately or severely overweight [2.2.2],,2.6
+2017,Proportion of children moderately or severely overweight [2.2.2],,1.4
+2025,Proportion of children moderately or severely overweight [2.2.2],projection,0.0
+2011,Proportion of children moderately or severely wasted [2.2.2],,6.2
+2014,Proportion of children moderately or severely wasted [2.2.2],,4.7
+2017,Proportion of children moderately or severely wasted [2.2.2],,6.8
+2025,Proportion of children moderately or severely wasted [2.2.2],projection,7.0
+2011,Proportion of children underweight,,13.4
+2014,Proportion of children underweight,,11.0
+2017,Proportion of children underweight,,12.6
+2025,Proportion of children underweight,projection,10.9

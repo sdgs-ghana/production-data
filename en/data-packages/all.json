@@ -660,6 +660,17 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "projection"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -2169,6 +2180,58 @@
       "title": "Health worker density and distribution"
     },
     {
+      "path": "3-d-1/data.csv",
+      "name": "3-d-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Legislation and financing",
+                "IHR Coordination and National Focal Point Functions",
+                "Zoonotic events and the Human-Animal Health Interface",
+                "Food safety",
+                "Laboratory",
+                "Surveillance",
+                "Human resources",
+                "National Health Emergency Framework",
+                "Health Service Provision",
+                "Risk communication",
+                "Points of entry",
+                "Chemical events",
+                "Radiation emergencies"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
+    },
+    {
       "path": "14-1-1/data.csv",
       "name": "14-1-1",
       "profile": "tabular-data-resource",
@@ -2246,9 +2309,32 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "Food provision (OHI goal)",
+                "Wild caught Fisheries(OHI sub-goal)",
+                "Mariculture (OHI sub-goal)",
+                "Artisanal fishing opportunities (OHI goal)",
+                "Natural products (OHI goal)",
+                "Carbon storage (OHI goal)",
+                "Coastal protection (OHI goal)",
+                "Livelihoods & economies (OHI goal)",
+                "Livelihoods (OHI sub-goal)",
+                "Economies (OHI sub-goal)",
+                "Tourism & recreation (OHI goal)",
+                "Sense of place (OHI goal)",
+                "Iconic species (OHI sub-goal)",
+                "Lasting special places (OHI sub-goal)",
+                "Clean water (OHI goal)",
+                "Biodiversity (OHI goal)",
+                "Habitat (OHI sub-goal)",
+                "Species condition (OHI sub-goal)"
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
@@ -2441,16 +2527,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
           {
             "name": "Value",
             "type": "number",
@@ -3052,6 +3128,52 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Western",
+                "Central",
+                "Greater Accra",
+                "Volta",
+                "Eastern",
+                "Ashanti",
+                "Brong Ahafo",
+                "Northern",
+                "Upper East",
+                "Western",
+                "Bono East",
+                "Upper West",
+                "Oti",
+                "Northern",
+                "Savannah",
+                "North East",
+                "Upper East",
+                "Upper West",
+                "Central",
+                "Greater Accra",
+                "Volta",
+                "Eastern",
+                "Ashanti",
+                "Western North",
+                "Ahafo",
+                "Bono"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
           {
             "name": "URBANISATION",
             "type": "string",
@@ -3843,6 +3965,7 @@
               "enum": [
                 "",
                 "Western",
+                "Central",
                 "Greater Accra",
                 "Volta",
                 "Eastern",
@@ -4382,54 +4505,6 @@
       "title": "Number of countries using ecosystem-based approaches to managing marine areas"
     },
     {
-      "path": "2-5-1/data.csv",
-      "name": "2-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
-    },
-    {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
-    },
-    {
       "path": "13-1-2/data.csv",
       "name": "13-1-2",
       "profile": "tabular-data-resource",
@@ -4860,54 +4935,6 @@
         ]
       },
       "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
-    },
-    {
-      "path": "2-5-2/data.csv",
-      "name": "2-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
-    },
-    {
-      "path": "3-d-1/data.csv",
-      "name": "3-d-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
     },
     {
       "path": "10-7-2/data.csv",
@@ -6020,18 +6047,41 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture",
+                "Industry",
+                "Services"
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
       },
-      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+      "title": "Sectoral contributions to GDP"
     },
     {
       "path": "13-b-1/data.csv",
@@ -6056,6 +6106,30 @@
         ]
       },
       "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "11-a-1/data.csv",
@@ -6152,6 +6226,30 @@
         ]
       },
       "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
+    },
+    {
+      "path": "2-5-1/data.csv",
+      "name": "2-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     },
     {
       "path": "17-5-1/data.csv",
@@ -7064,6 +7162,30 @@
         ]
       },
       "title": "Proportion of population satisfied with their last experience of public services"
+    },
+    {
+      "path": "2-5-2/data.csv",
+      "name": "2-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of local breeds classified as being at risk of extinction"
     },
     {
       "path": "11-b-2/data.csv",

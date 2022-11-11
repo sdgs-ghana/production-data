@@ -22,6 +22,7 @@
               "enum": [
                 "",
                 "Western",
+                "Central",
                 "Greater Accra",
                 "Volta",
                 "Eastern",

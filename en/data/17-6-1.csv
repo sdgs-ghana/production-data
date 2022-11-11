@@ -1,7 +1,7 @@
 Year,SERIES,Degree of urbanisation,UNIT_MEASURE,Value
-2019,Households access to fixed internet service,,Percent,16.8
-2019,Households access to fixed internet service,Urban,Percent,20.0
-2019,Households access to fixed internet service,Rural,Percent,12.8
+2019,Households access to fixed internet service,,Percentage (%),16.8
+2019,Households access to fixed internet service,Urban,Percentage (%),20.0
+2019,Households access to fixed internet service,Rural,Percentage (%),12.8
 2016,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,0.31
 2018,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,0.2
 2019,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,0.19

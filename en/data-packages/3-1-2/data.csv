@@ -1,53 +1,53 @@
 Year,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,GeoCode,Value
-2003,Proportion of births attended by skilled health personnel [3.1.2],,,,,47.1
-2008,Proportion of births attended by skilled health personnel [3.1.2],,,,,58.7
-2014,Proportion of births attended by skilled health personnel [3.1.2],,,,,73.7
-2017,Proportion of births attended by skilled health personnel [3.1.2],,,,,79.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Upper West,,,10_o,63.7
-2017,Proportion of births attended by skilled health personnel [3.1.2],Upper West,,,10_o,83.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Upper East,,,09_o,84.6
-2017,Proportion of births attended by skilled health personnel [3.1.2],Upper East,,,09_o,94.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Northern,,,08_o,36.4
-2017,Proportion of births attended by skilled health personnel [3.1.2],Northern,,,08_o,60.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Brong Ahafo,,,07_o,79.0
-2017,Proportion of births attended by skilled health personnel [3.1.2],Brong Ahafo,,,07_o,86.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Ashanti,,,06_o,86.3
-2017,Proportion of births attended by skilled health personnel [3.1.2],Ashanti,,,06_o,82.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Eastern,,,05_o,67.2
-2017,Proportion of births attended by skilled health personnel [3.1.2],Eastern,,,05_o,79.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Volta,,,04_o,66.3
-2017,Proportion of births attended by skilled health personnel [3.1.2],Volta,,,04_o,69.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Greater Accra,,,03_o,92.1
-2017,Proportion of births attended by skilled health personnel [3.1.2],Greater Accra,,,03_o,93.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Central,,,02_o,72.0
-2017,Proportion of births attended by skilled health personnel [3.1.2],Central,,,02_o,73.0
-2014,Proportion of births attended by skilled health personnel [3.1.2],Western,,,01_o,75.3
-2017,Proportion of births attended by skilled health personnel [3.1.2],Western,,,01_o,80.0
-2017,Homes deliveries by region and locality type,,Urban,,,11.0
-2017,Homes deliveries by region and locality type,Northern,Urban,,08_o,18.0
-2017,Homes deliveries by region and locality type,Volta,Urban,,04_o,22.0
-2017,Homes deliveries by region and locality type,Eastern,Urban,,05_o,9.0
-2017,Homes deliveries by region and locality type,Central,Urban,,02_o,16.0
-2017,Homes deliveries by region and locality type,Western,Urban,,01_o,11.0
-2017,Homes deliveries by region and locality type,Brong Ahafo,Urban,,07_o,9.0
-2017,Homes deliveries by region and locality type,Ashanti,Urban,,06_o,6.0
-2017,Homes deliveries by region and locality type,Upper West,Urban,,10_o,6.0
-2017,Homes deliveries by region and locality type,Greater Accra,Urban,,03_o,8.0
-2017,Homes deliveries by region and locality type,Upper East,Urban,,09_o,4.0
-2017,Homes deliveries by region and locality type,,Rural,,,29.0
-2017,Homes deliveries by region and locality type,Northern,Rural,,08_o,49.0
-2017,Homes deliveries by region and locality type,Volta,Rural,,04_o,45.0
-2017,Homes deliveries by region and locality type,Eastern,Rural,,05_o,32.0
-2017,Homes deliveries by region and locality type,Central,Rural,,02_o,31.0
-2017,Homes deliveries by region and locality type,Western,Rural,,01_o,30.0
-2017,Homes deliveries by region and locality type,Brong Ahafo,Rural,,07_o,28.0
-2017,Homes deliveries by region and locality type,Ashanti,Rural,,06_o,27.0
-2017,Homes deliveries by region and locality type,Upper West,Rural,,10_o,22.0
-2017,Homes deliveries by region and locality type,Greater Accra,Rural,,03_o,14.0
-2017,Homes deliveries by region and locality type,Upper East,Rural,,09_o,10.0
-2017,Type of care received during Health facility delivery,,,Skilled Care,,91.0
-2017,Type of care received during Health facility delivery,,,Unskilled Care,,2.0
-2017,Type of care received during Health facility delivery,,,No Care,,7.0
-2017,Type of care received during Home delivery,,,Skilled Care,,54.0
-2017,Type of care received during Home delivery,,,Unskilled Care,,21.0
-2017,Type of care received during Home delivery,,,No Care,,25.0
+2003,1.Proportion of births attended by skilled health personnel [3.1.2],,,,,47.1
+2008,1.Proportion of births attended by skilled health personnel [3.1.2],,,,,58.7
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],,,,,73.7
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],,,,,79.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Upper West,,,10_o,63.7
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Upper West,,,10_o,83.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Upper East,,,09_o,84.6
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Upper East,,,09_o,94.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Northern,,,08_o,36.4
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Northern,,,08_o,60.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Brong Ahafo,,,07_o,79.0
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Brong Ahafo,,,07_o,86.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Ashanti,,,06_o,86.3
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Ashanti,,,06_o,82.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Eastern,,,05_o,67.2
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Eastern,,,05_o,79.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Volta,,,04_o,66.3
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Volta,,,04_o,69.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Greater Accra,,,03_o,92.1
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Greater Accra,,,03_o,93.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Central,,,02_o,72.0
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Central,,,02_o,73.0
+2014,1.Proportion of births attended by skilled health personnel [3.1.2],Western,,,01_o,75.3
+2017,1.Proportion of births attended by skilled health personnel [3.1.2],Western,,,01_o,80.0
+2017,2.Homes deliveries by region and locality type,,Urban,,,11.0
+2017,2.Homes deliveries by region and locality type,Northern,Urban,,08_o,18.0
+2017,2.Homes deliveries by region and locality type,Volta,Urban,,04_o,22.0
+2017,2.Homes deliveries by region and locality type,Eastern,Urban,,05_o,9.0
+2017,2.Homes deliveries by region and locality type,Central,Urban,,02_o,16.0
+2017,2.Homes deliveries by region and locality type,Western,Urban,,01_o,11.0
+2017,2.Homes deliveries by region and locality type,Brong Ahafo,Urban,,07_o,9.0
+2017,2.Homes deliveries by region and locality type,Ashanti,Urban,,06_o,6.0
+2017,2.Homes deliveries by region and locality type,Upper West,Urban,,10_o,6.0
+2017,2.Homes deliveries by region and locality type,Greater Accra,Urban,,03_o,8.0
+2017,2.Homes deliveries by region and locality type,Upper East,Urban,,09_o,4.0
+2017,2.Homes deliveries by region and locality type,,Rural,,,29.0
+2017,2.Homes deliveries by region and locality type,Northern,Rural,,08_o,49.0
+2017,2.Homes deliveries by region and locality type,Volta,Rural,,04_o,45.0
+2017,2.Homes deliveries by region and locality type,Eastern,Rural,,05_o,32.0
+2017,2.Homes deliveries by region and locality type,Central,Rural,,02_o,31.0
+2017,2.Homes deliveries by region and locality type,Western,Rural,,01_o,30.0
+2017,2.Homes deliveries by region and locality type,Brong Ahafo,Rural,,07_o,28.0
+2017,2.Homes deliveries by region and locality type,Ashanti,Rural,,06_o,27.0
+2017,2.Homes deliveries by region and locality type,Upper West,Rural,,10_o,22.0
+2017,2.Homes deliveries by region and locality type,Greater Accra,Rural,,03_o,14.0
+2017,2.Homes deliveries by region and locality type,Upper East,Rural,,09_o,10.0
+2017,3.Type of care received during Health facility delivery,,,Skilled Care,,91.0
+2017,3.Type of care received during Health facility delivery,,,Unskilled Care,,2.0
+2017,3.Type of care received during Health facility delivery,,,No Care,,7.0
+2017,4.Type of care received during Home delivery,,,Skilled Care,,54.0
+2017,4.Type of care received during Home delivery,,,Unskilled Care,,21.0
+2017,4.Type of care received during Home delivery,,,No Care,,25.0

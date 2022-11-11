@@ -1,21 +1,21 @@
 Year,Value,GeoCode,SERIES
-1990,760.0,,Survey-based Maternal mortality ratio [3.1.1]
-2007,580.0,,Survey-based Maternal mortality ratio [3.1.1]
-2017,310.0,,Survey-based Maternal mortality ratio [3.1.1]
-2010,485.0,,Census-based Maternal mortality ratio [3.1.1]
-2021,301.0,,Census-based Maternal mortality ratio [3.1.1]
-2007,224.0,,Institutional maternal mortality ratio
-2008,200.0,,Institutional maternal mortality ratio
-2009,170.0,,Institutional maternal mortality ratio
-2010,163.0,,Institutional maternal mortality ratio
-2011,195.0,,Institutional maternal mortality ratio
-2012,152.0,,Institutional maternal mortality ratio
-2013,155.0,,Institutional maternal mortality ratio
-2014,144.0,,Institutional maternal mortality ratio
-2015,142.0,,Institutional maternal mortality ratio
-2016,151.0,,Institutional maternal mortality ratio
-2017,147.0,,Institutional maternal mortality ratio
-2018,128.6,,Institutional maternal mortality ratio
-2019,117.6,,Institutional maternal mortality ratio
-2020,109.2,,Institutional maternal mortality ratio
-2021,96.8,,Institutional maternal mortality ratio
+1990,760.0,,2.Survey-based Maternal mortality ratio [3.1.1]
+2007,580.0,,2.Survey-based Maternal mortality ratio [3.1.1]
+2017,310.0,,2.Survey-based Maternal mortality ratio [3.1.1]
+2010,485.0,,3.Census-based Maternal mortality ratio [3.1.1]
+2021,301.0,,3.Census-based Maternal mortality ratio [3.1.1]
+2007,224.0,,1.Institutional maternal mortality ratio
+2008,200.0,,1.Institutional maternal mortality ratio
+2009,170.0,,1.Institutional maternal mortality ratio
+2010,163.0,,1.Institutional maternal mortality ratio
+2011,195.0,,1.Institutional maternal mortality ratio
+2012,152.0,,1.Institutional maternal mortality ratio
+2013,155.0,,1.Institutional maternal mortality ratio
+2014,144.0,,1.Institutional maternal mortality ratio
+2015,142.0,,1.Institutional maternal mortality ratio
+2016,151.0,,1.Institutional maternal mortality ratio
+2017,147.0,,1.Institutional maternal mortality ratio
+2018,128.6,,1.Institutional maternal mortality ratio
+2019,117.6,,1.Institutional maternal mortality ratio
+2020,109.2,,1.Institutional maternal mortality ratio
+2021,96.8,,1.Institutional maternal mortality ratio

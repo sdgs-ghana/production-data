@@ -11,13 +11,41 @@
       "schema": {
         "fields": [
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Legislation and financing",
+                "IHR Coordination and National Focal Point Functions",
+                "Zoonotic events and the Human-Animal Health Interface",
+                "Food safety",
+                "Laboratory",
+                "Surveillance",
+                "Human resources",
+                "National Health Emergency Framework",
+                "Health Service Provision",
+                "Risk communication",
+                "Points of entry",
+                "Chemical events",
+                "Radiation emergencies"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

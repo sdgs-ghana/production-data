@@ -19,6 +19,16 @@
             "type": "string"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "projection",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

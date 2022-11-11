@@ -11,6 +11,17 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "projection"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"

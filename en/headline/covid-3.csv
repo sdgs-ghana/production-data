@@ -1,7 +1,7 @@
 Year,Value,UNIT_MEASURE,SERIES
-2020-06,10.9,Percent,Proportion of households that could not buy medicine
-2020-06,93.9,Percent,Proportion of households that needed healthcare and were able to access it
-2020-06,29.4,Percent,Proportion of children missing vaccinations
-2020-09,10.9,Percent,Proportion of households that could not buy medicine
-2020-09,95.7,Percent,Proportion of households that needed healthcare and were able to access it
-2020-09,20.6,Percent,Proportion of children missing vaccinations
+2020-06,10.9,Percentage (%),Proportion of households that could not buy medicine
+2020-06,93.9,Percentage (%),Proportion of households that needed healthcare and were able to access it
+2020-06,29.4,Percentage (%),Proportion of children missing vaccinations
+2020-09,10.9,Percentage (%),Proportion of households that could not buy medicine
+2020-09,95.7,Percentage (%),Proportion of households that needed healthcare and were able to access it
+2020-09,20.6,Percentage (%),Proportion of children missing vaccinations

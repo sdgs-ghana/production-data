@@ -1,9 +1,9 @@
 Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
-2016,Official development assistance grants as percentage of GNI [1.a.1],,Percent,1.0
-2017,Official development assistance grants as percentage of GNI [1.a.1],,Percent,1.1
-2018,Official development assistance grants as percentage of GNI [1.a.1],,Percent,0.51
-2019,Official development assistance grants as percentage of GNI [1.a.1],,Percent,0.7
-2020,Official development assistance grants as percentage of GNI [1.a.1],,Percent,0.71
+2016,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),1.0
+2017,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),1.1
+2018,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),0.51
+2019,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),0.7
+2020,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),0.71
 2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,79.59
 2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,0.02
 2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Other Fund,Million Ghana Cedis,65.4
@@ -52,9 +52,9 @@ Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),Statutory,Million Ghana Cedis,34.1
 2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),Development Partner,Million Ghana Cedis,6.54
 2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),,Million Ghana Cedis,383.61
-2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Government of Ghana,Percent,71.4
-2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Internally Generated Funds,Percent,0.6
-2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Other Fund,Percent,17.4
-2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Statutory,Percent,8.9
-2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Development Partner,Percent,1.7
-2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,,Percent,100.0
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Government of Ghana,Percentage (%),71.4
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Internally Generated Funds,Percentage (%),0.6
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Other Fund,Percentage (%),17.4
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Statutory,Percentage (%),8.9
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Development Partner,Percentage (%),1.7
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,,Percentage (%),100.0

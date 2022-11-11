@@ -1,30 +1,30 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-01_o,Western,18,10
-02_o,Central,17,9
-03_o,Greater Accra,18,10
-04_o,Volta,18,10
-05_o,Eastern,18,10
-06_o,Ashanti,18,10
-07_o,Brong Ahafo,18,10
-08_o,Northern,18,10
-09_o,Upper East,18,10
-1,Western,32,5
-10,Bono East,32,5
-10_o,Upper West,18,10
-11,Oti,32,5
-12,Northern,32,5
-13,Savannah,32,5
-14,North East,32,5
-15,Upper East,32,5
-16,Upper West,32,5
-2,Central,32,5
-3,Greater Accra,32,5
-4,Volta,32,5
-5,Eastern,32,5
-6,Ashanti,32,5
-7,Western North,32,5
-8,Ahafo,32,5
-9,Bono,32,5
+01_o,Western,19,11
+02_o,Central,19,11
+03_o,Greater Accra,19,11
+04_o,Volta,19,11
+05_o,Eastern,19,11
+06_o,Ashanti,19,11
+07_o,Brong Ahafo,19,11
+08_o,Northern,19,11
+09_o,Upper East,19,11
+1,Western,35,6
+10,Bono East,35,6
+10_o,Upper West,19,11
+11,Oti,35,6
+12,Northern,35,6
+13,Savannah,35,6
+14,North East,35,6
+15,Upper East,35,6
+16,Upper West,35,6
+2,Central,35,6
+3,Greater Accra,35,6
+4,Volta,35,6
+5,Eastern,35,6
+6,Ashanti,35,6
+7,Western North,35,6
+8,Ahafo,35,6
+9,Bono,35,6
 _L_GH_Coastal,Coastal Zone,1,1
 _L_GH_Forest,Forest Zone,1,1
 _L_GH_Savannah,Savannah Zone,1,1

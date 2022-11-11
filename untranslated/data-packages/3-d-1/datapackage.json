@@ -12,11 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IHR_01_N",
+                "IHR_02_N",
+                "IHR_03_N",
+                "IHR_04_N",
+                "IHR_05_N",
+                "IHR_06_N",
+                "IHR_07_N",
+                "IHR_08_N",
+                "IHR_09_N",
+                "IHR_10_N",
+                "IHR_11_N",
+                "IHR_12_N",
+                "IHR_13_N",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

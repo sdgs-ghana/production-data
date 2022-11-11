@@ -11,9 +11,32 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "Food provision (OHI goal)",
+                "Wild caught Fisheries(OHI sub-goal)",
+                "Mariculture (OHI sub-goal)",
+                "Artisanal fishing opportunities (OHI goal)",
+                "Natural products (OHI goal)",
+                "Carbon storage (OHI goal)",
+                "Coastal protection (OHI goal)",
+                "Livelihoods & economies (OHI goal)",
+                "Livelihoods (OHI sub-goal)",
+                "Economies (OHI sub-goal)",
+                "Tourism & recreation (OHI goal)",
+                "Sense of place (OHI goal)",
+                "Iconic species (OHI sub-goal)",
+                "Lasting special places (OHI sub-goal)",
+                "Clean water (OHI goal)",
+                "Biodiversity (OHI goal)",
+                "Habitat (OHI sub-goal)",
+                "Species condition (OHI sub-goal)"
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
