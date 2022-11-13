@@ -1,45 +1,45 @@
-Year,SERIES,Sex,Age,Degree of urbanisation,Disability status,Value
-2017,"Unemployment rate, by disability [8.5.2]",,,,Persons with speech disability,5.0
-2017,"Unemployment rate, by disability [8.5.2]",,,,Persons with sight disability,24.0
-2017,"Unemployment rate, by disability [8.5.2]",,,,Persons with physical disability,17.0
-2017,"Unemployment rate, by disability [8.5.2]",,,,Persons with intellectual disability,5.0
-2017,"Unemployment rate, by disability [8.5.2]",,,,Persons with hearing disability,19.0
-2017,"Unemployment rate, by disability [8.5.2]",,,,Persons with emotional disability,30.0
-2013,Unemployment rate [8.5.2],,,,,5.2
-2015,Unemployment rate [8.5.2],,,,,11.9
-2017,Unemployment rate [8.5.2],,,,,8.4
-2013,Unemployment rate [8.5.2],Male,,,,4.8
-2015,Unemployment rate [8.5.2],Male,,,,11.1
-2017,Unemployment rate [8.5.2],Male,,,,7.5
-2013,Unemployment rate [8.5.2],Female,,,,5.5
-2015,Unemployment rate [8.5.2],Female,,,,12.5
-2017,Unemployment rate [8.5.2],Female,,,,9.2
-2013,Unemployment rate [8.5.2],,,Urban,,6.5
-2015,Unemployment rate [8.5.2],,,Urban,,13.4
-2017,Unemployment rate [8.5.2],,,Urban,,11.4
-2013,Unemployment rate [8.5.2],Male,,Urban,,6.1
-2015,Unemployment rate [8.5.2],Male,,Urban,,13.2
-2017,Unemployment rate [8.5.2],Male,,Urban,,10.7
-2013,Unemployment rate [8.5.2],Female,,Urban,,6.9
-2015,Unemployment rate [8.5.2],Female,,Urban,,13.6
-2017,Unemployment rate [8.5.2],Female,,Urban,,12.0
-2013,Unemployment rate [8.5.2],,,Rural,,3.9
-2015,Unemployment rate [8.5.2],,,Rural,,10.2
-2017,Unemployment rate [8.5.2],,,Rural,,5.2
-2013,Unemployment rate [8.5.2],Male,,Rural,,3.6
-2015,Unemployment rate [8.5.2],Male,,Rural,,9.0
-2017,Unemployment rate [8.5.2],Male,,Rural,,4.1
-2013,Unemployment rate [8.5.2],Female,,Rural,,4.1
-2015,Unemployment rate [8.5.2],Female,,Rural,,11.3
-2017,Unemployment rate [8.5.2],Female,,Rural,,6.2
-2013,Unemployment rate [8.5.2],,15 to 24 years old,,,10.9
-2017,Unemployment rate [8.5.2],,15 to 24 years old,,,18.4
-2013,Unemployment rate [8.5.2],Male,15 to 24 years old,,,10.2
-2017,Unemployment rate [8.5.2],Male,15 to 24 years old,,,17.9
-2013,Unemployment rate [8.5.2],Female,15 to 24 years old,,,11.7
-2017,Unemployment rate [8.5.2],Female,15 to 24 years old,,,19.1
-2021,Unemployment rate [8.5.2],,15 to 24 years old,,,32.8
-2021,Unemployment rate [8.5.2],Male,15 to 24 years old,,,29.3
-2021,Unemployment rate [8.5.2],Female,15 to 24 years old,,,36.7
-2021,Unemployment rate [8.5.2],,15 to 24 years old,Urban,,35.0
-2021,Unemployment rate [8.5.2],,15 to 24 years old,Rural,,30.2
+Year,Sex,Age,Degree of urbanisation,Disability status,Value
+2017,,,,Persons with speech disability,5.0
+2017,,,,Persons with sight disability,24.0
+2017,,,,Persons with physical disability,17.0
+2017,,,,Persons with intellectual disability,5.0
+2017,,,,Persons with hearing disability,19.0
+2017,,,,Persons with emotional disability,30.0
+2013,,,,,5.2
+2015,,,,,11.9
+2017,,,,,8.4
+2013,Male,,,,4.8
+2015,Male,,,,11.1
+2017,Male,,,,7.5
+2013,Female,,,,5.5
+2015,Female,,,,12.5
+2017,Female,,,,9.2
+2013,,,Urban,,6.5
+2015,,,Urban,,13.4
+2017,,,Urban,,11.4
+2013,Male,,Urban,,6.1
+2015,Male,,Urban,,13.2
+2017,Male,,Urban,,10.7
+2013,Female,,Urban,,6.9
+2015,Female,,Urban,,13.6
+2017,Female,,Urban,,12.0
+2013,,,Rural,,3.9
+2015,,,Rural,,10.2
+2017,,,Rural,,5.2
+2013,Male,,Rural,,3.6
+2015,Male,,Rural,,9.0
+2017,Male,,Rural,,4.1
+2013,Female,,Rural,,4.1
+2015,Female,,Rural,,11.3
+2017,Female,,Rural,,6.2
+2013,,15 to 24 years old,,,10.9
+2017,,15 to 24 years old,,,18.4
+2013,Male,15 to 24 years old,,,10.2
+2017,Male,15 to 24 years old,,,17.9
+2013,Female,15 to 24 years old,,,11.7
+2017,Female,15 to 24 years old,,,19.1
+2021,,15 to 24 years old,,,32.8
+2021,Male,15 to 24 years old,,,29.3
+2021,Female,15 to 24 years old,,,36.7
+2021,,15 to 24 years old,Urban,,35.0
+2021,,15 to 24 years old,Rural,,30.2

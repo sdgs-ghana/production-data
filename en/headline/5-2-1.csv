@@ -1,9 +1,2 @@
-Year,Value,UNIT_MEASURE,SERIES
-2010,12706.0,Number,Reported cases of domestic violence
-2011,17965.0,Number,Reported cases of domestic violence
-2012,17655.0,Number,Reported cases of domestic violence
-2013,19171.0,Number,Reported cases of domestic violence
-2014,17655.0,Number,Reported cases of domestic violence
-2015,15749.0,Number,Reported cases of domestic violence
-2016,12377.0,Number,Reported cases of domestic violence
-2017,8324.0,Number,Reported cases of domestic violence
+Year,Value,SERIES
+2018,36.9,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]

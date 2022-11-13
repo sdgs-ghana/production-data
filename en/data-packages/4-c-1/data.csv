@@ -1,77 +1,41 @@
-Year,SERIES,Education level,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
-2017,Pupil-trained teacher ratio by academic year at the basic level,,Public,Ratio,31.0
-2017,Pupil-trained teacher ratio by academic year at the basic level,,Private,Ratio,175.0
-2018,Pupil-trained teacher ratio by academic year at the basic level,,Public,Ratio,28.0
-2018,Pupil-trained teacher ratio by academic year at the basic level,,Private,Ratio,161.0
-2019,Pupil-trained teacher ratio by academic year at the basic level,,Public,Ratio,27.0
-2019,Pupil-trained teacher ratio by academic year at the basic level,,Private,Ratio,144.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Early childhood education,Public,Ratio,95.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Pre-primary education,Public,Ratio,46.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Primary education,Public,Ratio,39.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Junior High School (JHS),Public,Ratio,16.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,,Public,Ratio,31.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Early childhood education,Public,Ratio,89.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Pre-primary education,Public,Ratio,39.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Primary education,Public,Ratio,35.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Junior High School (JHS),Public,Ratio,16.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,,Public,Ratio,28.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Early childhood education,Public,Ratio,85.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Pre-primary education,Public,Ratio,37.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Primary education,Public,Ratio,33.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Junior High School (JHS),Public,Ratio,15.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,,Public,Ratio,27.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Early childhood education,Private,Ratio,355.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Pre-primary education,Private,Ratio,387.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Primary education,Private,Ratio,217.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,Junior High School (JHS),Private,Ratio,59.0
-2017,Comparison of Pupil-trained teacher ratio by year at the basic level,,Private,Ratio,175.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Early childhood education,Private,Ratio,319.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Pre-primary education,Private,Ratio,333.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Primary education,Private,Ratio,202.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,Junior High School (JHS),Private,Ratio,52.0
-2018,Comparison of Pupil-trained teacher ratio by year at the basic level,,Private,Ratio,161.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Early childhood education,Private,Ratio,273.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Pre-primary education,Private,Ratio,264.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Primary education,Private,Ratio,176.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,Junior High School (JHS),Private,Ratio,48.0
-2019,Comparison of Pupil-trained teacher ratio by year at the basic level,,Private,Ratio,144.0
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Public,Percentage (%),33.1
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Private,Percentage (%),4.8
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Public,Percentage (%),30.4
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Private,Percentage (%),6.7
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Public,Percentage (%),34.4
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Private,Percentage (%),7.7
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Public,Percentage (%),38.5
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Early childhood education,Private,Percentage (%),8.1
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Public,Percentage (%),66.0
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Private,Percentage (%),5.7
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Public,Percentage (%),65.1
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Private,Percentage (%),6.9
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Public,Percentage (%),75.2
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Private,Percentage (%),8.3
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Public,Percentage (%),85.3
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Pre-primary education,Private,Percentage (%),9.7
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Public,Percentage (%),78.0
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Private,Percentage (%),9.3
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Public,Percentage (%),76.0
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Private,Percentage (%),10.3
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Public,Percentage (%),83.8
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Private,Percentage (%),11.6
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Public,Percentage (%),87.6
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Primary education,Private,Percentage (%),12.5
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Public,Percentage (%),89.6
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Private,Percentage (%),18.7
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Public,Percentage (%),88.1
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Private,Percentage (%),19.3
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Public,Percentage (%),91.5
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Private,Percentage (%),21.3
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Public,Percentage (%),94.2
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Junior High School (JHS),Private,Percentage (%),21.7
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Public,Percentage (%),90.6
-2016,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Private,Percentage (%),49.2
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Public,Percentage (%),90.1
-2017,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Private,Percentage (%),51.8
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Public,Percentage (%),91.8
-2018,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Private,Percentage (%),49.3
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Public,Percentage (%),88.6
-2019,Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1],Senior High School (SHS),Private,Percentage (%),53.2
+Year,Education level,COMPOSITE_BREAKDOWN,Value
+2016,Early childhood education,Public,33.1
+2016,Early childhood education,Private,4.8
+2017,Early childhood education,Public,30.4
+2017,Early childhood education,Private,6.7
+2018,Early childhood education,Public,34.4
+2018,Early childhood education,Private,7.7
+2019,Early childhood education,Public,38.5
+2019,Early childhood education,Private,8.1
+2016,Pre-primary education,Public,66.0
+2016,Pre-primary education,Private,5.7
+2017,Pre-primary education,Public,65.1
+2017,Pre-primary education,Private,6.9
+2018,Pre-primary education,Public,75.2
+2018,Pre-primary education,Private,8.3
+2019,Pre-primary education,Public,85.3
+2019,Pre-primary education,Private,9.7
+2016,Primary education,Public,78.0
+2016,Primary education,Private,9.3
+2017,Primary education,Public,76.0
+2017,Primary education,Private,10.3
+2018,Primary education,Public,83.8
+2018,Primary education,Private,11.6
+2019,Primary education,Public,87.6
+2019,Primary education,Private,12.5
+2016,Junior High School (JHS),Public,89.6
+2016,Junior High School (JHS),Private,18.7
+2017,Junior High School (JHS),Public,88.1
+2017,Junior High School (JHS),Private,19.3
+2018,Junior High School (JHS),Public,91.5
+2018,Junior High School (JHS),Private,21.3
+2019,Junior High School (JHS),Public,94.2
+2019,Junior High School (JHS),Private,21.7
+2016,Senior High School (SHS),Public,90.6
+2016,Senior High School (SHS),Private,49.2
+2017,Senior High School (SHS),Public,90.1
+2017,Senior High School (SHS),Private,51.8
+2018,Senior High School (SHS),Public,91.8
+2018,Senior High School (SHS),Private,49.3
+2019,Senior High School (SHS),Public,88.6
+2019,Senior High School (SHS),Private,53.2

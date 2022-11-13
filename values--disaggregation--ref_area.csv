@@ -1,16 +1,16 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-01_o,Western,19,11
-02_o,Central,19,11
-03_o,Greater Accra,19,11
-04_o,Volta,19,11
-05_o,Eastern,19,11
-06_o,Ashanti,19,11
-07_o,Brong Ahafo,19,11
-08_o,Northern,19,11
-09_o,Upper East,19,11
+01_o,Western,16,10
+02_o,Central,16,10
+03_o,Greater Accra,16,10
+04_o,Volta,16,10
+05_o,Eastern,16,10
+06_o,Ashanti,16,10
+07_o,Brong Ahafo,16,10
+08_o,Northern,16,10
+09_o,Upper East,16,10
 1,Western,35,6
 10,Bono East,35,6
-10_o,Upper West,19,11
+10_o,Upper West,16,10
 11,Oti,35,6
 12,Northern,35,6
 13,Savannah,35,6

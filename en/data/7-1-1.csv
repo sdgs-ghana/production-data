@@ -1,134 +1,104 @@
-Year,SERIES,Reference area,Degree of urbanisation,GeoCode,Value
-2010,Proportion of household with access to electricity [7.1.1],,,,64.2
-2013,Proportion of household with access to electricity [7.1.1],,,,70.6
-2014,Proportion of household with access to electricity [7.1.1],,,,73.1
-2015,Proportion of household with access to electricity [7.1.1],,,,75.7
-2016,Proportion of household with access to electricity [7.1.1],,,,78.5
-2017,Proportion of household with access to electricity [7.1.1],,,,81.4
-2018,Proportion of household with access to electricity [7.1.1],,,,81.6
-2019,Proportion of household with access to electricity [7.1.1],,,,82.5
-2020,Proportion of household with access to electricity [7.1.1],,,,82.8
-2021,Proportion of household with access to electricity [7.1.1],,,,83.9
-2010,Proportion of household with access to electricity [7.1.1],,Urban,,83.8
-2013,Proportion of household with access to electricity [7.1.1],,Urban,,88.6
-2014,Proportion of household with access to electricity [7.1.1],,Urban,,89.8
-2015,Proportion of household with access to electricity [7.1.1],,Urban,,90.7
-2016,Proportion of household with access to electricity [7.1.1],,Urban,,91.4
-2017,Proportion of household with access to electricity [7.1.1],,Urban,,92.0
-2018,Proportion of household with access to electricity [7.1.1],,Urban,,92.2
-2019,Proportion of household with access to electricity [7.1.1],,Urban,,92.6
-2020,Proportion of household with access to electricity [7.1.1],,Urban,,93.0
-2021,Proportion of household with access to electricity [7.1.1],,Urban,,93.1
-2010,Proportion of household with access to electricity [7.1.1],,Rural,,39.5
-2013,Proportion of household with access to electricity [7.1.1],,Rural,,48.3
-2014,Proportion of household with access to electricity [7.1.1],,Rural,,52.2
-2015,Proportion of household with access to electricity [7.1.1],,Rural,,56.6
-2016,Proportion of household with access to electricity [7.1.1],,Rural,,61.5
-2017,Proportion of household with access to electricity [7.1.1],,Rural,,66.9
-2018,Proportion of household with access to electricity [7.1.1],,Rural,,68.1
-2019,Proportion of household with access to electricity [7.1.1],,Rural,,70.4
-2020,Proportion of household with access to electricity [7.1.1],,Rural,,71.5
-2021,Proportion of household with access to electricity [7.1.1],,Rural,,72.8
-1999,Proportion of population with access to electricity [7.1.1],,,,41.0
-1999,Proportion of population with access to electricity [7.1.1],,Urban,,78.1
-1999,Proportion of population with access to electricity [7.1.1],,Rural,,19.6
-1999,Proportion of population with access to electricity [7.1.1],Western,,01_o,47.4
-1999,Proportion of population with access to electricity [7.1.1],Central,,02_o,32.1
-1999,Proportion of population with access to electricity [7.1.1],Greater Accra,,03_o,83.9
-1999,Proportion of population with access to electricity [7.1.1],Volta,,04_o,30.9
-1999,Proportion of population with access to electricity [7.1.1],Eastern,,05_o,24.6
-1999,Proportion of population with access to electricity [7.1.1],Ashanti,,06_o,60.9
-1999,Proportion of population with access to electricity [7.1.1],Brong Ahafo,,07_o,29.0
-1999,Proportion of population with access to electricity [7.1.1],Northern,,08_o,7.9
-1999,Proportion of population with access to electricity [7.1.1],Upper East,,09_o,0.0
-1999,Proportion of population with access to electricity [7.1.1],Upper West,,10_o,5.7
-2006,Proportion of population with access to electricity [7.1.1],,,,49.2
-2006,Proportion of population with access to electricity [7.1.1],,Urban,,78.5
-2006,Proportion of population with access to electricity [7.1.1],,Rural,,26.9
-2006,Proportion of population with access to electricity [7.1.1],Western,,01_o,52.5
-2006,Proportion of population with access to electricity [7.1.1],Central,,02_o,42.0
-2006,Proportion of population with access to electricity [7.1.1],Greater Accra,,03_o,82.1
-2006,Proportion of population with access to electricity [7.1.1],Volta,,04_o,30.8
-2006,Proportion of population with access to electricity [7.1.1],Eastern,,05_o,38.5
-2006,Proportion of population with access to electricity [7.1.1],Ashanti,,06_o,60.6
-2006,Proportion of population with access to electricity [7.1.1],Brong Ahafo,,07_o,48.3
-2006,Proportion of population with access to electricity [7.1.1],Northern,,08_o,27.1
-2006,Proportion of population with access to electricity [7.1.1],Upper East,,09_o,12.4
-2006,Proportion of population with access to electricity [7.1.1],Upper West,,10_o,10.6
-2013,Proportion of population with access to electricity [7.1.1],,,,70.6
-2013,Proportion of population with access to electricity [7.1.1],,Urban,,88.6
-2013,Proportion of population with access to electricity [7.1.1],,Rural,,48.3
-2013,Proportion of population with access to electricity [7.1.1],Western,,01_o,72.1
-2013,Proportion of population with access to electricity [7.1.1],Central,,02_o,66.9
-2013,Proportion of population with access to electricity [7.1.1],Greater Accra,,03_o,90.7
-2013,Proportion of population with access to electricity [7.1.1],Volta,,04_o,60.9
-2013,Proportion of population with access to electricity [7.1.1],Eastern,,05_o,63.4
-2013,Proportion of population with access to electricity [7.1.1],Ashanti,,06_o,81.8
-2013,Proportion of population with access to electricity [7.1.1],Brong Ahafo,,07_o,63.0
-2013,Proportion of population with access to electricity [7.1.1],Northern,,08_o,47.6
-2013,Proportion of population with access to electricity [7.1.1],Upper East,,09_o,33.1
-2013,Proportion of population with access to electricity [7.1.1],Upper West,,10_o,42.2
-2017,Proportion of population with access to electricity [7.1.1],,,,81.1
-2017,Proportion of population with access to electricity [7.1.1],,Urban,,92.0
-2017,Proportion of population with access to electricity [7.1.1],,Rural,,67.2
-2017,Proportion of population with access to electricity [7.1.1],Western,,01_o,82.9
-2017,Proportion of population with access to electricity [7.1.1],Central,,02_o,84.4
-2017,Proportion of population with access to electricity [7.1.1],Greater Accra,,03_o,93.7
-2017,Proportion of population with access to electricity [7.1.1],Volta,,04_o,75.3
-2017,Proportion of population with access to electricity [7.1.1],Eastern,,05_o,73.9
-2017,Proportion of population with access to electricity [7.1.1],Ashanti,,06_o,89.3
-2017,Proportion of population with access to electricity [7.1.1],Brong Ahafo,,07_o,72.5
-2017,Proportion of population with access to electricity [7.1.1],Northern,,08_o,66.1
-2017,Proportion of population with access to electricity [7.1.1],Upper East,,09_o,47.7
-2017,Proportion of population with access to electricity [7.1.1],Upper West,,10_o,57.8
-2021,Proportion of population with access to electricity [7.1.1],,,,84.1
-2021,Proportion of population with access to electricity [7.1.1],Western,,1,88.9
-2021,Proportion of population with access to electricity [7.1.1],Central,,2,91.8
-2021,Proportion of population with access to electricity [7.1.1],Greater Accra,,3,96.5
-2021,Proportion of population with access to electricity [7.1.1],Volta,,4,85.4
-2021,Proportion of population with access to electricity [7.1.1],Eastern,,5,87.7
-2021,Proportion of population with access to electricity [7.1.1],Ashanti,,6,87.4
-2021,Proportion of population with access to electricity [7.1.1],Western North,,7,75.2
-2021,Proportion of population with access to electricity [7.1.1],Ahafo,,8,72.7
-2021,Proportion of population with access to electricity [7.1.1],Bono,,9,83.5
-2021,Proportion of population with access to electricity [7.1.1],Bono East,,10,73.8
-2021,Proportion of population with access to electricity [7.1.1],Oti,,11,70.2
-2021,Proportion of population with access to electricity [7.1.1],Northern,,12,77.0
-2021,Proportion of population with access to electricity [7.1.1],Savannah,,13,59.6
-2021,Proportion of population with access to electricity [7.1.1],North East,,14,71.4
-2021,Proportion of population with access to electricity [7.1.1],Upper East,,15,55.1
-2021,Proportion of population with access to electricity [7.1.1],Upper West,,16,70.5
-2021,Proportion of population with access to electricity [7.1.1],,Urban,,95.0
-2021,Proportion of population with access to electricity [7.1.1],Western,Urban,1,97.5
-2021,Proportion of population with access to electricity [7.1.1],Central,Urban,2,95.8
-2021,Proportion of population with access to electricity [7.1.1],Greater Accra,Urban,3,97.3
-2021,Proportion of population with access to electricity [7.1.1],Volta,Urban,4,91.8
-2021,Proportion of population with access to electricity [7.1.1],Eastern,Urban,5,95.1
-2021,Proportion of population with access to electricity [7.1.1],Ashanti,Urban,6,94.7
-2021,Proportion of population with access to electricity [7.1.1],Western North,Urban,7,96.7
-2021,Proportion of population with access to electricity [7.1.1],Ahafo,Urban,8,90.3
-2021,Proportion of population with access to electricity [7.1.1],Bono,Urban,9,92.8
-2021,Proportion of population with access to electricity [7.1.1],Bono East,Urban,10,89.3
-2021,Proportion of population with access to electricity [7.1.1],Oti,Urban,11,87.5
-2021,Proportion of population with access to electricity [7.1.1],Northern,Urban,12,95.5
-2021,Proportion of population with access to electricity [7.1.1],Savannah,Urban,13,89.5
-2021,Proportion of population with access to electricity [7.1.1],North East,Urban,14,87.9
-2021,Proportion of population with access to electricity [7.1.1],Upper East,Urban,15,90.0
-2021,Proportion of population with access to electricity [7.1.1],Upper West,Urban,16,93.2
-2021,Proportion of population with access to electricity [7.1.1],,Rural,,70.3
-2021,Proportion of population with access to electricity [7.1.1],Western,Rural,1,80.1
-2021,Proportion of population with access to electricity [7.1.1],Central,Rural,2,86.4
-2021,Proportion of population with access to electricity [7.1.1],Greater Accra,Rural,3,88.5
-2021,Proportion of population with access to electricity [7.1.1],Volta,Rural,4,80.9
-2021,Proportion of population with access to electricity [7.1.1],Eastern,Rural,5,80.1
-2021,Proportion of population with access to electricity [7.1.1],Ashanti,Rural,6,76.1
-2021,Proportion of population with access to electricity [7.1.1],Western North,Rural,7,66.4
-2021,Proportion of population with access to electricity [7.1.1],Ahafo,Rural,8,56.8
-2021,Proportion of population with access to electricity [7.1.1],Bono,Rural,9,70.8
-2021,Proportion of population with access to electricity [7.1.1],Bono East,Rural,10,57.0
-2021,Proportion of population with access to electricity [7.1.1],Oti,Rural,11,62.1
-2021,Proportion of population with access to electricity [7.1.1],Northern,Rural,12,60.9
-2021,Proportion of population with access to electricity [7.1.1],Savannah,Rural,13,47.3
-2021,Proportion of population with access to electricity [7.1.1],North East,Rural,14,63.7
-2021,Proportion of population with access to electricity [7.1.1],Upper East,Rural,15,43.7
-2021,Proportion of population with access to electricity [7.1.1],Upper West,Rural,16,63.0
+Year,Reference area,Degree of urbanisation,GeoCode,Value
+1999,,,,41.0
+1999,,Urban,,78.1
+1999,,Rural,,19.6
+1999,Western,,01_o,47.4
+1999,Central,,02_o,32.1
+1999,Greater Accra,,03_o,83.9
+1999,Volta,,04_o,30.9
+1999,Eastern,,05_o,24.6
+1999,Ashanti,,06_o,60.9
+1999,Brong Ahafo,,07_o,29.0
+1999,Northern,,08_o,7.9
+1999,Upper East,,09_o,0.0
+1999,Upper West,,10_o,5.7
+2006,,,,49.2
+2006,,Urban,,78.5
+2006,,Rural,,26.9
+2006,Western,,01_o,52.5
+2006,Central,,02_o,42.0
+2006,Greater Accra,,03_o,82.1
+2006,Volta,,04_o,30.8
+2006,Eastern,,05_o,38.5
+2006,Ashanti,,06_o,60.6
+2006,Brong Ahafo,,07_o,48.3
+2006,Northern,,08_o,27.1
+2006,Upper East,,09_o,12.4
+2006,Upper West,,10_o,10.6
+2013,,,,70.6
+2013,,Urban,,88.6
+2013,,Rural,,48.3
+2013,Western,,01_o,72.1
+2013,Central,,02_o,66.9
+2013,Greater Accra,,03_o,90.7
+2013,Volta,,04_o,60.9
+2013,Eastern,,05_o,63.4
+2013,Ashanti,,06_o,81.8
+2013,Brong Ahafo,,07_o,63.0
+2013,Northern,,08_o,47.6
+2013,Upper East,,09_o,33.1
+2013,Upper West,,10_o,42.2
+2017,,,,81.1
+2017,,Urban,,92.0
+2017,,Rural,,67.2
+2017,Western,,01_o,82.9
+2017,Central,,02_o,84.4
+2017,Greater Accra,,03_o,93.7
+2017,Volta,,04_o,75.3
+2017,Eastern,,05_o,73.9
+2017,Ashanti,,06_o,89.3
+2017,Brong Ahafo,,07_o,72.5
+2017,Northern,,08_o,66.1
+2017,Upper East,,09_o,47.7
+2017,Upper West,,10_o,57.8
+2021,,,,84.1
+2021,Western,,1,88.9
+2021,Central,,2,91.8
+2021,Greater Accra,,3,96.5
+2021,Volta,,4,85.4
+2021,Eastern,,5,87.7
+2021,Ashanti,,6,87.4
+2021,Western North,,7,75.2
+2021,Ahafo,,8,72.7
+2021,Bono,,9,83.5
+2021,Bono East,,10,73.8
+2021,Oti,,11,70.2
+2021,Northern,,12,77.0
+2021,Savannah,,13,59.6
+2021,North East,,14,71.4
+2021,Upper East,,15,55.1
+2021,Upper West,,16,70.5
+2021,,Urban,,95.0
+2021,Western,Urban,1,97.5
+2021,Central,Urban,2,95.8
+2021,Greater Accra,Urban,3,97.3
+2021,Volta,Urban,4,91.8
+2021,Eastern,Urban,5,95.1
+2021,Ashanti,Urban,6,94.7
+2021,Western North,Urban,7,96.7
+2021,Ahafo,Urban,8,90.3
+2021,Bono,Urban,9,92.8
+2021,Bono East,Urban,10,89.3
+2021,Oti,Urban,11,87.5
+2021,Northern,Urban,12,95.5
+2021,Savannah,Urban,13,89.5
+2021,North East,Urban,14,87.9
+2021,Upper East,Urban,15,90.0
+2021,Upper West,Urban,16,93.2
+2021,,Rural,,70.3
+2021,Western,Rural,1,80.1
+2021,Central,Rural,2,86.4
+2021,Greater Accra,Rural,3,88.5
+2021,Volta,Rural,4,80.9
+2021,Eastern,Rural,5,80.1
+2021,Ashanti,Rural,6,76.1
+2021,Western North,Rural,7,66.4
+2021,Ahafo,Rural,8,56.8
+2021,Bono,Rural,9,70.8
+2021,Bono East,Rural,10,57.0
+2021,Oti,Rural,11,62.1
+2021,Northern,Rural,12,60.9
+2021,Savannah,Rural,13,47.3
+2021,North East,Rural,14,63.7
+2021,Upper East,Rural,15,43.7
+2021,Upper West,Rural,16,63.0

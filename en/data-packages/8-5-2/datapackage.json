@@ -38,11 +38,6 @@
             "title": "Disability status"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

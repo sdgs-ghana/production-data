@@ -15,10 +15,6 @@
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
@@ -42,10 +38,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",

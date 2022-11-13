@@ -1,16 +1,6 @@
-Year,Value,GeoCode,SERIES
-2010,64.2,,Proportion of household with access to electricity [7.1.1]
-2013,70.6,,Proportion of household with access to electricity [7.1.1]
-2014,73.1,,Proportion of household with access to electricity [7.1.1]
-2015,75.7,,Proportion of household with access to electricity [7.1.1]
-2016,78.5,,Proportion of household with access to electricity [7.1.1]
-2017,81.4,,Proportion of household with access to electricity [7.1.1]
-2018,81.6,,Proportion of household with access to electricity [7.1.1]
-2019,82.5,,Proportion of household with access to electricity [7.1.1]
-2020,82.8,,Proportion of household with access to electricity [7.1.1]
-2021,83.9,,Proportion of household with access to electricity [7.1.1]
-1999,41.0,,Proportion of population with access to electricity [7.1.1]
-2006,49.2,,Proportion of population with access to electricity [7.1.1]
-2013,70.6,,Proportion of population with access to electricity [7.1.1]
-2017,81.1,,Proportion of population with access to electricity [7.1.1]
-2021,84.1,,Proportion of population with access to electricity [7.1.1]
+Year,Value,GeoCode
+1999,41.0,
+2006,49.2,
+2013,70.6,
+2017,81.1,
+2021,84.1,

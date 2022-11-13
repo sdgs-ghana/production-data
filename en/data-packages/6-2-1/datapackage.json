@@ -11,22 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bucket/Pan",
-                "Kumasi Ventilated Improved Pit (KVIP)",
-                "No facility (bush/beach/field)",
-                "Pit Latrine",
-                "Public Toilet",
-                "Water Closet (WC)"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"

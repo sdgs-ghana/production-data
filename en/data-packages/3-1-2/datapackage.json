@@ -11,19 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "No Care",
-                "Skilled Care",
-                "Unskilled Care"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -47,23 +34,6 @@
               ]
             },
             "title": "Reference area"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

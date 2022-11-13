@@ -19,16 +19,6 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
@@ -41,10 +31,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",

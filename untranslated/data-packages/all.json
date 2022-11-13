@@ -700,16 +700,6 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
@@ -722,10 +712,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",
@@ -1057,10 +1043,6 @@
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1091,10 +1073,6 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
             "type": "string"
           },
           {
@@ -1611,31 +1589,8 @@
             "type": "string"
           },
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "06_o",
-                "07_o",
-                "02_o",
-                "05_o",
-                "03_o",
-                "08_o",
-                "09_o",
-                "10_o",
-                "04_o",
-                "01_o",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -1656,10 +1611,6 @@
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -1674,29 +1625,6 @@
                 "03_o",
                 "02_o",
                 "01_o",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "U",
-                "R",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_GH_SKILLED_CARE",
-                "_L_GH_UNSKILLED_CARE",
-                "_L_GH_NO_CARE",
                 ""
               ]
             }
@@ -2224,21 +2152,6 @@
               "enum": [
                 "R",
                 "U",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_GH_NO_FACILITY",
-                "_L_GH_WC",
-                "_L_GH_PIT_LATRINE",
-                "_L_GH_KVIP",
-                "_L_GH_BUCKET",
-                "_L_GH_PUBLIC_TOILET",
                 ""
               ]
             }
@@ -2805,10 +2718,6 @@
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
@@ -2834,10 +2743,6 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2857,10 +2762,6 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
             "type": "string"
           },
           {
@@ -4087,28 +3988,6 @@
         ]
       },
       "title": "global_indicators.6-5-2-title"
-    },
-    {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.14-2-1-title"
     },
     {
       "path": "13-1-2/data.csv",
@@ -5861,6 +5740,28 @@
         ]
       },
       "title": "global_indicators.17-13-1-title"
+    },
+    {
+      "path": "14-2-1/data.csv",
+      "name": "14-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.14-2-1-title"
     },
     {
       "path": "16-2-2/data.csv",

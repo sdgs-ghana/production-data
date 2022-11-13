@@ -778,22 +778,6 @@
             "title": "SDG Series"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1154,11 +1138,6 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1220,11 +1199,6 @@
               ]
             },
             "title": "Disability status"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "SEX",
@@ -1759,38 +1733,13 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Western",
-                "Central",
-                "Greater Accra",
-                "Volta",
-                "Eastern",
-                "Ashanti",
-                "Brong Ahafo",
-                "Northern",
-                "Upper East",
-                "Upper West"
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1813,19 +1762,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "No Care",
-                "Skilled Care",
-                "Unskilled Care"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -1849,23 +1785,6 @@
               ]
             },
             "title": "Reference area"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
@@ -2420,22 +2339,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bucket/Pan",
-                "Kumasi Ventilated Improved Pit (KVIP)",
-                "No facility (bush/beach/field)",
-                "Pit Latrine",
-                "Public Toilet",
-                "Water Closet (WC)"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
           {
             "name": "SERIES",
             "type": "string",
@@ -3095,16 +2998,6 @@
             "title": "Education level"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3168,11 +3061,6 @@
               ]
             },
             "title": "Reference area"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "URBANISATION",
@@ -4479,30 +4367,6 @@
         ]
       },
       "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
-    },
-    {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
     },
     {
       "path": "13-1-2/data.csv",
@@ -6418,6 +6282,30 @@
         ]
       },
       "title": "Macroeconomic Dashboard"
+    },
+    {
+      "path": "14-2-1/data.csv",
+      "name": "14-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
     },
     {
       "path": "16-2-2/data.csv",
