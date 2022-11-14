@@ -71,10 +71,10 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #14-a-1,notstarted,Tier II,"Intergovernmental Oceanographic Commission of United Nations Educational, Scientific and Cultural Organization",,,,,line
 #14-b-1,complete,Tier I,Food and Agriculture Organization (FAO),True,,,,line
 #14-c-1,complete,Tier II,"Division for Ocean Affairs and the Law of the Sea (UN-DOALOS), Food and Agriculture Organization (FAO), UN Environment (UNEP), International Labour Organization (ILO), other UN-Oceans agencies",True,,,,line
-#15-1-1,complete,Tier I,Food and Agriculture Organization (FAO),,,,Percent,line
+#15-1-1,complete,Tier I,Food and Agriculture Organization (FAO),,,,Percentage(%),line
 #15-1-2,notstarted,Tier I,"UN Environment (UNEP)-World Conservation Monitoring Centre (WCMC), UN Environment (UNEP)",,,,,line
 #15-2-1,complete,Tier I,Food and Agriculture Organization (FAO),True,,,,line
-#15-3-1,complete,Tier I,United Nations Convention to Combat Desertification (UNCCD),,,,Percent,line
+#15-3-1,complete,Tier I,United Nations Convention to Combat Desertification (UNCCD),,,,Percentage (%),line
 #15-4-1,notstarted,Tier I,"UN Environment (UNEP)-World Conservation Monitoring Centre (WCMC), UN Environment (UNEP)",,,,,line
 #15-4-2,notstarted,Tier I,Food and Agriculture Organization (FAO),,,,,line
 #15-5-1,complete,Tier I,"International Union for Conservation of Nature (IUCN), BirdLife International (BLI)",,,,Index,line
