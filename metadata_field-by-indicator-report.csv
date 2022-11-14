@@ -188,7 +188,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #4-b-1,notstarted,Tier I,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #4-c-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute for Statistics (UNESCO-UIS),,,,,line
 #5-1-1,complete,Tier II,"UN Women, World Bank (WB), Organisation for Economic Co-operation and Development (OECD)",True,,,,line
-#5-2-1,complete,Tier II,"United Nations Childrens Fund (UNICEF), The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Population Fund (UNFPA), World Health Organization (WHO), United Nations Office on Drugs and Crime (UNODC)",,,,,bar
+#5-2-1,complete,Tier II,"United Nations Childrens Fund (UNICEF), The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Population Fund (UNFPA), World Health Organization (WHO), United Nations Office on Drugs and Crime (UNODC)",,,,Percentage (%),bar
 #5-2-2,notstarted,Tier II,"United Nations Children’s Fund (UNICEF), The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), United Nations Population Fund (UNFPA), World Health Organization (WHO), United Nations Office on Drugs and Crime (UNODC)",,,,,line
 #5-3-1,complete,Tier I,United Nations Children's Fund (UNICEFF),,,,Percentage (%),bar
 #5-3-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,,Percentage (%),bar
@@ -241,7 +241,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #9-3-1,notstarted,Tier II,United Nations Industrial Development Organization (UNIDO),,,,,line
 #9-3-2,notstarted,Tier I,"United Nations Industrial Development Organization (UNIDO), World Bank (WB)",,,,,line
 #9-4-1,complete,Tier I,"International Energy Agency (IEA), United Nations Industrial Development Organization (UNIDO)",,,,kg CO2 equivalent per constant 2010 GDP $,line
-#9-5-1,complete,Tier I,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,Percent,line
+#9-5-1,complete,Tier I,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,Percentage (%),line
 #9-5-2,notstarted,Tier I,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
 #9-a-1,notstarted,Tier I,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #9-b-1,notstarted,Tier I,United Nations Industrial Development Organization (UNIDO),,,,,line
