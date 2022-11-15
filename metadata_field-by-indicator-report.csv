@@ -22,7 +22,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #10-7-1,complete,Tier II,"International Labour Organization (ILO), World Bank (WB)",,,,Percentage (%),bar
 #10-7-2,complete,Tier II,"United Nations Department of Economic and Social Affairs (DESA), International Organization for Migration (IOM)",True,,,,line
 #10-7-3,notstarted,Tier I,International Organization for Migration,,,,,line
-#10-7-4,complete,Tier I,UN High Commissioner for Refugees (UNHCR),,,,"Per 100,000 population",line
+#10-7-4,notstarted,Tier I,UN High Commissioner for Refugees (UNHCR),,,,"Per 100,000 population",line
 #10-a-1,notstarted,Tier I,"The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), World Trade Organization (WTO)",,,,,line
 #10-b-1,notstarted,Tier I (ODA)/Tier II (FDI),Organisation for Economic Co-operation and Development (OECD),,,,,line
 #10-c-1,notstarted,Tier I,World Bank (WB),,,,,line
@@ -129,9 +129,9 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #17-3-2,complete,Tier I,World Bank (WB),,,,Percentage (%),line
 #17-4-1,complete,Tier I,World Bank (WB),,,,Percentage (%),line
 #17-5-1,notstarted,Tier II,United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#17-6-1,complete,Tier I,International Telecommunication Union (ITU),,,,,bar
+#17-6-1,notstarted,Tier I,International Telecommunication Union (ITU),,,,,bar
 #17-7-1,notstarted,Tier II,UN Environment (UNEP)-Climate Technology Centre and Network (CTCN),,,,,line
-#17-8-1,complete,Tier I,International Telecommunication Union (ITU),,,,Percentage (%),line
+#17-8-1,notstarted,Tier I,International Telecommunication Union (ITU),,,,Percentage (%),line
 #17-9-1,notstarted,Tier I,"Organisation for Economic Co-operation and Development (OECD), United Nations Environment (UNEP), World Bank (WB)",,,,,line
 #2-1-1,notstarted,Tier I,Food and Agriculture Organization (FAO),,,,,line
 #2-1-2,complete,Tier I,Food and Agriculture Organization (FAO),,,,Percentage (%),bar
