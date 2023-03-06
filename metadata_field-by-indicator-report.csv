@@ -1,6 +1,6 @@
 Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1-1-1,complete,Tier I,"World Bank (WB), International Labour Organisation (ILO)",,True,,Percentage (%),bar
-#1-2-1,complete,Tier I,World Bank (WB),,True,,Percentage (%),line
+#1-1-1,complete,Tier I,"World Bank (WB), International Labour Organisation (ILO)",,,,Percentage (%),bar
+#1-2-1,complete,Tier I,World Bank (WB),,,,Percentage (%),line
 #1-2-2,complete,Tier II,"United Nations Children's Fund (UNICEFF), World Bank (WB), United Nations Development Programme (UNDP)",,,,Percentage (%),bar
 #1-3-1,complete,Tier II,"International Labour Organization (ILO), World Bank (WB)",,,,,bar
 #1-4-1,notstarted,Tier I,UN-Habitat,,,,,line
@@ -157,7 +157,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #3-3-4,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #3-3-5,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #3-4-1,notstarted,Tier I,World Health Organisation (WHO),,,,,line
-#3-4-2,complete,Tier I,World Health Organisation (WHO),,True,,"Per 100,000 population",bar
+#3-4-2,complete,Tier I,World Health Organisation (WHO),,,,"Per 100,000 population",bar
 #3-5-1,notstarted,Tier II,"World Health Organisation (WHO), United Nations Office on Drugs and Crime (UNODC)",,,,,line
 #3-5-2,notstarted,Tier I,World Health Organisation (WHO),,,,,line
 #3-6-1,complete,Tier I,World Health Organisation (WHO),,,,"Per 100,000 population",line
@@ -178,7 +178,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #4-1-1,notstarted,Tier I,UNESCO Institute for Statistics,,,Ghana,Percentage (%),bar
 #4-1-2,complete,Tier I,UNESCO Institute for Statistics,,,,Percentage (%),line
 #4-2-1,complete,Tier II,United Nations Children's Fund (UNICEF),,,,Percentage (%),bar
-#4-2-2,complete,Tier I,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,True,,Percentage (%),bar
+#4-2-2,complete,Tier I,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,,Percentage (%),bar
 #4-3-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,,,line
 #4-4-1,notstarted,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,,,line
 #4-5-1,complete,Tier I/II depending on indice,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,Index,line
