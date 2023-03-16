@@ -11,24 +11,28 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]",
+                "Proportion of people who perceive their rights to land as secure out of total adult population [1.4.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Western",
-                "Bono East",
-                "Oti",
-                "Northern",
-                "Savannah",
-                "North East",
-                "Upper East",
-                "Upper West",
                 "Central",
                 "Greater Accra",
                 "Volta",
@@ -36,36 +40,39 @@
                 "Ashanti",
                 "Western North",
                 "Ahafo",
-                "Bono"
+                "Bono",
+                "Bono East",
+                "Oti",
+                "Northern",
+                "Savannah",
+                "North East",
+                "Upper East",
+                "Upper West",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
@@ -74,11 +81,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

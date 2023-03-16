@@ -12,31 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_TotHuRiCom",
-                "_L_GH_TotRes",
-                "_L_GH_CHILDRIGHTS",
-                "_L_GH_ECOSOCCULRIGHTS",
-                "_L_GH_PRORIGHTS",
-                "_L_GH_WORIGHTS",
-                "_L_GH_CIVPOLRIGHTS",
+                "Human rights complains (16.a.1)",
+                "Human rights cases, by type (16.a.1)",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Human Rights Complaints",
+                "Total Resolved",
+                "Children Rights",
+                "Economic, Social and Cultural Rights",
+                "Property Rights",
+                "Women Rights",
+                "Civil and Political Rights",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

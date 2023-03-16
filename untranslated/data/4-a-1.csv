@@ -1,41 +1,41 @@
-Year,SERIES,COMPOSITE_BREAKDOWN,Value
-2016,SE_ACS_ELECT,_L_GH_PUBLIC,46
-2016,SE_ACS_ELECT,_L_GH_PRIVATE,70
-2017,SE_ACS_ELECT,_L_GH_PUBLIC,51
-2017,SE_ACS_ELECT,_L_GH_PRIVATE,72
-2018,SE_ACS_ELECT,_L_GH_PUBLIC,55
-2018,SE_ACS_ELECT,_L_GH_PRIVATE,75
-2019,SE_ACS_ELECT,_L_GH_PUBLIC,29
-2019,SE_ACS_ELECT,_L_GH_PRIVATE,22
-2020,SE_ACS_ELECT,_L_GH_PUBLIC,60
-2020,SE_ACS_ELECT,_L_GH_PRIVATE,77
-2016,SE_ACS_H2O,_L_GH_PUBLIC,39
-2016,SE_ACS_H2O,_L_GH_PRIVATE,73
-2017,SE_ACS_H2O,_L_GH_PUBLIC,42
-2017,SE_ACS_H2O,_L_GH_PRIVATE,74
-2018,SE_ACS_H2O,_L_GH_PUBLIC,71
-2018,SE_ACS_H2O,_L_GH_PRIVATE,89
-2019,SE_ACS_H2O,_L_GH_PUBLIC,39
-2019,SE_ACS_H2O,_L_GH_PRIVATE,25
-2020,SE_ACS_H2O,_L_GH_PUBLIC,75
-2020,SE_ACS_H2O,_L_GH_PRIVATE,83
-2016,_L_GH_040a01_01,_L_GH_PUBLIC,62
-2016,_L_GH_040a01_01,_L_GH_PRIVATE,82
-2017,_L_GH_040a01_01,_L_GH_PUBLIC,65
-2017,_L_GH_040a01_01,_L_GH_PRIVATE,82
-2018,_L_GH_040a01_01,_L_GH_PUBLIC,65
-2018,_L_GH_040a01_01,_L_GH_PRIVATE,84
-2019,_L_GH_040a01_01,_L_GH_PUBLIC,33
-2019,_L_GH_040a01_01,_L_GH_PRIVATE,22
-2020,_L_GH_040a01_01,_L_GH_PUBLIC,74
-2020,_L_GH_040a01_01,_L_GH_PRIVATE,89
-2016,_L_GH_040a01_02,_L_GH_PUBLIC,65
-2016,_L_GH_040a01_02,_L_GH_PRIVATE,80
-2017,_L_GH_040a01_02,_L_GH_PUBLIC,67
-2017,_L_GH_040a01_02,_L_GH_PRIVATE,81
-2018,_L_GH_040a01_02,_L_GH_PUBLIC,66
-2018,_L_GH_040a01_02,_L_GH_PRIVATE,82
-2019,_L_GH_040a01_02,_L_GH_PUBLIC,32
-2019,_L_GH_040a01_02,_L_GH_PRIVATE,20
-2020,_L_GH_040a01_02,_L_GH_PUBLIC,69
-2020,_L_GH_040a01_02,_L_GH_PRIVATE,84
+Year,SDG Series,Composite breakdown,Value
+2016,Proportion of schools with access to electricity [4.a.1],Public,46
+2016,Proportion of schools with access to electricity [4.a.1],Private,70
+2017,Proportion of schools with access to electricity [4.a.1],Public,51
+2017,Proportion of schools with access to electricity [4.a.1],Private,72
+2018,Proportion of schools with access to electricity [4.a.1],Public,55
+2018,Proportion of schools with access to electricity [4.a.1],Private,75
+2019,Proportion of schools with access to electricity [4.a.1],Public,29
+2019,Proportion of schools with access to electricity [4.a.1],Private,22
+2020,Proportion of schools with access to electricity [4.a.1],Public,60
+2020,Proportion of schools with access to electricity [4.a.1],Private,77
+2016,Proportion of schools with access to basic drinking water [4.a.1],Public,39
+2016,Proportion of schools with access to basic drinking water [4.a.1],Private,73
+2017,Proportion of schools with access to basic drinking water [4.a.1],Public,42
+2017,Proportion of schools with access to basic drinking water [4.a.1],Private,74
+2018,Proportion of schools with access to basic drinking water [4.a.1],Public,71
+2018,Proportion of schools with access to basic drinking water [4.a.1],Private,89
+2019,Proportion of schools with access to basic drinking water [4.a.1],Public,39
+2019,Proportion of schools with access to basic drinking water [4.a.1],Private,25
+2020,Proportion of schools with access to basic drinking water [4.a.1],Public,75
+2020,Proportion of schools with access to basic drinking water [4.a.1],Private,83
+2016,Proportion of schools with access to toilet facilities,Public,62
+2016,Proportion of schools with access to toilet facilities,Private,82
+2017,Proportion of schools with access to toilet facilities,Public,65
+2017,Proportion of schools with access to toilet facilities,Private,82
+2018,Proportion of schools with access to toilet facilities,Public,65
+2018,Proportion of schools with access to toilet facilities,Private,84
+2019,Proportion of schools with access to toilet facilities,Public,33
+2019,Proportion of schools with access to toilet facilities,Private,22
+2020,Proportion of schools with access to toilet facilities,Public,74
+2020,Proportion of schools with access to toilet facilities,Private,89
+2016,Proportion of schools with access to urinals,Public,65
+2016,Proportion of schools with access to urinals,Private,80
+2017,Proportion of schools with access to urinals,Public,67
+2017,Proportion of schools with access to urinals,Private,81
+2018,Proportion of schools with access to urinals,Public,66
+2018,Proportion of schools with access to urinals,Private,82
+2019,Proportion of schools with access to urinals,Public,32
+2019,Proportion of schools with access to urinals,Private,20
+2020,Proportion of schools with access to urinals,Public,69
+2020,Proportion of schools with access to urinals,Private,84

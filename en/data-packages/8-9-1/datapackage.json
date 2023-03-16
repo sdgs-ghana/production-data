@@ -11,19 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Contribution of hotel and restaurant sub-sector to GDP",
+                "Growth rate of hotel and restaurant sub-sector",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

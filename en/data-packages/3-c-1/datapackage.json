@@ -11,19 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Doctor to population ratio",
+                "Nurse to population ratio",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

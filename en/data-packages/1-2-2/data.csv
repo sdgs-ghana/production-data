@@ -1,15 +1,15 @@
-Year,SERIES,Reference area,Age,Degree of urbanisation,COMPOSITE_BREAKDOWN,GeoCode,Value
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,ICT,,15.5
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,HOUSING,,62.1
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,SANITATION,,83.4
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,WATER,,52.9
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,SOCIAL PROTECTION,,63.5
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,LEARNING AND DEVELOPMENT,,58.1
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,HEALTH,,62.7
-2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,NUTRITION,,38.7
-2017,Proportion of population living in multidimensional poverty [1.2.2],,,Rural,,,64.6
-2017,Proportion of population living in multidimensional poverty [1.2.2],,,Urban,,,26.9
-2017,Proportion of population living in multidimensional poverty [1.2.2],Coastal Zone,,,,_L_GH_Coastal,32.0
-2017,Proportion of population living in multidimensional poverty [1.2.2],Forest Zone,,,,_L_GH_Forest,41.3
-2017,Proportion of population living in multidimensional poverty [1.2.2],Savannah Zone,,,,_L_GH_Savannah,70.9
-2017,Proportion of population living in multidimensional poverty [1.2.2],,,,,,45.6
+Year,SDG Series,Reference area,Age,Degree of urbanisation,Composite breakdown,Value
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,ICT,15.5
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,HOUSING,62.1
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,SANITATION,83.4
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,WATER,52.9
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,SOCIAL PROTECTION,63.5
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,LEARNING AND DEVELOPMENT,58.1
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,HEALTH,62.7
+2017,Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2],,under 18 years old,,NUTRITION,38.7
+2017,Proportion of population living in multidimensional poverty [1.2.2],,,Rural,,64.6
+2017,Proportion of population living in multidimensional poverty [1.2.2],,,Urban,,26.9
+2017,Proportion of population living in multidimensional poverty [1.2.2],Coastal Zone,,,,32.0
+2017,Proportion of population living in multidimensional poverty [1.2.2],Forest Zone,,,,41.3
+2017,Proportion of population living in multidimensional poverty [1.2.2],Savannah Zone,,,,70.9
+2017,Proportion of population living in multidimensional poverty [1.2.2],,,,,45.6

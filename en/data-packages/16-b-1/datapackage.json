@@ -11,28 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Discriminated against",
-                "Not Discriminated against"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
                 "Western",
                 "Central",
                 "Greater Accra",
@@ -42,20 +29,28 @@
                 "Brong Ahafo",
                 "Northern",
                 "Upper East",
-                "Upper West"
+                "Upper West",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Discriminated against",
+                "Not Discriminated against",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

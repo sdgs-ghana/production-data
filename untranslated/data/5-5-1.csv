@@ -1,10 +1,10 @@
-Year,SERIES,Value
-2016,SG_GEN_PARL,12.7
-2017,SG_GEN_PARL,13.4
-2019,SG_GEN_PARL,13.8
-2016,SG_GEN_LOCGELS,5.0
-2017,SG_GEN_LOCGELS,5.0
-2019,SG_GEN_LOCGELS,3.2
-2016,_L_GH_050501_01,10.3
-2017,_L_GH_050501_01,14.8
-2019,_L_GH_050501_01,14.8
+Year,SDG Series,Value
+2016,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],12.7
+2017,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],13.4
+2019,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],13.8
+2016,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],5.0
+2017,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],5.0
+2019,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],3.2
+2016,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",10.3
+2017,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",14.8
+2019,"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)",14.8

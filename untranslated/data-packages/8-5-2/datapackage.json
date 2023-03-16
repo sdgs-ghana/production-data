@@ -12,51 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T24",
+                "15 to 24 years old",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "DISABILITY_STATUS",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_SPEECH",
-                "_L_GH_SIGHT",
-                "_L_GH_PHYSICAL",
-                "_L_GH_INTELLECTUAL",
-                "_L_GH_HEARING",
-                "_L_GH_EMOTIONAL",
+                "Persons with speech disability",
+                "Persons with sight disability",
+                "Persons with physical disability",
+                "Persons with intellectual disability",
+                "Persons with hearing disability",
+                "Persons with emotional disability",
                 ""
               ]
             }

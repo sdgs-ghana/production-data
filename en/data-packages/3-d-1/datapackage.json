@@ -11,11 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Average of 13 International Health Regulations (IHR) core capacities [3.d.1]",
+                "International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Legislation and financing",
                 "IHR Coordination and National Focal Point Functions",
                 "Zoonotic events and the Human-Animal Health Interface",
@@ -28,25 +44,16 @@
                 "Risk communication",
                 "Points of entry",
                 "Chemical events",
-                "Radiation emergencies"
+                "Radiation emergencies",
+                ""
               ]
             },
             "title": "Composite breakdown"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

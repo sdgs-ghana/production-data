@@ -11,43 +11,43 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "America",
-                "Asia",
-                "ECOWAS countries",
-                "Europe",
-                "Middle East/Gulf Cooperation Council countries",
-                "Oceania",
-                "Other African Countries"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ECOWAS countries",
+                "Other African Countries",
+                "Europe",
+                "Middle East/Gulf Cooperation Council countries",
+                "Asia",
+                "America",
+                "Oceania",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

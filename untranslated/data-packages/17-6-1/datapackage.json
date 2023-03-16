@@ -12,26 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Households access to fixed internet service",
+                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Per 100 population",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

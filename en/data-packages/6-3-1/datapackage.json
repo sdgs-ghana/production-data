@@ -11,40 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Through the sewerage system",
-                "Through drainage into a pit (soakaway)",
-                "Thrown into the ground/street/outside",
-                "Flows or thrown into drains/gutter"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Through the sewerage system",
+                "Through drainage into a pit (soakaway)",
+                "Flows or thrown into drains/gutter",
+                "Thrown into the ground/street/outside",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

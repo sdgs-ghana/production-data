@@ -11,11 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Food provision (OHI goal)",
                 "Wild caught Fisheries(OHI sub-goal)",
                 "Mariculture (OHI sub-goal)",
@@ -33,7 +37,8 @@
                 "Clean water (OHI goal)",
                 "Biodiversity (OHI goal)",
                 "Habitat (OHI sub-goal)",
-                "Species condition (OHI sub-goal)"
+                "Species condition (OHI sub-goal)",
+                ""
               ]
             },
             "title": "Composite breakdown"
@@ -42,11 +47,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

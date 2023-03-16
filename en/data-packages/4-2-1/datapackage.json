@@ -11,18 +11,32 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "URBANISATION",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Proportion of children who are developmentally on track in literacy-numeracy",
+                "Proportion of children who are developmentally on track in physical development",
+                "Proportion of children who are developmentally on track in social-emotional development",
+                "Proportion of children who are developmentally on track in learning",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
@@ -31,11 +45,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

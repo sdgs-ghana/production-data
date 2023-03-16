@@ -11,19 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",
+                "Number of commercial bank branches per 100,000 adults [8.10.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

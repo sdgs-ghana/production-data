@@ -1,60 +1,60 @@
-Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
-2016,_L_GH_010a01_01,,PT,1.0
-2017,_L_GH_010a01_01,,PT,1.1
-2018,_L_GH_010a01_01,,PT,0.51
-2019,_L_GH_010a01_01,,PT,0.7
-2020,_L_GH_010a01_01,,PT,0.71
-2019,_L_GH_010a01_04,_L_GH_GOG,_L_GH_MCEDI,79.59
-2019,_L_GH_010a01_04,_L_GH_IGF,_L_GH_MCEDI,0.02
-2019,_L_GH_010a01_04,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,65.4
-2019,_L_GH_010a01_04,_L_GH_STATUTORY,_L_GH_MCEDI,0.51
-2019,_L_GH_010a01_04,_L_GH_DP,_L_GH_MCEDI,0.0
-2019,_L_GH_010a01_04,,_L_GH_MCEDI,145.52
-2019,_L_GH_010a01_05,_L_GH_GOG,_L_GH_MCEDI,0.16
-2019,_L_GH_010a01_05,_L_GH_IGF,_L_GH_MCEDI,0.05
-2019,_L_GH_010a01_05,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,0.0
-2019,_L_GH_010a01_05,_L_GH_STATUTORY,_L_GH_MCEDI,1.53
-2019,_L_GH_010a01_05,_L_GH_DP,_L_GH_MCEDI,0.0
-2019,_L_GH_010a01_05,,_L_GH_MCEDI,1.75
-2019,_L_GH_010a01_06,_L_GH_GOG,_L_GH_MCEDI,170.08
-2019,_L_GH_010a01_06,_L_GH_IGF,_L_GH_MCEDI,1.26
-2019,_L_GH_010a01_06,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,0.53
-2019,_L_GH_010a01_06,_L_GH_STATUTORY,_L_GH_MCEDI,20.7
-2019,_L_GH_010a01_06,_L_GH_DP,_L_GH_MCEDI,1.64
-2019,_L_GH_010a01_06,,_L_GH_MCEDI,194.21
-2019,_L_GH_010a01_07,_L_GH_GOG,_L_GH_MCEDI,0.12
-2019,_L_GH_010a01_07,_L_GH_IGF,_L_GH_MCEDI,0.03
-2019,_L_GH_010a01_07,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,0.0
-2019,_L_GH_010a01_07,_L_GH_STATUTORY,_L_GH_MCEDI,1.75
-2019,_L_GH_010a01_07,_L_GH_DP,_L_GH_MCEDI,0.0
-2019,_L_GH_010a01_07,,_L_GH_MCEDI,1.89
-2019,_L_GH_010a01_08,_L_GH_GOG,_L_GH_MCEDI,12.38
-2019,_L_GH_010a01_08,_L_GH_IGF,_L_GH_MCEDI,0.77
-2019,_L_GH_010a01_08,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,0.78
-2019,_L_GH_010a01_08,_L_GH_STATUTORY,_L_GH_MCEDI,7.58
-2019,_L_GH_010a01_08,_L_GH_DP,_L_GH_MCEDI,4.85
-2019,_L_GH_010a01_08,,_L_GH_MCEDI,26.35
-2019,_L_GH_010a01_09,_L_GH_GOG,_L_GH_MCEDI,0.11
-2019,_L_GH_010a01_09,_L_GH_IGF,_L_GH_MCEDI,0.11
-2019,_L_GH_010a01_09,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,0.0
-2019,_L_GH_010a01_09,_L_GH_STATUTORY,_L_GH_MCEDI,0.87
-2019,_L_GH_010a01_09,_L_GH_DP,_L_GH_MCEDI,0.05
-2019,_L_GH_010a01_09,,_L_GH_MCEDI,1.14
-2019,_L_GH_010a01_10,_L_GH_GOG,_L_GH_MCEDI,11.49
-2019,_L_GH_010a01_10,_L_GH_IGF,_L_GH_MCEDI,0.07
-2019,_L_GH_010a01_10,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,0.04
-2019,_L_GH_010a01_10,_L_GH_STATUTORY,_L_GH_MCEDI,1.15
-2019,_L_GH_010a01_10,_L_GH_DP,_L_GH_MCEDI,0.0
-2019,_L_GH_010a01_10,,_L_GH_MCEDI,12.75
-2019,_L_GH_010a01_02,_L_GH_GOG,_L_GH_MCEDI,273.92
-2019,_L_GH_010a01_02,_L_GH_IGF,_L_GH_MCEDI,2.3
-2019,_L_GH_010a01_02,_L_GH_OTHER_FUNDS,_L_GH_MCEDI,66.75
-2019,_L_GH_010a01_02,_L_GH_STATUTORY,_L_GH_MCEDI,34.1
-2019,_L_GH_010a01_02,_L_GH_DP,_L_GH_MCEDI,6.54
-2019,_L_GH_010a01_02,,_L_GH_MCEDI,383.61
-2019,_L_GH_010a01_03,_L_GH_GOG,PT,71.4
-2019,_L_GH_010a01_03,_L_GH_IGF,PT,0.6
-2019,_L_GH_010a01_03,_L_GH_OTHER_FUNDS,PT,17.4
-2019,_L_GH_010a01_03,_L_GH_STATUTORY,PT,8.9
-2019,_L_GH_010a01_03,_L_GH_DP,PT,1.7
-2019,_L_GH_010a01_03,,PT,100.0
+Year,SDG Series,Composite breakdown,Unit of measure,Value
+2016,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),1.0
+2017,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),1.1
+2018,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),0.51
+2019,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),0.7
+2020,Official development assistance grants as percentage of GNI [1.a.1],,Percentage (%),0.71
+2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,79.59
+2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,0.02
+2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Other Fund,Million Ghana Cedis,65.4
+2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Statutory,Million Ghana Cedis,0.51
+2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),Development Partner,Million Ghana Cedis,0.0
+2019,Budget Allocation towards Extreme poverty (in million Ghana Cedi),,Million Ghana Cedis,145.52
+2019,"Budget Allocation towards reducing poverty proportion of men, women and children by at least half (in million Ghana Cedi)",Government of Ghana,Million Ghana Cedis,0.16
+2019,"Budget Allocation towards reducing poverty proportion of men, women and children by at least half (in million Ghana Cedi)",Internally Generated Funds,Million Ghana Cedis,0.05
+2019,"Budget Allocation towards reducing poverty proportion of men, women and children by at least half (in million Ghana Cedi)",Other Fund,Million Ghana Cedis,0.0
+2019,"Budget Allocation towards reducing poverty proportion of men, women and children by at least half (in million Ghana Cedi)",Statutory,Million Ghana Cedis,1.53
+2019,"Budget Allocation towards reducing poverty proportion of men, women and children by at least half (in million Ghana Cedi)",Development Partner,Million Ghana Cedis,0.0
+2019,"Budget Allocation towards reducing poverty proportion of men, women and children by at least half (in million Ghana Cedi)",,Million Ghana Cedis,1.75
+2019,Budget Allocation towards Social dimension (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,170.08
+2019,Budget Allocation towards Social dimension (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,1.26
+2019,Budget Allocation towards Social dimension (in million Ghana Cedi),Other Fund,Million Ghana Cedis,0.53
+2019,Budget Allocation towards Social dimension (in million Ghana Cedi),Statutory,Million Ghana Cedis,20.7
+2019,Budget Allocation towards Social dimension (in million Ghana Cedi),Development Partner,Million Ghana Cedis,1.64
+2019,Budget Allocation towards Social dimension (in million Ghana Cedi),,Million Ghana Cedis,194.21
+2019,Budget Allocation towards Equal rights to basic services (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,0.12
+2019,Budget Allocation towards Equal rights to basic services (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,0.03
+2019,Budget Allocation towards Equal rights to basic services (in million Ghana Cedi),Other Fund,Million Ghana Cedis,0.0
+2019,Budget Allocation towards Equal rights to basic services (in million Ghana Cedi),Statutory,Million Ghana Cedis,1.75
+2019,Budget Allocation towards Equal rights to basic services (in million Ghana Cedi),Development Partner,Million Ghana Cedis,0.0
+2019,Budget Allocation towards Equal rights to basic services (in million Ghana Cedi),,Million Ghana Cedis,1.89
+2019,Budget Allocation towards Building resilience of the poor and vulnerable (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,12.38
+2019,Budget Allocation towards Building resilience of the poor and vulnerable (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,0.77
+2019,Budget Allocation towards Building resilience of the poor and vulnerable (in million Ghana Cedi),Other Fund,Million Ghana Cedis,0.78
+2019,Budget Allocation towards Building resilience of the poor and vulnerable (in million Ghana Cedi),Statutory,Million Ghana Cedis,7.58
+2019,Budget Allocation towards Building resilience of the poor and vulnerable (in million Ghana Cedi),Development Partner,Million Ghana Cedis,4.85
+2019,Budget Allocation towards Building resilience of the poor and vulnerable (in million Ghana Cedi),,Million Ghana Cedis,26.35
+2019,Budget Allocation towards Mobilisation of resources (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,0.11
+2019,Budget Allocation towards Mobilisation of resources (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,0.11
+2019,Budget Allocation towards Mobilisation of resources (in million Ghana Cedi),Other Fund,Million Ghana Cedis,0.0
+2019,Budget Allocation towards Mobilisation of resources (in million Ghana Cedi),Statutory,Million Ghana Cedis,0.87
+2019,Budget Allocation towards Mobilisation of resources (in million Ghana Cedi),Development Partner,Million Ghana Cedis,0.05
+2019,Budget Allocation towards Mobilisation of resources (in million Ghana Cedi),,Million Ghana Cedis,1.14
+2019,Budget Allocation towards Pro-poor and Gender (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,11.49
+2019,Budget Allocation towards Pro-poor and Gender (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,0.07
+2019,Budget Allocation towards Pro-poor and Gender (in million Ghana Cedi),Other Fund,Million Ghana Cedis,0.04
+2019,Budget Allocation towards Pro-poor and Gender (in million Ghana Cedi),Statutory,Million Ghana Cedis,1.15
+2019,Budget Allocation towards Pro-poor and Gender (in million Ghana Cedi),Development Partner,Million Ghana Cedis,0.0
+2019,Budget Allocation towards Pro-poor and Gender (in million Ghana Cedi),,Million Ghana Cedis,12.75
+2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),Government of Ghana,Million Ghana Cedis,273.92
+2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),Internally Generated Funds,Million Ghana Cedis,2.3
+2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),Other Fund,Million Ghana Cedis,66.75
+2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),Statutory,Million Ghana Cedis,34.1
+2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),Development Partner,Million Ghana Cedis,6.54
+2019,Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi),,Million Ghana Cedis,383.61
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Government of Ghana,Percentage (%),71.4
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Internally Generated Funds,Percentage (%),0.6
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Other Fund,Percentage (%),17.4
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Statutory,Percentage (%),8.9
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,Development Partner,Percentage (%),1.7
+2019,Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs,,Percentage (%),100.0

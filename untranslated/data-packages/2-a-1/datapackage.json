@@ -12,15 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture orientation index for government expenditures [2.a.1]",
+                "Agriculture share of Government Expenditure [2.a.1]",
+                "Agriculture value added share of GDP [2.a.1]",
+                ""
+              ]
+            }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

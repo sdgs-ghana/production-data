@@ -11,26 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Western",
-                "Central",
-                "Greater Accra",
-                "Volta",
-                "Eastern",
-                "Ashanti",
-                "Brong Ahafo",
-                "Northern",
+                "Upper West",
                 "Upper East",
-                "Upper West"
+                "Northern",
+                "Brong Ahafo",
+                "Ashanti",
+                "Eastern",
+                "Volta",
+                "Greater Accra",
+                "Central",
+                "Western",
+                ""
               ]
             },
             "title": "Reference area"
@@ -39,11 +39,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

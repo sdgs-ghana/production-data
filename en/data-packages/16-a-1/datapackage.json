@@ -11,41 +11,55 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Children Rights",
-                "Civil and Political Rights",
-                "Economic, Social and Cultural Rights",
-                "Property Rights",
+                "Human rights complains (16.a.1)",
+                "Human rights cases, by type (16.a.1)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Total Human Rights Complaints",
                 "Total Resolved",
-                "Women Rights"
+                "Children Rights",
+                "Economic, Social and Cultural Rights",
+                "Property Rights",
+                "Women Rights",
+                "Civil and Political Rights",
+                ""
               ]
             },
             "title": "Composite breakdown"
           },
           {
-            "name": "SERIES",
+            "name": "Unit of measure",
             "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

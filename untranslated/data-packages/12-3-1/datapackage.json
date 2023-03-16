@@ -12,20 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "PRODUCT",
+            "name": "Type of product",
             "type": "string",
             "constraints": {
               "enum": [
-                "CPC2_1_112",
-                "CPC2_1_113",
-                "CPC2_1_114",
-                "_L_GH_Cassava",
-                "_L_GH_Yam",
-                "_L_GH_Fish_Marine",
-                "_L_GH_Fish_Artisanal",
+                "Maize",
+                "Rice",
+                "Sorghum",
+                "Cassava",
+                "Yam",
+                "Fish(Marine)",
+                "Fish(Artisanal)",
                 ""
               ]
             }

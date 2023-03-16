@@ -12,16 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "CI",
-                "TG",
-                "LR",
+                "COTE D'IVOIRE",
+                "TOGO",
+                "LIBERIA",
                 ""
               ]
             }

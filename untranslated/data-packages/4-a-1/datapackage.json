@@ -12,19 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_PUBLIC",
-                "_L_GH_PRIVATE",
+                "Proportion of schools with access to electricity [4.a.1]",
+                "Proportion of schools with access to basic drinking water [4.a.1]",
+                "Proportion of schools with access to toilet facilities",
+                "Proportion of schools with access to urinals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public",
+                "Private",
                 ""
               ]
             }

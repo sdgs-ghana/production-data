@@ -1,9 +1,9 @@
-Year,SERIES,Value
-2015,SG_XPD_HLTH,7.6
-2016,SG_XPD_HLTH,8.3
-2017,SG_XPD_HLTH,12.3
-2018,SG_XPD_HLTH,8.7
-2015,SD_XPD_ESED,19.5
-2016,SD_XPD_ESED,20.0
-2017,SD_XPD_ESED,23.5
-2018,SD_XPD_ESED,24.4
+Year,SDG Series,Value
+2015,Proportion of total government spending on health [1.a.2],7.6
+2016,Proportion of total government spending on health [1.a.2],8.3
+2017,Proportion of total government spending on health [1.a.2],12.3
+2018,Proportion of total government spending on health [1.a.2],8.7
+2015,"Proportion of total government spending on essential services, education [1.a.2]",19.5
+2016,"Proportion of total government spending on essential services, education [1.a.2]",20.0
+2017,"Proportion of total government spending on essential services, education [1.a.2]",23.5
+2018,"Proportion of total government spending on essential services, education [1.a.2]",24.4

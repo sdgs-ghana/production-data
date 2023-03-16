@@ -1,6 +1,6 @@
-Year,SERIES,Value
-1990,_L_GH_030101_01,760
-2007,_L_GH_030101_01,580
-2017,_L_GH_030101_01,310
-2010,_L_GH_030101_02,485
-2021,_L_GH_030101_02,301
+Year,SDG Series,Value
+1990,Survey-based Maternal mortality ratio [3.1.1],760
+2007,Survey-based Maternal mortality ratio [3.1.1],580
+2017,Survey-based Maternal mortality ratio [3.1.1],310
+2010,Census-based Maternal mortality ratio [3.1.1],485
+2021,Census-based Maternal mortality ratio [3.1.1],301

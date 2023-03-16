@@ -1,60 +1,60 @@
-Year,REF_AREA,EDUCATION_LEV,GeoCode,Value
-2019,10_o,ISCED11_02,10_o,1.0
-2019,09_o,ISCED11_02,09_o,0.98
-2019,02_o,ISCED11_02,02_o,1.04
-2019,04_o,ISCED11_02,04_o,0.99
-2019,06_o,ISCED11_02,06_o,0.98
-2019,05_o,ISCED11_02,05_o,0.96
-2019,03_o,ISCED11_02,03_o,1.04
-2019,07_o,ISCED11_02,07_o,1.07
-2019,08_o,ISCED11_02,08_o,1.02
-2019,01_o,ISCED11_02,01_o,0.96
-2019,,ISCED11_02,,0.99
-2019,10_o,ISCED11_1,10_o,1.01
-2019,09_o,ISCED11_1,09_o,0.99
-2019,02_o,ISCED11_1,02_o,1.03
-2019,04_o,ISCED11_1,04_o,1.0
-2019,06_o,ISCED11_1,06_o,1.0
-2019,05_o,ISCED11_1,05_o,0.95
-2019,03_o,ISCED11_1,03_o,1.05
-2019,07_o,ISCED11_1,07_o,1.1
-2019,08_o,ISCED11_1,08_o,1.02
-2019,01_o,ISCED11_1,01_o,0.95
-2019,,ISCED11_1,,1.0
-2019,10_o,_L_GH_JHS,10_o,1.01
-2019,09_o,_L_GH_JHS,09_o,0.97
-2019,02_o,_L_GH_JHS,02_o,1.06
-2019,04_o,_L_GH_JHS,04_o,1.03
-2019,06_o,_L_GH_JHS,06_o,1.0
-2019,05_o,_L_GH_JHS,05_o,0.95
-2019,03_o,_L_GH_JHS,03_o,1.19
-2019,07_o,_L_GH_JHS,07_o,1.14
-2019,08_o,_L_GH_JHS,08_o,1.03
-2019,01_o,_L_GH_JHS,01_o,0.95
-2019,,_L_GH_JHS,,1.02
-2019,10_o,_L_GH_SHS,10_o,0.94
-2019,09_o,_L_GH_SHS,09_o,0.98
-2019,02_o,_L_GH_SHS,02_o,0.97
-2019,04_o,_L_GH_SHS,04_o,1.09
-2019,06_o,_L_GH_SHS,06_o,0.74
-2019,05_o,_L_GH_SHS,05_o,0.89
-2019,03_o,_L_GH_SHS,03_o,1.04
-2019,07_o,_L_GH_SHS,07_o,0.93
-2019,08_o,_L_GH_SHS,08_o,1.0
-2019,01_o,_L_GH_SHS,01_o,0.94
-2019,,_L_GH_SHS,,0.95
-2017,,ISCED11_02,,1.0
-2018,,ISCED11_02,,1.0
-2020,,ISCED11_02,,1.03
-2021,,ISCED11_02,,0.99
-2017,,ISCED11_1,,1.03
-2018,,ISCED11_1,,1.0
-2020,,ISCED11_1,,1.02
-2021,,ISCED11_1,,1.0
-2017,,_L_GH_JHS,,0.97
-2018,,_L_GH_JHS,,1.0
-2020,,_L_GH_JHS,,1.02
-2021,,_L_GH_JHS,,1.0
-2017,,_L_GH_SHS,,0.96
-2018,,_L_GH_SHS,,0.92
-2020,,_L_GH_SHS,,0.96
+Year,Reference area,Education level,Value
+2019,Upper West,Pre-primary education,1.0
+2019,Upper East,Pre-primary education,0.98
+2019,Central,Pre-primary education,1.04
+2019,Volta,Pre-primary education,0.99
+2019,Ashanti,Pre-primary education,0.98
+2019,Eastern,Pre-primary education,0.96
+2019,Greater Accra,Pre-primary education,1.04
+2019,Brong Ahafo,Pre-primary education,1.07
+2019,Northern,Pre-primary education,1.02
+2019,Western,Pre-primary education,0.96
+2019,,Pre-primary education,0.99
+2019,Upper West,Primary education,1.01
+2019,Upper East,Primary education,0.99
+2019,Central,Primary education,1.03
+2019,Volta,Primary education,1.0
+2019,Ashanti,Primary education,1.0
+2019,Eastern,Primary education,0.95
+2019,Greater Accra,Primary education,1.05
+2019,Brong Ahafo,Primary education,1.1
+2019,Northern,Primary education,1.02
+2019,Western,Primary education,0.95
+2019,,Primary education,1.0
+2019,Upper West,Junior High School (JHS),1.01
+2019,Upper East,Junior High School (JHS),0.97
+2019,Central,Junior High School (JHS),1.06
+2019,Volta,Junior High School (JHS),1.03
+2019,Ashanti,Junior High School (JHS),1.0
+2019,Eastern,Junior High School (JHS),0.95
+2019,Greater Accra,Junior High School (JHS),1.19
+2019,Brong Ahafo,Junior High School (JHS),1.14
+2019,Northern,Junior High School (JHS),1.03
+2019,Western,Junior High School (JHS),0.95
+2019,,Junior High School (JHS),1.02
+2019,Upper West,Senior High School (SHS),0.94
+2019,Upper East,Senior High School (SHS),0.98
+2019,Central,Senior High School (SHS),0.97
+2019,Volta,Senior High School (SHS),1.09
+2019,Ashanti,Senior High School (SHS),0.74
+2019,Eastern,Senior High School (SHS),0.89
+2019,Greater Accra,Senior High School (SHS),1.04
+2019,Brong Ahafo,Senior High School (SHS),0.93
+2019,Northern,Senior High School (SHS),1.0
+2019,Western,Senior High School (SHS),0.94
+2019,,Senior High School (SHS),0.95
+2017,,Pre-primary education,1.0
+2018,,Pre-primary education,1.0
+2020,,Pre-primary education,1.03
+2021,,Pre-primary education,0.99
+2017,,Primary education,1.03
+2018,,Primary education,1.0
+2020,,Primary education,1.02
+2021,,Primary education,1.0
+2017,,Junior High School (JHS),0.97
+2018,,Junior High School (JHS),1.0
+2020,,Junior High School (JHS),1.02
+2021,,Junior High School (JHS),1.0
+2017,,Senior High School (SHS),0.96
+2018,,Senior High School (SHS),0.92
+2020,,Senior High School (SHS),0.96

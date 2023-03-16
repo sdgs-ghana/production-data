@@ -1,49 +1,65 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"URBANISATION, SEX, REF_AREA",3
-#1-2-1,"URBANISATION, SEX, REF_AREA, COMMENT_OBS",4
-#1-2-2,"COMPOSITE_BREAKDOWN, URBANISATION, REF_AREA, AGE",4
-#1-4-2,"URBANISATION, SEX, REF_AREA",3
-#10-3-1,"COMPOSITE_BREAKDOWN, REF_AREA",2
-#10-7-1,"COMPOSITE_BREAKDOWN, SEX",2
-#12-3-1,PRODUCT,1
-#13-2-2,COMPOSITE_BREAKDOWN,1
-#14-4-1,PRODUCT,1
-#14-5-1,COMPOSITE_BREAKDOWN,1
-#16-1-3,SEX,1
-#16-1-4,"URBANISATION, SEX",2
-#16-3-1,URBANISATION,1
-#16-5-1,COMPOSITE_BREAKDOWN,1
-#16-a-1,COMPOSITE_BREAKDOWN,1
-#16-b-1,"COMPOSITE_BREAKDOWN, REF_AREA",2
-#2-1-2,"URBANISATION, REF_AREA",2
-#2-2-1,"URBANISATION, SEX, COMMENT_OBS",3
-#2-2-2,COMMENT_OBS,1
-#3-1-2,REF_AREA,1
-#3-4-2,"URBANISATION, REF_AREA",2
-#3-d-1,COMPOSITE_BREAKDOWN,1
-#4-1-2,EDUCATION_LEV,1
-#4-2-1,URBANISATION,1
-#4-2-2,"URBANISATION, SEX, REF_AREA",3
-#4-3-1,"COMPOSITE_BREAKDOWN, SEX, EDUCATION_LEV",3
-#4-5-1,"EDUCATION_LEV, REF_AREA",2
-#4-6-1,"URBANISATION, SEX, AGE",3
-#4-a-1,COMPOSITE_BREAKDOWN,1
-#4-c-1,"COMPOSITE_BREAKDOWN, EDUCATION_LEV",2
-#5-2-1,COMPOSITE_BREAKDOWN,1
-#5-3-2,URBANISATION,1
-#5-4-1,"URBANISATION, SEX",2
-#5-a-1,"COMPOSITE_BREAKDOWN, SEX",2
-#5-b-1,"URBANISATION, SEX",2
-#6-1-1,URBANISATION,1
-#6-2-1,URBANISATION,1
-#6-3-1,"COMPOSITE_BREAKDOWN, URBANISATION",2
-#7-1-1,"URBANISATION, REF_AREA",2
-#7-1-2,"URBANISATION, REF_AREA",2
-#8-3-1,"SEX, REF_AREA",2
-#8-5-1,SEX,1
-#8-5-2,"URBANISATION, SEX, AGE, DISABILITY_STATUS",4
-#8-6-1,SEX,1
-#8-7-1,"URBANISATION, SEX",2
-#9-1-2,COMPOSITE_BREAKDOWN,1
-#9-2-2,"URBANISATION, SEX, REF_AREA",3
-#9-4-1,COMPOSITE_BREAKDOWN,1
+#1-1-1,"Sex, Degree of urbanisation, Reference area",3
+#1-2-1,"Sex, Degree of urbanisation, Reference area, COMMENT_OBS",4
+#1-2-2,"SDG Series, Degree of urbanisation, Composite breakdown, Reference area, Age",5
+#1-3-1,"SDG Series, Unit of measure",2
+#1-4-2,"SDG Series, Sex, Degree of urbanisation, Reference area",4
+#10-3-1,"Composite breakdown, Reference area",2
+#10-7-1,"Sex, Composite breakdown",2
+#11-1-1,"SDG Series, Unit of measure",2
+#12-3-1,Type of product,1
+#13-2-2,Composite breakdown,1
+#14-4-1,Type of product,1
+#14-5-1,Composite breakdown,1
+#16-1-3,"SDG Series, Sex",2
+#16-1-4,"Sex, Degree of urbanisation",2
+#16-3-1,Degree of urbanisation,1
+#16-5-1,Composite breakdown,1
+#16-5-2,"SDG Series, Unit of measure",2
+#16-a-1,"SDG Series, Composite breakdown, Unit of measure",3
+#16-b-1,"Composite breakdown, Reference area",2
+#17-3-1,SDG Series,1
+#2-1-2,"SDG Series, Degree of urbanisation, Reference area",3
+#2-2-1,"Sex, Degree of urbanisation, COMMENT_OBS",3
+#2-2-2,"SDG Series, COMMENT_OBS",2
+#2-a-1,"SDG Series, Unit of measure",2
+#3-1-1,SDG Series,1
+#3-1-2,Reference area,1
+#3-3-1,"SDG Series, Unit of measure",2
+#3-4-2,"Degree of urbanisation, Reference area",2
+#3-c-1,SDG Series,1
+#3-d-1,"SDG Series, Composite breakdown",2
+#4-1-2,Education level,1
+#4-2-1,"SDG Series, Degree of urbanisation",2
+#4-2-2,"Sex, Degree of urbanisation, Reference area",3
+#4-3-1,"SDG Series, Sex, Composite breakdown, Unit of measure, Education level",5
+#4-5-1,"Reference area, Education level",2
+#4-6-1,"Sex, Degree of urbanisation, Age",3
+#4-a-1,"SDG Series, Composite breakdown",2
+#4-c-1,"Composite breakdown, Education level",2
+#5-2-1,"SDG Series, Composite breakdown",2
+#5-3-1,SDG Series,1
+#5-3-2,Degree of urbanisation,1
+#5-4-1,"Sex, Degree of urbanisation",2
+#5-5-1,SDG Series,1
+#5-a-1,"Sex, Composite breakdown",2
+#5-b-1,"SDG Series, Sex, Degree of urbanisation",3
+#6-1-1,Degree of urbanisation,1
+#6-2-1,"SDG Series, Degree of urbanisation",2
+#6-3-1,"Degree of urbanisation, Composite breakdown",2
+#7-1-1,"Degree of urbanisation, Reference area",2
+#7-1-2,"Degree of urbanisation, Reference area",2
+#7-3-1,SDG Series,1
+#8-10-1,SDG Series,1
+#8-10-2,SDG Series,1
+#8-3-1,"Sex, Reference area",2
+#8-5-1,Sex,1
+#8-5-2,"Sex, Degree of urbanisation, Age, Disability status",4
+#8-6-1,Sex,1
+#8-7-1,"SDG Series, Sex, Degree of urbanisation",3
+#8-9-1,SDG Series,1
+#9-1-2,"SDG Series, Composite breakdown, Unit of measure",3
+#9-2-1,"SDG Series, Unit of measure",2
+#9-2-2,"Sex, Degree of urbanisation, Reference area",3
+#9-4-1,Composite breakdown,1
+#9-c-1,SDG Series,1

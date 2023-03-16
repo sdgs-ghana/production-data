@@ -12,31 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_ECOWAS",
-                "_L_GH_OTHER_AFRICA",
-                "_L_GH_EUROPE",
-                "_L_GH_MIDDLEEAST",
-                "_L_GH_ASIA",
-                "_L_GH_AMERICA",
-                "_L_GH_OCEANIA",
+                "ECOWAS countries",
+                "Other African Countries",
+                "Europe",
+                "Middle East/Gulf Cooperation Council countries",
+                "Asia",
+                "America",
+                "Oceania",
                 ""
               ]
             }

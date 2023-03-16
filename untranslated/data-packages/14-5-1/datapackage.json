@@ -12,31 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_140501_02",
-                "_L_GH_140501_03",
-                "_L_GH_140501_04",
-                "_L_GH_140501_05",
-                "_L_GH_140501_06",
-                "_L_GH_140501_07",
-                "_L_GH_140501_08",
-                "_L_GH_140501_09",
-                "_L_GH_140501_10",
-                "_L_GH_140501_11",
-                "_L_GH_140501_12",
-                "_L_GH_140501_13",
-                "_L_GH_140501_14",
-                "_L_GH_140501_15",
-                "_L_GH_140501_16",
-                "_L_GH_140501_17",
-                "_L_GH_140501_18",
-                "_L_GH_140501_19",
+                "Food provision (OHI goal)",
+                "Wild caught Fisheries(OHI sub-goal)",
+                "Mariculture (OHI sub-goal)",
+                "Artisanal fishing opportunities (OHI goal)",
+                "Natural products (OHI goal)",
+                "Carbon storage (OHI goal)",
+                "Coastal protection (OHI goal)",
+                "Livelihoods & economies (OHI goal)",
+                "Livelihoods (OHI sub-goal)",
+                "Economies (OHI sub-goal)",
+                "Tourism & recreation (OHI goal)",
+                "Sense of place (OHI goal)",
+                "Iconic species (OHI sub-goal)",
+                "Lasting special places (OHI sub-goal)",
+                "Clean water (OHI goal)",
+                "Biodiversity (OHI goal)",
+                "Habitat (OHI sub-goal)",
+                "Species condition (OHI sub-goal)",
                 ""
               ]
             }

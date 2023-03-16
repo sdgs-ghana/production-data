@@ -11,18 +11,30 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "URBANISATION",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Proportion of population using safely managed sanitation services [6.2.1]",
+                "Proportion of population using handwashing facility with soap and water",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Rural",
-                "Urban"
+                "Urban",
+                ""
               ]
             },
             "title": "Degree of urbanisation"
@@ -31,11 +43,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,19 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1]",
+                "Official Development Assistance (ODA) inflows as a percentage of national budget",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

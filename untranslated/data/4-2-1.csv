@@ -1,25 +1,25 @@
-Year,SERIES,URBANISATION,Value
-2017,_L_GH_040201_01,U,61.0
-2017,_L_GH_040201_02,U,95.5
-2017,_L_GH_040201_03,U,69.1
-2017,_L_GH_040201_04,U,88.5
-2017,_L_GH_040201_01,R,31.2
-2017,_L_GH_040201_02,R,91.7
-2017,_L_GH_040201_03,R,64.7
-2017,_L_GH_040201_04,R,81.9
-2017,_L_GH_040201_01,,43.9
-2017,_L_GH_040201_02,,93.3
-2017,_L_GH_040201_03,,66.6
-2017,_L_GH_040201_04,,84.7
-2011,_L_GH_040201_01,U,40.6
-2011,_L_GH_040201_02,U,98.0
-2011,_L_GH_040201_03,U,71.3
-2011,_L_GH_040201_04,U,90.6
-2011,_L_GH_040201_01,R,18.8
-2011,_L_GH_040201_02,R,96.7
-2011,_L_GH_040201_03,R,74.1
-2011,_L_GH_040201_04,R,87.8
-2011,_L_GH_040201_01,,28.3
-2011,_L_GH_040201_02,,97.3
-2011,_L_GH_040201_03,,72.9
-2011,_L_GH_040201_04,,89.0
+Year,SDG Series,Degree of urbanisation,Value
+2017,Proportion of children who are developmentally on track in literacy-numeracy,Urban,61.0
+2017,Proportion of children who are developmentally on track in physical development,Urban,95.5
+2017,Proportion of children who are developmentally on track in social-emotional development,Urban,69.1
+2017,Proportion of children who are developmentally on track in learning,Urban,88.5
+2017,Proportion of children who are developmentally on track in literacy-numeracy,Rural,31.2
+2017,Proportion of children who are developmentally on track in physical development,Rural,91.7
+2017,Proportion of children who are developmentally on track in social-emotional development,Rural,64.7
+2017,Proportion of children who are developmentally on track in learning,Rural,81.9
+2017,Proportion of children who are developmentally on track in literacy-numeracy,,43.9
+2017,Proportion of children who are developmentally on track in physical development,,93.3
+2017,Proportion of children who are developmentally on track in social-emotional development,,66.6
+2017,Proportion of children who are developmentally on track in learning,,84.7
+2011,Proportion of children who are developmentally on track in literacy-numeracy,Urban,40.6
+2011,Proportion of children who are developmentally on track in physical development,Urban,98.0
+2011,Proportion of children who are developmentally on track in social-emotional development,Urban,71.3
+2011,Proportion of children who are developmentally on track in learning,Urban,90.6
+2011,Proportion of children who are developmentally on track in literacy-numeracy,Rural,18.8
+2011,Proportion of children who are developmentally on track in physical development,Rural,96.7
+2011,Proportion of children who are developmentally on track in social-emotional development,Rural,74.1
+2011,Proportion of children who are developmentally on track in learning,Rural,87.8
+2011,Proportion of children who are developmentally on track in literacy-numeracy,,28.3
+2011,Proportion of children who are developmentally on track in physical development,,97.3
+2011,Proportion of children who are developmentally on track in social-emotional development,,72.9
+2011,Proportion of children who are developmentally on track in learning,,89.0

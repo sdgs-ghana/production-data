@@ -11,18 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "PRODUCT",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of product",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Maize",
                 "Rice",
                 "Sorghum",
                 "Cassava",
-                "Fish(Artisanal)",
+                "Yam",
                 "Fish(Marine)",
-                "Yam"
+                "Fish(Artisanal)",
+                ""
               ]
             },
             "title": "Type of product"
@@ -31,11 +36,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

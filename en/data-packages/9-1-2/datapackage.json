@@ -11,38 +11,56 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Air transport, domestic passengers carried",
+                "Air transport, international passengers carried",
+                "Freight volume (tonne kilometres) [9.1.2]",
+                "Passenger volume (passenger kilometres) [9.1.2]",
+                "Number of containers by marine transport",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Mode of Transport: Air",
-                "Mode of transport: Inland waterway transport",
                 "Mode of Transport: Rail",
-                "Mode of Transport: Maritime"
+                "Mode of Transport: Maritime",
+                "Mode of transport: Inland waterway transport",
+                ""
               ]
             },
             "title": "Composite breakdown"
           },
           {
-            "name": "SERIES",
+            "name": "Unit of measure",
             "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Tonnes",
+                "million tonnes",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

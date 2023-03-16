@@ -11,24 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Western",
-                "Bono East",
-                "Oti",
-                "Northern",
-                "Savannah",
-                "North East",
-                "Upper East",
-                "Upper West",
                 "Central",
                 "Greater Accra",
                 "Volta",
@@ -36,19 +28,27 @@
                 "Ashanti",
                 "Western North",
                 "Ahafo",
-                "Bono"
+                "Bono",
+                "Bono East",
+                "Oti",
+                "Northern",
+                "Savannah",
+                "North East",
+                "Upper East",
+                "Upper West",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
@@ -57,11 +57,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

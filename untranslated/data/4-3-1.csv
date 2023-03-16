@@ -1,138 +1,138 @@
-Year,SERIES,SEX,EDUCATION_LEV,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
-2014,_L_GH_040301_1a,,ISCED11_25_35_45,,NUMBER,186.0
-2015,_L_GH_040301_1a,,ISCED11_25_35_45,,NUMBER,185.0
-2016,_L_GH_040301_1a,,ISCED11_25_35_45,,NUMBER,164.0
-2017,_L_GH_040301_1a,,ISCED11_25_35_45,,NUMBER,178.0
-2018,_L_GH_040301_1a,,ISCED11_25_35_45,,NUMBER,177.0
-2019,_L_GH_040301_1a,,ISCED11_25_35_45,,NUMBER,177.0
-2014,_L_GH_040301_1b,,ISCED11_25_35_45,GES,NUMBER,45.0
-2015,_L_GH_040301_1b,,ISCED11_25_35_45,GES,NUMBER,45.0
-2016,_L_GH_040301_1b,,ISCED11_25_35_45,GES,NUMBER,45.0
-2017,_L_GH_040301_1b,,ISCED11_25_35_45,GES,NUMBER,47.0
-2018,_L_GH_040301_1b,,ISCED11_25_35_45,GES,NUMBER,47.0
-2019,_L_GH_040301_1b,,ISCED11_25_35_45,GES,NUMBER,47.0
-2014,_L_GH_040301_1b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,73.0
-2015,_L_GH_040301_1b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,75.0
-2016,_L_GH_040301_1b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,64.0
-2017,_L_GH_040301_1b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,73.0
-2018,_L_GH_040301_1b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,68.0
-2019,_L_GH_040301_1b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,82.0
-2014,_L_GH_040301_1b,,ISCED11_25_35_45,,NUMBER,118.0
-2015,_L_GH_040301_1b,,ISCED11_25_35_45,,NUMBER,120.0
-2016,_L_GH_040301_1b,,ISCED11_25_35_45,,NUMBER,109.0
-2017,_L_GH_040301_1b,,ISCED11_25_35_45,,NUMBER,120.0
-2018,_L_GH_040301_1b,,ISCED11_25_35_45,,NUMBER,115.0
-2019,_L_GH_040301_1b,,ISCED11_25_35_45,,NUMBER,129.0
-2014,_L_GH_040301_1c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,68.0
-2015,_L_GH_040301_1c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,65.0
-2016,_L_GH_040301_1c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,55.0
-2017,_L_GH_040301_1c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,58.0
-2018,_L_GH_040301_1c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,62.0
-2019,_L_GH_040301_1c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,48.0
-2014,_L_GH_040301_2a,,ISCED11_25_35_45,,NUMBER,41065.0
-2015,_L_GH_040301_2a,,ISCED11_25_35_45,,NUMBER,42513.0
-2016,_L_GH_040301_2a,,ISCED11_25_35_45,,NUMBER,53171.0
-2017,_L_GH_040301_2a,,ISCED11_25_35_45,,NUMBER,59110.0
-2018,_L_GH_040301_2a,,ISCED11_25_35_45,,NUMBER,63582.0
-2019,_L_GH_040301_2a,,ISCED11_25_35_45,,NUMBER,76770.0
-2014,_L_GH_040301_2b,,ISCED11_25_35_45,GES,NUMBER,27166.0
-2015,_L_GH_040301_2b,,ISCED11_25_35_45,GES,NUMBER,32230.0
-2016,_L_GH_040301_2b,,ISCED11_25_35_45,GES,NUMBER,38459.0
-2017,_L_GH_040301_2b,,ISCED11_25_35_45,GES,NUMBER,45215.0
-2018,_L_GH_040301_2b,,ISCED11_25_35_45,GES,NUMBER,49418.0
-2019,_L_GH_040301_2b,,ISCED11_25_35_45,GES,NUMBER,59583.0
-2014,_L_GH_040301_2b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,8183.0
-2015,_L_GH_040301_2b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,6596.0
-2016,_L_GH_040301_2b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,9897.0
-2017,_L_GH_040301_2b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,9217.0
-2018,_L_GH_040301_2b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,8328.0
-2019,_L_GH_040301_2b,,ISCED11_25_35_45,OTHER_PUBLIC,NUMBER,12701.0
-2014,_L_GH_040301_2b,,ISCED11_25_35_45,,NUMBER,35349.0
-2015,_L_GH_040301_2b,,ISCED11_25_35_45,,NUMBER,38826.0
-2016,_L_GH_040301_2b,,ISCED11_25_35_45,,NUMBER,48356.0
-2017,_L_GH_040301_2b,,ISCED11_25_35_45,,NUMBER,54432.0
-2018,_L_GH_040301_2b,,ISCED11_25_35_45,,NUMBER,57746.0
-2019,_L_GH_040301_2b,,ISCED11_25_35_45,,NUMBER,72284.0
-2014,_L_GH_040301_2c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,5716.0
-2015,_L_GH_040301_2c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,3687.0
-2016,_L_GH_040301_2c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,4815.0
-2017,_L_GH_040301_2c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,4678.0
-2018,_L_GH_040301_2c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,5836.0
-2019,_L_GH_040301_2c,,ISCED11_25_35_45,_L_GH_PRIVATE,NUMBER,4486.0
-2014,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PUBLIC,NUMBER,149.0
-2015,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PUBLIC,NUMBER,154.0
-2016,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PUBLIC,NUMBER,155.0
-2017,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PUBLIC,NUMBER,164.0
-2018,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PUBLIC,NUMBER,115.0
-2019,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PUBLIC,NUMBER,129.0
-2014,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PRIVATE,NUMBER,39.0
-2015,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PRIVATE,NUMBER,38.0
-2016,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PRIVATE,NUMBER,29.0
-2017,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PRIVATE,NUMBER,32.0
-2018,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PRIVATE,NUMBER,62.0
-2019,_L_GH_040301_3a,,_L_GH_SecTech,_L_GH_PRIVATE,NUMBER,48.0
-2014,_L_GH_040301_3a,,_L_GH_SecTech,,NUMBER,188.0
-2015,_L_GH_040301_3a,,_L_GH_SecTech,,NUMBER,192.0
-2016,_L_GH_040301_3a,,_L_GH_SecTech,,NUMBER,184.0
-2017,_L_GH_040301_3a,,_L_GH_SecTech,,NUMBER,196.0
-2018,_L_GH_040301_3a,,_L_GH_SecTech,,NUMBER,177.0
-2019,_L_GH_040301_3a,,_L_GH_SecTech,,NUMBER,177.0
-2014,_L_GH_040301_3b,,_L_GH_SecTech,_L_GH_PRIVATE,PT,13.6
-2015,_L_GH_040301_3b,,_L_GH_SecTech,_L_GH_PRIVATE,PT,13.3
-2016,_L_GH_040301_3b,,_L_GH_SecTech,_L_GH_PRIVATE,PT,13.6
-2017,_L_GH_040301_3b,,_L_GH_SecTech,_L_GH_PRIVATE,PT,13.6
-2018,_L_GH_040301_3b,,_L_GH_SecTech,_L_GH_PRIVATE,PT,13.6
-2019,_L_GH_040301_3b,,_L_GH_SecTech,_L_GH_PRIVATE,PT,27.1
-2014,_L_GH_040301_3c,M,_L_GH_SecTech,,NUMBER,22756.0
-2015,_L_GH_040301_3c,M,_L_GH_SecTech,,NUMBER,22982.0
-2016,_L_GH_040301_3c,M,_L_GH_SecTech,,NUMBER,24464.0
-2017,_L_GH_040301_3c,M,_L_GH_SecTech,,NUMBER,26092.0
-2018,_L_GH_040301_3c,M,_L_GH_SecTech,,NUMBER,40362.0
-2019,_L_GH_040301_3c,M,_L_GH_SecTech,,NUMBER,56258.0
-2014,_L_GH_040301_3c,F,_L_GH_SecTech,,NUMBER,1640.0
-2015,_L_GH_040301_3c,F,_L_GH_SecTech,,NUMBER,1925.0
-2016,_L_GH_040301_3c,F,_L_GH_SecTech,,NUMBER,1360.0
-2017,_L_GH_040301_3c,F,_L_GH_SecTech,,NUMBER,3185.0
-2018,_L_GH_040301_3c,F,_L_GH_SecTech,,NUMBER,9056.0
-2019,_L_GH_040301_3c,F,_L_GH_SecTech,,NUMBER,20512.0
-2014,_L_GH_040301_3c,,_L_GH_SecTech,,NUMBER,24396.0
-2015,_L_GH_040301_3c,,_L_GH_SecTech,,NUMBER,24907.0
-2016,_L_GH_040301_3c,,_L_GH_SecTech,,NUMBER,25824.0
-2017,_L_GH_040301_3c,,_L_GH_SecTech,,NUMBER,29277.0
-2018,_L_GH_040301_3c,,_L_GH_SecTech,,NUMBER,49418.0
-2019,_L_GH_040301_3c,,_L_GH_SecTech,,NUMBER,76770.0
-2007,_L_GH_040301_4a,,,,NUMBER,8500.0
-2007,_L_GH_040301_4b,M,,,NUMBER,12164.0
-2007,_L_GH_040301_4b,F,,,NUMBER,19204.0
-2007,_L_GH_040301_4b,,,,NUMBER,31368.0
-2007,_L_GH_040301_4c,F,,,PT,61.0
-2008,_L_GH_040301_4a,,,,NUMBER,1600.0
-2008,_L_GH_040301_4b,M,,,NUMBER,11573.0
-2008,_L_GH_040301_4b,F,,,NUMBER,19612.0
-2008,_L_GH_040301_4b,,,,NUMBER,31185.0
-2008,_L_GH_040301_4c,F,,,PT,63.0
-2009,_L_GH_040301_4a,,,,NUMBER,1600.0
-2009,_L_GH_040301_4b,M,,,NUMBER,14813.0
-2009,_L_GH_040301_4b,F,,,NUMBER,24041.0
-2009,_L_GH_040301_4b,,,,NUMBER,38854.0
-2009,_L_GH_040301_4c,F,,,PT,62.0
-2010,_L_GH_040301_4a,,,,NUMBER,1600.0
-2010,_L_GH_040301_4b,M,,,NUMBER,17224.0
-2010,_L_GH_040301_4b,F,,,NUMBER,24796.0
-2010,_L_GH_040301_4b,,,,NUMBER,42020.0
-2010,_L_GH_040301_4c,F,,,PT,59.0
-2011,_L_GH_040301_4a,,,,NUMBER,2000.0
-2011,_L_GH_040301_4b,M,,,NUMBER,18904.0
-2011,_L_GH_040301_4b,F,,,NUMBER,31777.0
-2011,_L_GH_040301_4b,,,,NUMBER,50681.0
-2011,_L_GH_040301_4c,F,,,PT,63.0
-2013,_L_GH_040301_4a,,,,NUMBER,1886.0
-2013,_L_GH_040301_4b,M,,,NUMBER,16195.0
-2013,_L_GH_040301_4b,F,,,NUMBER,28535.0
-2013,_L_GH_040301_4b,,,,NUMBER,44730.0
-2013,_L_GH_040301_4c,F,,,PT,64.0
-2015,_L_GH_040301_4a,,,,NUMBER,584.0
-2015,_L_GH_040301_4b,M,,,NUMBER,5612.0
-2015,_L_GH_040301_4b,F,,,NUMBER,8417.0
-2015,_L_GH_040301_4b,,,,NUMBER,14029.0
-2015,_L_GH_040301_4c,F,,,PT,60.0
+Year,SDG Series,Sex,Education level,Composite breakdown,Unit of measure,Value
+2014,Number of Technical and Vocational Institutions,,Vocational secondary education,,Number,186.0
+2015,Number of Technical and Vocational Institutions,,Vocational secondary education,,Number,185.0
+2016,Number of Technical and Vocational Institutions,,Vocational secondary education,,Number,164.0
+2017,Number of Technical and Vocational Institutions,,Vocational secondary education,,Number,178.0
+2018,Number of Technical and Vocational Institutions,,Vocational secondary education,,Number,177.0
+2019,Number of Technical and Vocational Institutions,,Vocational secondary education,,Number,177.0
+2014,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,45.0
+2015,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,45.0
+2016,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,45.0
+2017,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,47.0
+2018,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,47.0
+2019,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,47.0
+2014,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,73.0
+2015,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,75.0
+2016,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,64.0
+2017,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,73.0
+2018,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,68.0
+2019,Number of Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,82.0
+2014,Number of Public Technical and Vocational Institutions,,Vocational secondary education,,Number,118.0
+2015,Number of Public Technical and Vocational Institutions,,Vocational secondary education,,Number,120.0
+2016,Number of Public Technical and Vocational Institutions,,Vocational secondary education,,Number,109.0
+2017,Number of Public Technical and Vocational Institutions,,Vocational secondary education,,Number,120.0
+2018,Number of Public Technical and Vocational Institutions,,Vocational secondary education,,Number,115.0
+2019,Number of Public Technical and Vocational Institutions,,Vocational secondary education,,Number,129.0
+2014,Number of Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,68.0
+2015,Number of Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,65.0
+2016,Number of Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,55.0
+2017,Number of Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,58.0
+2018,Number of Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,62.0
+2019,Number of Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,48.0
+2014,Enrolment in Technical and Vocational Institutions,,Vocational secondary education,,Number,41065.0
+2015,Enrolment in Technical and Vocational Institutions,,Vocational secondary education,,Number,42513.0
+2016,Enrolment in Technical and Vocational Institutions,,Vocational secondary education,,Number,53171.0
+2017,Enrolment in Technical and Vocational Institutions,,Vocational secondary education,,Number,59110.0
+2018,Enrolment in Technical and Vocational Institutions,,Vocational secondary education,,Number,63582.0
+2019,Enrolment in Technical and Vocational Institutions,,Vocational secondary education,,Number,76770.0
+2014,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,27166.0
+2015,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,32230.0
+2016,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,38459.0
+2017,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,45215.0
+2018,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,49418.0
+2019,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Ghana Education Service,Number,59583.0
+2014,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,8183.0
+2015,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,6596.0
+2016,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,9897.0
+2017,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,9217.0
+2018,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,8328.0
+2019,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,Other Public Institutions,Number,12701.0
+2014,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,,Number,35349.0
+2015,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,,Number,38826.0
+2016,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,,Number,48356.0
+2017,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,,Number,54432.0
+2018,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,,Number,57746.0
+2019,Enrolment in Public Technical and Vocational Institutions,,Vocational secondary education,,Number,72284.0
+2014,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,5716.0
+2015,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,3687.0
+2016,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,4815.0
+2017,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,4678.0
+2018,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,5836.0
+2019,Enrolment in Private Technical and Vocational Institutions,,Vocational secondary education,Private,Number,4486.0
+2014,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,149.0
+2015,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,154.0
+2016,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,155.0
+2017,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,164.0
+2018,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,115.0
+2019,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Public,Number,129.0
+2014,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,39.0
+2015,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,38.0
+2016,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,29.0
+2017,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,32.0
+2018,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,62.0
+2019,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,Private,Number,48.0
+2014,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,188.0
+2015,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,192.0
+2016,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,184.0
+2017,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,196.0
+2018,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,177.0
+2019,Number of Senior High Technical Schools with TVET Programmes,,Senior High Technical School,,Number,177.0
+2014,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percentage (%),13.6
+2015,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percentage (%),13.3
+2016,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percentage (%),13.6
+2017,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percentage (%),13.6
+2018,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percentage (%),13.6
+2019,Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment,,Senior High Technical School,Private,Percentage (%),27.1
+2014,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,22756.0
+2015,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,22982.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,24464.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,26092.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,40362.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools,Male,Senior High Technical School,,Number,56258.0
+2014,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,1640.0
+2015,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,1925.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,1360.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,3185.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,9056.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools,Female,Senior High Technical School,,Number,20512.0
+2014,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,24396.0
+2015,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,24907.0
+2016,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,25824.0
+2017,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,29277.0
+2018,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,49418.0
+2019,Enrolment in TVET Programmes in Senior High Technical Schools,,Senior High Technical School,,Number,76770.0
+2007,Number of Classes for National Functional Literacy Programme,,,,Number,8500.0
+2007,Enrolment for National Functional Literacy Programme,Male,,,Number,12164.0
+2007,Enrolment for National Functional Literacy Programme,Female,,,Number,19204.0
+2007,Enrolment for National Functional Literacy Programme,,,,Number,31368.0
+2007,Percentage of Female share in Enrolment for National Functional Literacy Programme,Female,,,Percentage (%),61.0
+2008,Number of Classes for National Functional Literacy Programme,,,,Number,1600.0
+2008,Enrolment for National Functional Literacy Programme,Male,,,Number,11573.0
+2008,Enrolment for National Functional Literacy Programme,Female,,,Number,19612.0
+2008,Enrolment for National Functional Literacy Programme,,,,Number,31185.0
+2008,Percentage of Female share in Enrolment for National Functional Literacy Programme,Female,,,Percentage (%),63.0
+2009,Number of Classes for National Functional Literacy Programme,,,,Number,1600.0
+2009,Enrolment for National Functional Literacy Programme,Male,,,Number,14813.0
+2009,Enrolment for National Functional Literacy Programme,Female,,,Number,24041.0
+2009,Enrolment for National Functional Literacy Programme,,,,Number,38854.0
+2009,Percentage of Female share in Enrolment for National Functional Literacy Programme,Female,,,Percentage (%),62.0
+2010,Number of Classes for National Functional Literacy Programme,,,,Number,1600.0
+2010,Enrolment for National Functional Literacy Programme,Male,,,Number,17224.0
+2010,Enrolment for National Functional Literacy Programme,Female,,,Number,24796.0
+2010,Enrolment for National Functional Literacy Programme,,,,Number,42020.0
+2010,Percentage of Female share in Enrolment for National Functional Literacy Programme,Female,,,Percentage (%),59.0
+2011,Number of Classes for National Functional Literacy Programme,,,,Number,2000.0
+2011,Enrolment for National Functional Literacy Programme,Male,,,Number,18904.0
+2011,Enrolment for National Functional Literacy Programme,Female,,,Number,31777.0
+2011,Enrolment for National Functional Literacy Programme,,,,Number,50681.0
+2011,Percentage of Female share in Enrolment for National Functional Literacy Programme,Female,,,Percentage (%),63.0
+2013,Number of Classes for National Functional Literacy Programme,,,,Number,1886.0
+2013,Enrolment for National Functional Literacy Programme,Male,,,Number,16195.0
+2013,Enrolment for National Functional Literacy Programme,Female,,,Number,28535.0
+2013,Enrolment for National Functional Literacy Programme,,,,Number,44730.0
+2013,Percentage of Female share in Enrolment for National Functional Literacy Programme,Female,,,Percentage (%),64.0
+2015,Number of Classes for National Functional Literacy Programme,,,,Number,584.0
+2015,Enrolment for National Functional Literacy Programme,Male,,,Number,5612.0
+2015,Enrolment for National Functional Literacy Programme,Female,,,Number,8417.0
+2015,Enrolment for National Functional Literacy Programme,,,,Number,14029.0
+2015,Percentage of Female share in Enrolment for National Functional Literacy Programme,Female,,,Percentage (%),60.0

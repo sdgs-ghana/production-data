@@ -1,0 +1,735 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: Composite breakdown - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+            </style>
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: Composite breakdown</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--composite-breakdown.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--composite-breakdown">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--composite-breakdown" class="download-info">Size: 4.3 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">88</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>en</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--agriculture-forestry-and-other-land-use.html">Agriculture, Forestry, and Other Land Use</a></td>
+      <td>Agriculture, Forestry, and Other Land Use</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--agriculture.html">Agriculture</a></td>
+      <td>Agriculture</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--america.html">America</a></td>
+      <td>America</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--artisanal-fishing-opportunities-ohi-goal.html">Artisanal fishing opportunities (OHI goal)</a></td>
+      <td>Artisanal fishing opportunities (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--asia.html">Asia</a></td>
+      <td>Asia</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--biodiversity-ohi-goal.html">Biodiversity (OHI goal)</a></td>
+      <td>Biodiversity (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--carbon-storage-ohi-goal.html">Carbon storage (OHI goal)</a></td>
+      <td>Carbon storage (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--chemical-events.html">Chemical events</a></td>
+      <td>Chemical events</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--children-rights.html">Children Rights</a></td>
+      <td>Children Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--civil-and-political-rights.html">Civil and Political Rights</a></td>
+      <td>Civil and Political Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--clean-water-ohi-goal.html">Clean water (OHI goal)</a></td>
+      <td>Clean water (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--coastal-protection-ohi-goal.html">Coastal protection (OHI goal)</a></td>
+      <td>Coastal protection (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--complete-document.html">Complete Document</a></td>
+      <td>Complete Document</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--curse.html">Curse</a></td>
+      <td>Curse</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--defilement.html">Defilement</a></td>
+      <td>Defilement</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--discriminated-against.html">Discriminated against</a></td>
+      <td>Discriminated against</td>
+      <td>22</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--economic-social-and-cultural-rights.html">Economic, Social and Cultural Rights</a></td>
+      <td>Economic, Social and Cultural Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--economies-ohi-sub-goal.html">Economies (OHI sub-goal)</a></td>
+      <td>Economies (OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ecowas-countries.html">ECOWAS countries</a></td>
+      <td>ECOWAS countries</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--energy.html">Energy</a></td>
+      <td>Energy</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--europe.html">Europe</a></td>
+      <td>Europe</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--flows-or-thrown-into-drainsgutter.html">Flows or thrown into drains/gutter</a></td>
+      <td>Flows or thrown into drains/gutter</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--food-provision-ohi-goal.html">Food provision (OHI goal)</a></td>
+      <td>Food provision (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--food-safety.html">Food safety</a></td>
+      <td>Food safety</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ghana-education-service.html">Ghana Education Service</a></td>
+      <td>Ghana Education Service</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--government-officials.html">Government Officials</a></td>
+      <td>Government Officials</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--habitat-ohi-sub-goal.html">Habitat (OHI sub-goal)</a></td>
+      <td>Habitat (OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--health-service-provision.html">Health Service Provision</a></td>
+      <td>Health Service Provision</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--health.html">HEALTH</a></td>
+      <td>HEALTH</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--housing.html">HOUSING</a></td>
+      <td>HOUSING</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--human-resources.html">Human resources</a></td>
+      <td>Human resources</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--iconic-species-ohi-sub-goal.html">Iconic species (OHI sub-goal)</a></td>
+      <td>Iconic species (OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ict.html">ICT</a></td>
+      <td>ICT</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ihr-coordination-and-national-focal-point-functions.html">IHR Coordination and National Focal Point Functions</a></td>
+      <td>IHR Coordination and National Focal Point Functions</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--industrial-processes-and-product-use.html">Industrial Processes and Product Use</a></td>
+      <td>Industrial Processes and Product Use</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--industry.html">Industry</a></td>
+      <td>Industry</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--judges-ad-magistrates.html">Judges ad Magistrates</a></td>
+      <td>Judges ad Magistrates</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--laboratory.html">Laboratory</a></td>
+      <td>Laboratory</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lasting-special-places-ohi-sub-goal.html">Lasting special places (OHI sub-goal)</a></td>
+      <td>Lasting special places (OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--learning-and-development.html">LEARNING AND DEVELOPMENT</a></td>
+      <td>LEARNING AND DEVELOPMENT</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--legislation-and-financing.html">Legislation and financing</a></td>
+      <td>Legislation and financing</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--livelihoods-economies-ohi-goal.html">Livelihoods & economies (OHI goal)</a></td>
+      <td>Livelihoods & economies (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--livelihoods-ohi-sub-goal.html">Livelihoods (OHI sub-goal)</a></td>
+      <td>Livelihoods (OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mariculture-ohi-sub-goal.html">Mariculture (OHI sub-goal)</a></td>
+      <td>Mariculture (OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--middle-eastgulf-cooperation-council-countries.html">Middle East/Gulf Cooperation Council countries</a></td>
+      <td>Middle East/Gulf Cooperation Council countries</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-air.html">Mode of Transport: Air</a></td>
+      <td>Mode of Transport: Air</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-inland-waterway-transport.html">Mode of transport: Inland waterway transport</a></td>
+      <td>Mode of transport: Inland waterway transport</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-maritime.html">Mode of Transport: Maritime</a></td>
+      <td>Mode of Transport: Maritime</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mode-of-transport-rail.html">Mode of Transport: Rail</a></td>
+      <td>Mode of Transport: Rail</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--national-emissions-with-folu.html">National Emissions with FOLU</a></td>
+      <td>National Emissions with FOLU</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--national-emissions-without-folu.html">National Emissions without FOLU</a></td>
+      <td>National Emissions without FOLU</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--national-health-emergency-framework.html">National Health Emergency Framework</a></td>
+      <td>National Health Emergency Framework</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--natural-products-ohi-goal.html">Natural products (OHI goal)</a></td>
+      <td>Natural products (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--no-document.html">No Document</a></td>
+      <td>No Document</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--not-discriminated-against.html">Not Discriminated against</a></td>
+      <td>Not Discriminated against</td>
+      <td>22</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--now-processing.html">Now Processing</a></td>
+      <td>Now Processing</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--nutrition.html">NUTRITION</a></td>
+      <td>NUTRITION</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--oceania.html">Oceania</a></td>
+      <td>Oceania</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--other-african-countries.html">Other African Countries</a></td>
+      <td>Other African Countries</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--other-public-institutions.html">Other Public Institutions</a></td>
+      <td>Other Public Institutions</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--partial.html">Partial</a></td>
+      <td>Partial</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--points-of-entry.html">Points of entry</a></td>
+      <td>Points of entry</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--police.html">Police</a></td>
+      <td>Police</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--private.html">Private</a></td>
+      <td>Private</td>
+      <td>13</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--property-rights.html">Property Rights</a></td>
+      <td>Property Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--public.html">Public</a></td>
+      <td>Public</td>
+      <td>10</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--radiation-emergencies.html">Radiation emergencies</a></td>
+      <td>Radiation emergencies</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--rapeseduction.html">Rape/Seduction</a></td>
+      <td>Rape/Seduction</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--risk-communication.html">Risk communication</a></td>
+      <td>Risk communication</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sanitation.html">SANITATION</a></td>
+      <td>SANITATION</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sense-of-place-ohi-goal.html">Sense of place (OHI goal)</a></td>
+      <td>Sense of place (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--services.html">Services</a></td>
+      <td>Services</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sexual-harassment.html">Sexual Harassment</a></td>
+      <td>Sexual Harassment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--social-protection.html">SOCIAL PROTECTION</a></td>
+      <td>SOCIAL PROTECTION</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--species-condition-ohi-sub-goal.html">Species condition (OHI sub-goal)</a></td>
+      <td>Species condition (OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--surveillance.html">Surveillance</a></td>
+      <td>Surveillance</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--through-drainage-into-a-pit-soakaway.html">Through drainage into a pit (soakaway)</a></td>
+      <td>Through drainage into a pit (soakaway)</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--through-the-sewerage-system.html">Through the sewerage system</a></td>
+      <td>Through the sewerage system</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--thrown-into-the-groundstreetoutside.html">Thrown into the ground/street/outside</a></td>
+      <td>Thrown into the ground/street/outside</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-human-rights-complaints.html">Total Human Rights Complaints</a></td>
+      <td>Total Human Rights Complaints</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-resolved.html">Total Resolved</a></td>
+      <td>Total Resolved</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tourism-recreation-ohi-goal.html">Tourism & recreation (OHI goal)</a></td>
+      <td>Tourism & recreation (OHI goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--verbal-assault.html">Verbal assault</a></td>
+      <td>Verbal assault</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--waste.html">Waste</a></td>
+      <td>Waste</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--water.html">WATER</a></td>
+      <td>WATER</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--wild-caught-fisheriesohi-sub-goal.html">Wild caught Fisheries(OHI sub-goal)</a></td>
+      <td>Wild caught Fisheries(OHI sub-goal)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--women-rights.html">Women Rights</a></td>
+      <td>Women Rights</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--zoonotic-events-and-the-human-animal-health-interface.html">Zoonotic events and the Human-Animal Health Interface</a></td>
+      <td>Zoonotic events and the Human-Animal Health Interface</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--agriculture-forestry-and-other-land-use.html\">Agriculture, Forestry, and Other Land Use<\/a>","en":"Agriculture, Forestry, and Other Land Use","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--agriculture.html\">Agriculture<\/a>","en":"Agriculture","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--america.html\">America<\/a>","en":"America","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--artisanal-fishing-opportunities-ohi-goal.html\">Artisanal fishing opportunities (OHI goal)<\/a>","en":"Artisanal fishing opportunities (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--asia.html\">Asia<\/a>","en":"Asia","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--biodiversity-ohi-goal.html\">Biodiversity (OHI goal)<\/a>","en":"Biodiversity (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--carbon-storage-ohi-goal.html\">Carbon storage (OHI goal)<\/a>","en":"Carbon storage (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--chemical-events.html\">Chemical events<\/a>","en":"Chemical events","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--children-rights.html\">Children Rights<\/a>","en":"Children Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--civil-and-political-rights.html\">Civil and Political Rights<\/a>","en":"Civil and Political Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--clean-water-ohi-goal.html\">Clean water (OHI goal)<\/a>","en":"Clean water (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--coastal-protection-ohi-goal.html\">Coastal protection (OHI goal)<\/a>","en":"Coastal protection (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--complete-document.html\">Complete Document<\/a>","en":"Complete Document","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--curse.html\">Curse<\/a>","en":"Curse","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--defilement.html\">Defilement<\/a>","en":"Defilement","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--discriminated-against.html\">Discriminated against<\/a>","en":"Discriminated against","Disaggregation combinations using this value":22,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--economic-social-and-cultural-rights.html\">Economic, Social and Cultural Rights<\/a>","en":"Economic, Social and Cultural Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--economies-ohi-sub-goal.html\">Economies (OHI sub-goal)<\/a>","en":"Economies (OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ecowas-countries.html\">ECOWAS countries<\/a>","en":"ECOWAS countries","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--energy.html\">Energy<\/a>","en":"Energy","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--europe.html\">Europe<\/a>","en":"Europe","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--flows-or-thrown-into-drainsgutter.html\">Flows or thrown into drains\/gutter<\/a>","en":"Flows or thrown into drains\/gutter","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-provision-ohi-goal.html\">Food provision (OHI goal)<\/a>","en":"Food provision (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--food-safety.html\">Food safety<\/a>","en":"Food safety","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ghana-education-service.html\">Ghana Education Service<\/a>","en":"Ghana Education Service","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--government-officials.html\">Government Officials<\/a>","en":"Government Officials","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--habitat-ohi-sub-goal.html\">Habitat (OHI sub-goal)<\/a>","en":"Habitat (OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--health-service-provision.html\">Health Service Provision<\/a>","en":"Health Service Provision","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--health.html\">HEALTH<\/a>","en":"HEALTH","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--housing.html\">HOUSING<\/a>","en":"HOUSING","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--human-resources.html\">Human resources<\/a>","en":"Human resources","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--iconic-species-ohi-sub-goal.html\">Iconic species (OHI sub-goal)<\/a>","en":"Iconic species (OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ict.html\">ICT<\/a>","en":"ICT","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ihr-coordination-and-national-focal-point-functions.html\">IHR Coordination and National Focal Point Functions<\/a>","en":"IHR Coordination and National Focal Point Functions","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--industrial-processes-and-product-use.html\">Industrial Processes and Product Use<\/a>","en":"Industrial Processes and Product Use","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--industry.html\">Industry<\/a>","en":"Industry","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--judges-ad-magistrates.html\">Judges ad Magistrates<\/a>","en":"Judges ad Magistrates","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--laboratory.html\">Laboratory<\/a>","en":"Laboratory","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lasting-special-places-ohi-sub-goal.html\">Lasting special places (OHI sub-goal)<\/a>","en":"Lasting special places (OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--learning-and-development.html\">LEARNING AND DEVELOPMENT<\/a>","en":"LEARNING AND DEVELOPMENT","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--legislation-and-financing.html\">Legislation and financing<\/a>","en":"Legislation and financing","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--livelihoods-economies-ohi-goal.html\">Livelihoods & economies (OHI goal)<\/a>","en":"Livelihoods & economies (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--livelihoods-ohi-sub-goal.html\">Livelihoods (OHI sub-goal)<\/a>","en":"Livelihoods (OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mariculture-ohi-sub-goal.html\">Mariculture (OHI sub-goal)<\/a>","en":"Mariculture (OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--middle-eastgulf-cooperation-council-countries.html\">Middle East\/Gulf Cooperation Council countries<\/a>","en":"Middle East\/Gulf Cooperation Council countries","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-air.html\">Mode of Transport: Air<\/a>","en":"Mode of Transport: Air","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-inland-waterway-transport.html\">Mode of transport: Inland waterway transport<\/a>","en":"Mode of transport: Inland waterway transport","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-maritime.html\">Mode of Transport: Maritime<\/a>","en":"Mode of Transport: Maritime","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--mode-of-transport-rail.html\">Mode of Transport: Rail<\/a>","en":"Mode of Transport: Rail","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--national-emissions-with-folu.html\">National Emissions with FOLU<\/a>","en":"National Emissions with FOLU","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--national-emissions-without-folu.html\">National Emissions without FOLU<\/a>","en":"National Emissions without FOLU","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--national-health-emergency-framework.html\">National Health Emergency Framework<\/a>","en":"National Health Emergency Framework","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--natural-products-ohi-goal.html\">Natural products (OHI goal)<\/a>","en":"Natural products (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--no-document.html\">No Document<\/a>","en":"No Document","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--not-discriminated-against.html\">Not Discriminated against<\/a>","en":"Not Discriminated against","Disaggregation combinations using this value":22,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--now-processing.html\">Now Processing<\/a>","en":"Now Processing","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--nutrition.html\">NUTRITION<\/a>","en":"NUTRITION","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--oceania.html\">Oceania<\/a>","en":"Oceania","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-african-countries.html\">Other African Countries<\/a>","en":"Other African Countries","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--other-public-institutions.html\">Other Public Institutions<\/a>","en":"Other Public Institutions","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--partial.html\">Partial<\/a>","en":"Partial","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--points-of-entry.html\">Points of entry<\/a>","en":"Points of entry","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--police.html\">Police<\/a>","en":"Police","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--private.html\">Private<\/a>","en":"Private","Disaggregation combinations using this value":13,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--property-rights.html\">Property Rights<\/a>","en":"Property Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--public.html\">Public<\/a>","en":"Public","Disaggregation combinations using this value":10,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--radiation-emergencies.html\">Radiation emergencies<\/a>","en":"Radiation emergencies","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--rapeseduction.html\">Rape\/Seduction<\/a>","en":"Rape\/Seduction","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--risk-communication.html\">Risk communication<\/a>","en":"Risk communication","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sanitation.html\">SANITATION<\/a>","en":"SANITATION","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sense-of-place-ohi-goal.html\">Sense of place (OHI goal)<\/a>","en":"Sense of place (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--services.html\">Services<\/a>","en":"Services","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sexual-harassment.html\">Sexual Harassment<\/a>","en":"Sexual Harassment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--social-protection.html\">SOCIAL PROTECTION<\/a>","en":"SOCIAL PROTECTION","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--species-condition-ohi-sub-goal.html\">Species condition (OHI sub-goal)<\/a>","en":"Species condition (OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--surveillance.html\">Surveillance<\/a>","en":"Surveillance","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--through-drainage-into-a-pit-soakaway.html\">Through drainage into a pit (soakaway)<\/a>","en":"Through drainage into a pit (soakaway)","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--through-the-sewerage-system.html\">Through the sewerage system<\/a>","en":"Through the sewerage system","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--thrown-into-the-groundstreetoutside.html\">Thrown into the ground\/street\/outside<\/a>","en":"Thrown into the ground\/street\/outside","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-human-rights-complaints.html\">Total Human Rights Complaints<\/a>","en":"Total Human Rights Complaints","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-resolved.html\">Total Resolved<\/a>","en":"Total Resolved","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--tourism-recreation-ohi-goal.html\">Tourism & recreation (OHI goal)<\/a>","en":"Tourism & recreation (OHI goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--verbal-assault.html\">Verbal assault<\/a>","en":"Verbal assault","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--waste.html\">Waste<\/a>","en":"Waste","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--water.html\">WATER<\/a>","en":"WATER","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--wild-caught-fisheriesohi-sub-goal.html\">Wild caught Fisheries(OHI sub-goal)<\/a>","en":"Wild caught Fisheries(OHI sub-goal)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--women-rights.html\">Women Rights<\/a>","en":"Women Rights","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--zoonotic-events-and-the-human-animal-health-interface.html\">Zoonotic events and the Human-Animal Health Interface<\/a>","en":"Zoonotic events and the Human-Animal Health Interface","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--composite-breakdown.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--composite-breakdown">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--composite-breakdown" class="download-info">Size: 136 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">17</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/1-2-2">#1-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/10-3-1">#10-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/10-7-1">#10-7-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/13-2-2">#13-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/14-5-1">#14-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-5-1">#16-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-a-1">#16-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-b-1">#16-b-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-d-1">#3-d-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-3-1">#4-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-a-1">#4-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-c-1">#4-c-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/5-2-1">#5-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/5-a-1">#5-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/6-3-1">#6-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-1-2">#9-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-4-1">#9-4-1</a></td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/1-2-2\">#1-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/10-3-1\">#10-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/10-7-1\">#10-7-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/13-2-2\">#13-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/14-5-1\">#14-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-5-1\">#16-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-a-1\">#16-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-b-1\">#16-b-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-d-1\">#3-d-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-3-1\">#4-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-a-1\">#4-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-c-1\">#4-c-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/5-2-1\">#5-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/5-a-1\">#5-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/6-3-1\">#6-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-1-2\">#9-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-4-1\">#9-4-1<\/a>"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

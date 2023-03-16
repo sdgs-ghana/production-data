@@ -11,24 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate of new HIV infections per 1,000 uninfected population [3.3.1]",
+                "Number of new HIV infections [3.3.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit of measure",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 1,000 uninfected population",
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

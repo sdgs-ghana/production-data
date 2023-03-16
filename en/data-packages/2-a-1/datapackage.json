@@ -11,24 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture orientation index for government expenditures [2.a.1]",
+                "Agriculture share of Government Expenditure [2.a.1]",
+                "Agriculture value added share of GDP [2.a.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit of measure",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                "Percentage (%)",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

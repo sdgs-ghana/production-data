@@ -11,13 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Primary education",
-                "Junior High School (JHS)"
+                "Junior High School (JHS)",
+                ""
               ]
             },
             "title": "Education level"
@@ -26,11 +31,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

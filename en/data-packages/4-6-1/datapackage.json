@@ -11,38 +11,43 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 years old and over",
-                "6 years old and over",
-                "11 years old and over"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "URBANISATION",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "6 years old and over",
+                "11 years old and over",
+                "15 years old and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Rural",
-                "Urban"
+                "Urban",
+                ""
               ]
             },
             "title": "Degree of urbanisation"
@@ -51,11 +56,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

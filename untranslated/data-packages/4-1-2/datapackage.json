@@ -12,15 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_10",
-                "_L_GH_JHS",
+                "Primary education",
+                "Junior High School (JHS)",
                 ""
               ]
             }

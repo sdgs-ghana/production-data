@@ -11,24 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Cash transfer coverage of extremely poor households under Livelihood Empowerment Against Poverty (LEAP) programme",
+                "Proportion of basic school students under Ghana School Feeding Programme (GSFP)",
+                "Total Beneficiaries of Free Senior High School Programme (FSHSP)",
+                "Proportion with access to affordable healthcare under National Health Insurance Scheme (NHIS)",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit of measure",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percentage (%)",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -1,10 +1,10 @@
-Year,PRODUCT,Value
-2020,_L_GH_ROUSAR,17.7
-2020,_L_GH_FLATSAR,16.2
-2020,_L_GH_CHUBMACK,20.2
-2020,_L_GH_EUROANC,9.1
-2020,_L_GH_BURRITTO,13.4
-2020,_L_GH_REDPAN,16.2
-2020,_L_GH_CASFISH,21.7
-2020,_L_GH_REDMUL,17.5
-2020,_L_GH_ANGDEN,20.3
+Year,Type of product,Value
+2020,Round sardinella,17.7
+2020,Flat sardinella,16.2
+2020,Chub mackerel,20.2
+2020,European anchovy,9.1
+2020,Burritto,13.4
+2020,Red Pandora,16.2
+2020,Cassava fish,21.7
+2020,Red Mullet,17.5
+2020,Angola dentex,20.3

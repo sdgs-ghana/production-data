@@ -1,1 +1,1 @@
-{"data":{"Year":["2017","2017","2017","2018","2018","2018","2019","2019","2019"],"COMPOSITE_BREAKDOWN":["_L_GH_AGRIC","_L_GH_INDUSTRY","_L_GH_SERVICES","_L_GH_AGRIC","_L_GH_INDUSTRY","_L_GH_SERVICES","_L_GH_AGRIC","_L_GH_INDUSTRY","_L_GH_SERVICES"],"Value":[0.5,0.2,0.9,0.4,0.2,0.9,0.4,0.2,0.9]},"edges":[]}
+{"data":{"Year":[2017,2017,2017,2018,2018,2018,2019,2019,2019],"Composite breakdown":["Agriculture","Industry","Services","Agriculture","Industry","Services","Agriculture","Industry","Services"],"Value":[0.5,0.2,0.9,0.4,0.2,0.9,0.4,0.2,0.9]},"edges":[]}

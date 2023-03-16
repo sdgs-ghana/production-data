@@ -11,24 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Corruption Perception Index score",
+                "Corruption Perception Index Rank",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit of measure",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Score",
+                "Rank",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

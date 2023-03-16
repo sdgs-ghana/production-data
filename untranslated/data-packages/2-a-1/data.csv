@@ -1,10 +1,10 @@
-Year,SERIES,UNIT_MEASURE,Value
-2016,AG_PRD_ORTIND,IX,0.43
-2017,AG_PRD_ORTIND,IX,0.48
-2018,AG_PRD_ORTIND,IX,0.53
-2016,AG_XPD_AGSGB,PT,9.81
-2017,AG_XPD_AGSGB,PT,10.06
-2018,AG_XPD_AGSGB,PT,10.32
-2016,AG_PRD_AGVAS,PT,22.6
-2017,AG_PRD_AGVAS,PT,21.15
-2018,AG_PRD_AGVAS,PT,19.65
+Year,SDG Series,Unit of measure,Value
+2016,Agriculture orientation index for government expenditures [2.a.1],Index,0.43
+2017,Agriculture orientation index for government expenditures [2.a.1],Index,0.48
+2018,Agriculture orientation index for government expenditures [2.a.1],Index,0.53
+2016,Agriculture share of Government Expenditure [2.a.1],Percentage (%),9.81
+2017,Agriculture share of Government Expenditure [2.a.1],Percentage (%),10.06
+2018,Agriculture share of Government Expenditure [2.a.1],Percentage (%),10.32
+2016,Agriculture value added share of GDP [2.a.1],Percentage (%),22.6
+2017,Agriculture value added share of GDP [2.a.1],Percentage (%),21.15
+2018,Agriculture value added share of GDP [2.a.1],Percentage (%),19.65

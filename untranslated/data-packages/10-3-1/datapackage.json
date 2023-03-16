@@ -12,41 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "01_o",
-                "02_o",
-                "03_o",
-                "04_o",
-                "05_o",
-                "06_o",
-                "07_o",
-                "08_o",
-                "09_o",
-                "10_o",
+                "Western",
+                "Central",
+                "Greater Accra",
+                "Volta",
+                "Eastern",
+                "Ashanti",
+                "Brong Ahafo",
+                "Northern",
+                "Upper East",
+                "Upper West",
                 ""
               ]
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_DISCRIMINATED",
-                "_L_GH_NOT_DISCRIMINATED",
+                "Discriminated against",
+                "Not Discriminated against",
                 ""
               ]
             }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",

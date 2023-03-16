@@ -1,10 +1,12 @@
 Disaggregation,en,Number of indicators,Number of values
-AGE,Age,3,5
+Age,Age,3,5
 COMMENT_OBS,Observation-level footnotes,3,2
-COMPOSITE_BREAKDOWN,Composite breakdown,17,88
-DISABILITY_STATUS,Disability status,1,6
-EDUCATION_LEV,Education level,4,8
-PRODUCT,Type of product,2,16
-REF_AREA,Reference area,15,29
-SEX,Sex,19,2
-URBANISATION,Degree of urbanisation,23,2
+Composite breakdown,Composite breakdown,17,88
+Degree of urbanisation,Degree of urbanisation,23,2
+Disability status,Disability status,1,6
+Education level,Education level,4,7
+Reference area,Reference area,15,20
+SDG Series,SDG Series,31,89
+Sex,Sex,19,2
+Type of product,Type of product,2,16
+Unit of measure,Unit of measure,9,9

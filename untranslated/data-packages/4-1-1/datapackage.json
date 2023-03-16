@@ -12,56 +12,65 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "2.Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent)",
+                "3.Children who demonstrated foundational literacy and numeracy by locality type (Percent)",
+                "4.Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",
+                "1.Proportion of pupils in JHS that passed Mathematics and English (Percent)",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_Primary_4",
-                "_L_GH_Primary_6",
-                "_L_GH_JHS",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_MATH",
-                "_L_GH_ENGLISH",
-                "SKILL_READ",
-                "SKILL_NMRCY",
-                "SKILL_LTRCY",
+                "Primary 4",
+                "Primary 6",
+                "Junior High School (JHS)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: Mathematics",
+                "English",
+                "Skill: Reading",
+                "Skill: Functional numeracy",
+                "Skill: Functional literacy",
                 ""
               ]
             }

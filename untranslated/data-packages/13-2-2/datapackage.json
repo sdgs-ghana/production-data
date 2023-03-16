@@ -12,19 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_NE_W_FOLU",
-                "_L_GH_NE_WO_FOLU",
-                "_L_GH_ENERGY",
-                "_L_GH_INDUPRO",
-                "_L_GH_AGRICFOREST",
-                "_L_GH_WASTE",
+                "National Emissions with FOLU",
+                "National Emissions without FOLU",
+                "Energy",
+                "Industrial Processes and Product Use",
+                "Agriculture, Forestry, and Other Land Use",
+                "Waste",
                 ""
               ]
             }

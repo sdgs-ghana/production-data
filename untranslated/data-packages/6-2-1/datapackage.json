@@ -12,19 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
-                "U",
+                "Proportion of population using safely managed sanitation services [6.2.1]",
+                "Proportion of population using handwashing facility with soap and water",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
                 ""
               ]
             }

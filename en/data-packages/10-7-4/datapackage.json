@@ -11,14 +11,19 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "COTE D'IVOIRE",
+                "TOGO",
                 "LIBERIA",
-                "TOGO"
+                ""
               ]
             },
             "title": "Composite breakdown"
@@ -27,11 +32,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

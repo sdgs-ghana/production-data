@@ -12,45 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "10_o",
-                "09_o",
-                "08_o",
-                "07_o",
-                "06_o",
-                "05_o",
-                "04_o",
-                "03_o",
-                "02_o",
-                "01_o",
+                "Upper West",
+                "Upper East",
+                "Northern",
+                "Brong Ahafo",
+                "Ashanti",
+                "Eastern",
+                "Volta",
+                "Greater Accra",
+                "Central",
+                "Western",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
-                "U",
+                "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -64,10 +64,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",

@@ -11,65 +11,65 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24 years old"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "DISABILITY_STATUS",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Persons with emotional disability",
-                "Persons with hearing disability",
-                "Persons with intellectual disability",
-                "Persons with physical disability",
-                "Persons with sight disability",
-                "Persons with speech disability"
-              ]
-            },
-            "title": "Disability status"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "URBANISATION",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "15 to 24 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with speech disability",
+                "Persons with sight disability",
+                "Persons with physical disability",
+                "Persons with intellectual disability",
+                "Persons with hearing disability",
+                "Persons with emotional disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

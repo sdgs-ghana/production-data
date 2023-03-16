@@ -12,30 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Percentage of children engaged in child labour",
+                "Percentage of children engaged in hazardous forms of child labour",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
                 ""
               ]
             }

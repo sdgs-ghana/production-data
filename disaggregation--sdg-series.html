@@ -1,0 +1,783 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: SDG Series - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+            </style>
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: SDG Series</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--sdg-series.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--sdg-series">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--sdg-series" class="download-info">Size: 12.7 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">89</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>en</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--agriculture-orientation-index-for-government-expenditures-2a1.html">Agriculture orientation index for government expenditures [2.a.1]</a></td>
+      <td>Agriculture orientation index for government expenditures [2.a.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--agriculture-share-of-government-expenditure-2a1.html">Agriculture share of Government Expenditure [2.a.1]</a></td>
+      <td>Agriculture share of Government Expenditure [2.a.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--agriculture-value-added-share-of-gdp-2a1.html">Agriculture value added share of GDP [2.a.1]</a></td>
+      <td>Agriculture value added share of GDP [2.a.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--air-transport-domestic-passengers-carried.html">Air transport, domestic passengers carried</a></td>
+      <td>Air transport, domestic passengers carried</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--air-transport-international-passengers-carried.html">Air transport, international passengers carried</a></td>
+      <td>Air transport, international passengers carried</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--average-of-13-international-health-regulations-ihr-core-capacities-3d1.html">Average of 13 International Health Regulations (IHR) core capacities [3.d.1]</a></td>
+      <td>Average of 13 International Health Regulations (IHR) core capacities [3.d.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--cash-transfer-coverage-of-extremely-poor-households-under-livelihood-empowerme.html">Cash transfer coverage of extremely poor households under Livelihood Empowerment Against Poverty (LEAP) programme</a></td>
+      <td>Cash transfer coverage of extremely poor households under Livelihood Empowerment Against Poverty (LEAP) programme</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--census-based-maternal-mortality-ratio-311.html">Census-based Maternal mortality ratio [3.1.1]</a></td>
+      <td>Census-based Maternal mortality ratio [3.1.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--contribution-of-hotel-and-restaurant-sub-sector-to-gdp.html">Contribution of hotel and restaurant sub-sector to GDP</a></td>
+      <td>Contribution of hotel and restaurant sub-sector to GDP</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--corruption-perception-index-rank.html">Corruption Perception Index Rank</a></td>
+      <td>Corruption Perception Index Rank</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--corruption-perception-index-score.html">Corruption Perception Index score</a></td>
+      <td>Corruption Perception Index score</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--doctor-to-population-ratio.html">Doctor to population ratio</a></td>
+      <td>Doctor to population ratio</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--energy-intensity-measured-in-terms-of-final-energy-consumption-and-gdp-ppp-con.html">Energy intensity measured in terms of final energy consumption and GDP, PPP (constant 2017 international $)</a></td>
+      <td>Energy intensity measured in terms of final energy consumption and GDP, PPP (constant 2017 international $)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--energy-intensity-measured-in-terms-of-total-energy-supply-and-gdp-ppp-constant.html">Energy intensity measured in terms of total energy supply and GDP, PPP (constant 2017 international $)</a></td>
+      <td>Energy intensity measured in terms of total energy supply and GDP, PPP (constant 2017 international $)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--enrolment-for-national-functional-literacy-programme.html">Enrolment for National Functional Literacy Programme</a></td>
+      <td>Enrolment for National Functional Literacy Programme</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--enrolment-in-private-technical-and-vocational-institutions.html">Enrolment in Private Technical and Vocational Institutions</a></td>
+      <td>Enrolment in Private Technical and Vocational Institutions</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--enrolment-in-public-technical-and-vocational-institutions.html">Enrolment in Public Technical and Vocational Institutions</a></td>
+      <td>Enrolment in Public Technical and Vocational Institutions</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--enrolment-in-technical-and-vocational-institutions.html">Enrolment in Technical and Vocational Institutions</a></td>
+      <td>Enrolment in Technical and Vocational Institutions</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--enrolment-in-tvet-programmes-in-private-senior-high-technical-schools-as-a-sha.html">Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment</a></td>
+      <td>Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--enrolment-in-tvet-programmes-in-senior-high-technical-schools.html">Enrolment in TVET Programmes in Senior High Technical Schools</a></td>
+      <td>Enrolment in TVET Programmes in Senior High Technical Schools</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--foreign-direct-investment-fdi-inflows-as-a-proportion-of-gross-national-income.html">Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1]</a></td>
+      <td>Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--freight-volume-tonne-kilometres-912.html">Freight volume (tonne kilometres) [9.1.2]</a></td>
+      <td>Freight volume (tonne kilometres) [9.1.2]</td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--growth-rate-of-hotel-and-restaurant-sub-sector.html">Growth rate of hotel and restaurant sub-sector</a></td>
+      <td>Growth rate of hotel and restaurant sub-sector</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--human-rights-cases-by-type-16a1.html">Human rights cases, by type (16.a.1)</a></td>
+      <td>Human rights cases, by type (16.a.1)</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--human-rights-complains-16a1.html">Human rights complains (16.a.1)</a></td>
+      <td>Human rights complains (16.a.1)</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--international-health-regulations-ihr-capacity-by-type-of-ihr-capacity-3d1.html">International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]</a></td>
+      <td>International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]</td>
+      <td>13</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--manufacturing-value-added-as-a-proportion-of-gdp-921.html">Manufacturing value added as a proportion of GDP [9.2.1]</a></td>
+      <td>Manufacturing value added as a proportion of GDP [9.2.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--manufacturing-value-added-per-capita-921.html">Manufacturing value added per capita [9.2.1]</a></td>
+      <td>Manufacturing value added per capita [9.2.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-active-mobile-money-accounts.html">Number of active mobile money accounts</a></td>
+      <td>Number of active mobile money accounts</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-automated-teller-machines-atms-per-100000-adults-8101.html">Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]</a></td>
+      <td>Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-classes-for-national-functional-literacy-programme.html">Number of Classes for National Functional Literacy Programme</a></td>
+      <td>Number of Classes for National Functional Literacy Programme</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-commercial-bank-branches-per-100000-adults-8101.html">Number of commercial bank branches per 100,000 adults [8.10.1]</a></td>
+      <td>Number of commercial bank branches per 100,000 adults [8.10.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-containers-by-marine-transport.html">Number of containers by marine transport</a></td>
+      <td>Number of containers by marine transport</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-new-hiv-infections-331.html">Number of new HIV infections [3.3.1]</a></td>
+      <td>Number of new HIV infections [3.3.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-private-technical-and-vocational-institutions.html">Number of Private Technical and Vocational Institutions</a></td>
+      <td>Number of Private Technical and Vocational Institutions</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-public-technical-and-vocational-institutions.html">Number of Public Technical and Vocational Institutions</a></td>
+      <td>Number of Public Technical and Vocational Institutions</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-registered-mobile-money-accounts.html">Number of registered mobile money accounts</a></td>
+      <td>Number of registered mobile money accounts</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-senior-high-technical-schools-with-tvet-programmes.html">Number of Senior High Technical Schools with TVET Programmes</a></td>
+      <td>Number of Senior High Technical Schools with TVET Programmes</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-technical-and-vocational-institutions.html">Number of Technical and Vocational Institutions</a></td>
+      <td>Number of Technical and Vocational Institutions</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--nurse-to-population-ratio.html">Nurse to population ratio</a></td>
+      <td>Nurse to population ratio</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--official-development-assistance-oda-inflows-as-a-percentage-of-national-budget.html">Official Development Assistance (ODA) inflows as a percentage of national budget</a></td>
+      <td>Official Development Assistance (ODA) inflows as a percentage of national budget</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--passenger-volume-passenger-kilometres-912.html">Passenger volume (passenger kilometres) [9.1.2]</a></td>
+      <td>Passenger volume (passenger kilometres) [9.1.2]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--percentage-of-children-engaged-in-child-labour.html">Percentage of children engaged in child labour</a></td>
+      <td>Percentage of children engaged in child labour</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--percentage-of-children-engaged-in-hazardous-forms-of-child-labour.html">Percentage of children engaged in hazardous forms of child labour</a></td>
+      <td>Percentage of children engaged in hazardous forms of child labour</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--percentage-of-female-share-in-enrolment-for-national-functional-literacy-progr.html">Percentage of Female share in Enrolment for National Functional Literacy Programme</a></td>
+      <td>Percentage of Female share in Enrolment for National Functional Literacy Programme</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--prevalence-of-moderate-or-severe-food-insecurity-in-the-population-212.html">Prevalence of moderate or severe food insecurity in the population [2.1.2]</a></td>
+      <td>Prevalence of moderate or severe food insecurity in the population [2.1.2]</td>
+      <td>13</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--prevalence-of-severe-food-insecurity-in-the-population-212.html">Prevalence of severe food insecurity in the population [2.1.2]</a></td>
+      <td>Prevalence of severe food insecurity in the population [2.1.2]</td>
+      <td>13</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-basic-school-students-under-ghana-school-feeding-programme-gsfp.html">Proportion of basic school students under Ghana School Feeding Programme (GSFP)</a></td>
+      <td>Proportion of basic school students under Ghana School Feeding Programme (GSFP)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-0-17-years-who-are-deprived-in-various-poverty-dimensio.html">Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2]</a></td>
+      <td>Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2]</td>
+      <td>8</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-moderately-or-severely-overweight-222.html">Proportion of children moderately or severely overweight [2.2.2]</a></td>
+      <td>Proportion of children moderately or severely overweight [2.2.2]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-moderately-or-severely-wasted-222.html">Proportion of children moderately or severely wasted [2.2.2]</a></td>
+      <td>Proportion of children moderately or severely wasted [2.2.2]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-underweight.html">Proportion of children underweight</a></td>
+      <td>Proportion of children underweight</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-learning.html">Proportion of children who are developmentally on track in learning</a></td>
+      <td>Proportion of children who are developmentally on track in learning</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-literacy-numeracy.html">Proportion of children who are developmentally on track in literacy-numeracy</a></td>
+      <td>Proportion of children who are developmentally on track in literacy-numeracy</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-physical-developmen.html">Proportion of children who are developmentally on track in physical development</a></td>
+      <td>Proportion of children who are developmentally on track in physical development</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-social-emotional-de.html">Proportion of children who are developmentally on track in social-emotional development</a></td>
+      <td>Proportion of children who are developmentally on track in social-emotional development</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-elected-seats-held-by-women-in-deliberative-bodies-of-local-gove.html">Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]</a></td>
+      <td>Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-ever-partnered-women-and-girls-subjected-to-physical-violence-by.html">Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]</a></td>
+      <td>Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-ever-partnered-women-and-girls-subjected-to-psychological-violen.html">Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]</a></td>
+      <td>Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-ever-partnered-women-and-girls-subjected-to-sexual-violence-by-a.html">Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]</a></td>
+      <td>Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-individuals-who-own-a-mobile-telephone-5b1.html">Proportion of individuals who own a mobile telephone [5.b.1]</a></td>
+      <td>Proportion of individuals who own a mobile telephone [5.b.1]</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-individuals-who-use-a-mobile-telephone-5b1.html">Proportion of individuals who use a mobile telephone [5.b.1]</a></td>
+      <td>Proportion of individuals who use a mobile telephone [5.b.1]</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-people-who-perceive-their-rights-to-land-as-secure-out-of-total-.html">Proportion of people who perceive their rights to land as secure out of total adult population [1.4.2]</a></td>
+      <td>Proportion of people who perceive their rights to land as secure out of total adult population [1.4.2]</td>
+      <td>153</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-people-with-legally-recognized-documentation-of-their-rights-to-.html">Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]</a></td>
+      <td>Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]</td>
+      <td>153</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-covered-by-at-least-a-2g-mobile-network-9c1.html">Proportion of population covered by at least a 2G mobile network [9.c.1]</a></td>
+      <td>Proportion of population covered by at least a 2G mobile network [9.c.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-covered-by-at-least-a-3g-mobile-network-9c1.html">Proportion of population covered by at least a 3G mobile network [9.c.1]</a></td>
+      <td>Proportion of population covered by at least a 3G mobile network [9.c.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-covered-by-at-least-a-4g-mobile-network-9c1.html">Proportion of population covered by at least a 4G mobile network [9.c.1]</a></td>
+      <td>Proportion of population covered by at least a 4G mobile network [9.c.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-living-in-multidimensional-poverty-122.html">Proportion of population living in multidimensional poverty [1.2.2]</a></td>
+      <td>Proportion of population living in multidimensional poverty [1.2.2]</td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-subjected-to-economic-violence-in-the-previous-12-mon.html">Proportion of population subjected to economic violence in the previous 12 months [16.1.3]</a></td>
+      <td>Proportion of population subjected to economic violence in the previous 12 months [16.1.3]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-subjected-to-physical-violence-in-the-previous-12-mon.html">Proportion of population subjected to physical violence in the previous 12 months [16.1.3]</a></td>
+      <td>Proportion of population subjected to physical violence in the previous 12 months [16.1.3]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-subjected-to-psycological-violence-in-the-previous-12.html">Proportion of population subjected to psycological violence in the previous 12 months [16.1.3]</a></td>
+      <td>Proportion of population subjected to psycological violence in the previous 12 months [16.1.3]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-subjected-to-sexual-violence-in-the-previous-12-month.html">Proportion of population subjected to sexual violence in the previous 12 months [16.1.3]</a></td>
+      <td>Proportion of population subjected to sexual violence in the previous 12 months [16.1.3]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-subjected-to-social-violence-in-the-previous-12-month.html">Proportion of population subjected to social violence in the previous 12 months [16.1.3]</a></td>
+      <td>Proportion of population subjected to social violence in the previous 12 months [16.1.3]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-using-handwashing-facility-with-soap-and-water.html">Proportion of population using handwashing facility with soap and water</a></td>
+      <td>Proportion of population using handwashing facility with soap and water</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-population-using-safely-managed-sanitation-services-621.html">Proportion of population using safely managed sanitation services [6.2.1]</a></td>
+      <td>Proportion of population using safely managed sanitation services [6.2.1]</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-schools-with-access-to-basic-drinking-water-4a1.html">Proportion of schools with access to basic drinking water [4.a.1]</a></td>
+      <td>Proportion of schools with access to basic drinking water [4.a.1]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-schools-with-access-to-electricity-4a1.html">Proportion of schools with access to electricity [4.a.1]</a></td>
+      <td>Proportion of schools with access to electricity [4.a.1]</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-schools-with-access-to-toilet-facilities.html">Proportion of schools with access to toilet facilities</a></td>
+      <td>Proportion of schools with access to toilet facilities</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-schools-with-access-to-urinals.html">Proportion of schools with access to urinals</a></td>
+      <td>Proportion of schools with access to urinals</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-seats-held-by-women-in-national-parliaments-of-total-number-of-s.html">Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]</a></td>
+      <td>Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-urban-population-living-in-slums-1111.html">Proportion of urban population living in slums [11.1.1]</a></td>
+      <td>Proportion of urban population living in slums [11.1.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-aged-20-24-years-who-were-married-or-in-a-union-before-age.html">Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]</a></td>
+      <td>Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-aged-20-24-years-who-were-married-or-in-a-union-before-age.html">Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]</a></td>
+      <td>Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-of-women-among-metropolitan-municipal-and-district-chief-executives.html">Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)</a></td>
+      <td>Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--proportion-with-access-to-affordable-healthcare-under-national-health-insuranc.html">Proportion with access to affordable healthcare under National Health Insurance Scheme (NHIS)</a></td>
+      <td>Proportion with access to affordable healthcare under National Health Insurance Scheme (NHIS)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--rate-of-new-hiv-infections-per-1000-uninfected-population-331.html">Rate of new HIV infections per 1,000 uninfected population [3.3.1]</a></td>
+      <td>Rate of new HIV infections per 1,000 uninfected population [3.3.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--survey-based-maternal-mortality-ratio-311.html">Survey-based Maternal mortality ratio [3.1.1]</a></td>
+      <td>Survey-based Maternal mortality ratio [3.1.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--total-beneficiaries-of-free-senior-high-school-programme-fshsp.html">Total Beneficiaries of Free Senior High School Programme (FSHSP)</a></td>
+      <td>Total Beneficiaries of Free Senior High School Programme (FSHSP)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--urban-population-living-in-slums-number-1111.html">Urban population living in slums (number) [11.1.1]</a></td>
+      <td>Urban population living in slums (number) [11.1.1]</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--agriculture-orientation-index-for-government-expenditures-2a1.html\">Agriculture orientation index for government expenditures [2.a.1]<\/a>","en":"Agriculture orientation index for government expenditures [2.a.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--agriculture-share-of-government-expenditure-2a1.html\">Agriculture share of Government Expenditure [2.a.1]<\/a>","en":"Agriculture share of Government Expenditure [2.a.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--agriculture-value-added-share-of-gdp-2a1.html\">Agriculture value added share of GDP [2.a.1]<\/a>","en":"Agriculture value added share of GDP [2.a.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--air-transport-domestic-passengers-carried.html\">Air transport, domestic passengers carried<\/a>","en":"Air transport, domestic passengers carried","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--air-transport-international-passengers-carried.html\">Air transport, international passengers carried<\/a>","en":"Air transport, international passengers carried","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--average-of-13-international-health-regulations-ihr-core-capacities-3d1.html\">Average of 13 International Health Regulations (IHR) core capacities [3.d.1]<\/a>","en":"Average of 13 International Health Regulations (IHR) core capacities [3.d.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cash-transfer-coverage-of-extremely-poor-households-under-livelihood-empowerme.html\">Cash transfer coverage of extremely poor households under Livelihood Empowerment Against Poverty (LEAP) programme<\/a>","en":"Cash transfer coverage of extremely poor households under Livelihood Empowerment Against Poverty (LEAP) programme","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--census-based-maternal-mortality-ratio-311.html\">Census-based Maternal mortality ratio [3.1.1]<\/a>","en":"Census-based Maternal mortality ratio [3.1.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--contribution-of-hotel-and-restaurant-sub-sector-to-gdp.html\">Contribution of hotel and restaurant sub-sector to GDP<\/a>","en":"Contribution of hotel and restaurant sub-sector to GDP","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--corruption-perception-index-rank.html\">Corruption Perception Index Rank<\/a>","en":"Corruption Perception Index Rank","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--corruption-perception-index-score.html\">Corruption Perception Index score<\/a>","en":"Corruption Perception Index score","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--doctor-to-population-ratio.html\">Doctor to population ratio<\/a>","en":"Doctor to population ratio","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--energy-intensity-measured-in-terms-of-final-energy-consumption-and-gdp-ppp-con.html\">Energy intensity measured in terms of final energy consumption and GDP, PPP (constant 2017 international $)<\/a>","en":"Energy intensity measured in terms of final energy consumption and GDP, PPP (constant 2017 international $)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--energy-intensity-measured-in-terms-of-total-energy-supply-and-gdp-ppp-constant.html\">Energy intensity measured in terms of total energy supply and GDP, PPP (constant 2017 international $)<\/a>","en":"Energy intensity measured in terms of total energy supply and GDP, PPP (constant 2017 international $)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--enrolment-for-national-functional-literacy-programme.html\">Enrolment for National Functional Literacy Programme<\/a>","en":"Enrolment for National Functional Literacy Programme","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--enrolment-in-private-technical-and-vocational-institutions.html\">Enrolment in Private Technical and Vocational Institutions<\/a>","en":"Enrolment in Private Technical and Vocational Institutions","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--enrolment-in-public-technical-and-vocational-institutions.html\">Enrolment in Public Technical and Vocational Institutions<\/a>","en":"Enrolment in Public Technical and Vocational Institutions","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--enrolment-in-technical-and-vocational-institutions.html\">Enrolment in Technical and Vocational Institutions<\/a>","en":"Enrolment in Technical and Vocational Institutions","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--enrolment-in-tvet-programmes-in-private-senior-high-technical-schools-as-a-sha.html\">Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment<\/a>","en":"Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--enrolment-in-tvet-programmes-in-senior-high-technical-schools.html\">Enrolment in TVET Programmes in Senior High Technical Schools<\/a>","en":"Enrolment in TVET Programmes in Senior High Technical Schools","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--foreign-direct-investment-fdi-inflows-as-a-proportion-of-gross-national-income.html\">Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1]<\/a>","en":"Foreign direct investment (FDI) inflows as a proportion of Gross National Income [17.3.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--freight-volume-tonne-kilometres-912.html\">Freight volume (tonne kilometres) [9.1.2]<\/a>","en":"Freight volume (tonne kilometres) [9.1.2]","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--growth-rate-of-hotel-and-restaurant-sub-sector.html\">Growth rate of hotel and restaurant sub-sector<\/a>","en":"Growth rate of hotel and restaurant sub-sector","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--human-rights-cases-by-type-16a1.html\">Human rights cases, by type (16.a.1)<\/a>","en":"Human rights cases, by type (16.a.1)","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--human-rights-complains-16a1.html\">Human rights complains (16.a.1)<\/a>","en":"Human rights complains (16.a.1)","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--international-health-regulations-ihr-capacity-by-type-of-ihr-capacity-3d1.html\">International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]<\/a>","en":"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]","Disaggregation combinations using this value":13,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacturing-value-added-as-a-proportion-of-gdp-921.html\">Manufacturing value added as a proportion of GDP [9.2.1]<\/a>","en":"Manufacturing value added as a proportion of GDP [9.2.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--manufacturing-value-added-per-capita-921.html\">Manufacturing value added per capita [9.2.1]<\/a>","en":"Manufacturing value added per capita [9.2.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-active-mobile-money-accounts.html\">Number of active mobile money accounts<\/a>","en":"Number of active mobile money accounts","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-automated-teller-machines-atms-per-100000-adults-8101.html\">Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]<\/a>","en":"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-classes-for-national-functional-literacy-programme.html\">Number of Classes for National Functional Literacy Programme<\/a>","en":"Number of Classes for National Functional Literacy Programme","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-commercial-bank-branches-per-100000-adults-8101.html\">Number of commercial bank branches per 100,000 adults [8.10.1]<\/a>","en":"Number of commercial bank branches per 100,000 adults [8.10.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-containers-by-marine-transport.html\">Number of containers by marine transport<\/a>","en":"Number of containers by marine transport","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-new-hiv-infections-331.html\">Number of new HIV infections [3.3.1]<\/a>","en":"Number of new HIV infections [3.3.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-private-technical-and-vocational-institutions.html\">Number of Private Technical and Vocational Institutions<\/a>","en":"Number of Private Technical and Vocational Institutions","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-public-technical-and-vocational-institutions.html\">Number of Public Technical and Vocational Institutions<\/a>","en":"Number of Public Technical and Vocational Institutions","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-registered-mobile-money-accounts.html\">Number of registered mobile money accounts<\/a>","en":"Number of registered mobile money accounts","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-senior-high-technical-schools-with-tvet-programmes.html\">Number of Senior High Technical Schools with TVET Programmes<\/a>","en":"Number of Senior High Technical Schools with TVET Programmes","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-technical-and-vocational-institutions.html\">Number of Technical and Vocational Institutions<\/a>","en":"Number of Technical and Vocational Institutions","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--nurse-to-population-ratio.html\">Nurse to population ratio<\/a>","en":"Nurse to population ratio","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--official-development-assistance-oda-inflows-as-a-percentage-of-national-budget.html\">Official Development Assistance (ODA) inflows as a percentage of national budget<\/a>","en":"Official Development Assistance (ODA) inflows as a percentage of national budget","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--passenger-volume-passenger-kilometres-912.html\">Passenger volume (passenger kilometres) [9.1.2]<\/a>","en":"Passenger volume (passenger kilometres) [9.1.2]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--percentage-of-children-engaged-in-child-labour.html\">Percentage of children engaged in child labour<\/a>","en":"Percentage of children engaged in child labour","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--percentage-of-children-engaged-in-hazardous-forms-of-child-labour.html\">Percentage of children engaged in hazardous forms of child labour<\/a>","en":"Percentage of children engaged in hazardous forms of child labour","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--percentage-of-female-share-in-enrolment-for-national-functional-literacy-progr.html\">Percentage of Female share in Enrolment for National Functional Literacy Programme<\/a>","en":"Percentage of Female share in Enrolment for National Functional Literacy Programme","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--prevalence-of-moderate-or-severe-food-insecurity-in-the-population-212.html\">Prevalence of moderate or severe food insecurity in the population [2.1.2]<\/a>","en":"Prevalence of moderate or severe food insecurity in the population [2.1.2]","Disaggregation combinations using this value":13,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--prevalence-of-severe-food-insecurity-in-the-population-212.html\">Prevalence of severe food insecurity in the population [2.1.2]<\/a>","en":"Prevalence of severe food insecurity in the population [2.1.2]","Disaggregation combinations using this value":13,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-basic-school-students-under-ghana-school-feeding-programme-gsfp.html\">Proportion of basic school students under Ghana School Feeding Programme (GSFP)<\/a>","en":"Proportion of basic school students under Ghana School Feeding Programme (GSFP)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-0-17-years-who-are-deprived-in-various-poverty-dimensio.html\">Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2]<\/a>","en":"Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2]","Disaggregation combinations using this value":8,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-moderately-or-severely-overweight-222.html\">Proportion of children moderately or severely overweight [2.2.2]<\/a>","en":"Proportion of children moderately or severely overweight [2.2.2]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-moderately-or-severely-wasted-222.html\">Proportion of children moderately or severely wasted [2.2.2]<\/a>","en":"Proportion of children moderately or severely wasted [2.2.2]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-underweight.html\">Proportion of children underweight<\/a>","en":"Proportion of children underweight","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-learning.html\">Proportion of children who are developmentally on track in learning<\/a>","en":"Proportion of children who are developmentally on track in learning","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-literacy-numeracy.html\">Proportion of children who are developmentally on track in literacy-numeracy<\/a>","en":"Proportion of children who are developmentally on track in literacy-numeracy","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-physical-developmen.html\">Proportion of children who are developmentally on track in physical development<\/a>","en":"Proportion of children who are developmentally on track in physical development","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-children-who-are-developmentally-on-track-in-social-emotional-de.html\">Proportion of children who are developmentally on track in social-emotional development<\/a>","en":"Proportion of children who are developmentally on track in social-emotional development","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-elected-seats-held-by-women-in-deliberative-bodies-of-local-gove.html\">Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]<\/a>","en":"Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-ever-partnered-women-and-girls-subjected-to-physical-violence-by.html\">Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]<\/a>","en":"Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-ever-partnered-women-and-girls-subjected-to-psychological-violen.html\">Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]<\/a>","en":"Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-ever-partnered-women-and-girls-subjected-to-sexual-violence-by-a.html\">Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]<\/a>","en":"Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-individuals-who-own-a-mobile-telephone-5b1.html\">Proportion of individuals who own a mobile telephone [5.b.1]<\/a>","en":"Proportion of individuals who own a mobile telephone [5.b.1]","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-individuals-who-use-a-mobile-telephone-5b1.html\">Proportion of individuals who use a mobile telephone [5.b.1]<\/a>","en":"Proportion of individuals who use a mobile telephone [5.b.1]","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-people-who-perceive-their-rights-to-land-as-secure-out-of-total-.html\">Proportion of people who perceive their rights to land as secure out of total adult population [1.4.2]<\/a>","en":"Proportion of people who perceive their rights to land as secure out of total adult population [1.4.2]","Disaggregation combinations using this value":153,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-people-with-legally-recognized-documentation-of-their-rights-to-.html\">Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]<\/a>","en":"Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]","Disaggregation combinations using this value":153,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-covered-by-at-least-a-2g-mobile-network-9c1.html\">Proportion of population covered by at least a 2G mobile network [9.c.1]<\/a>","en":"Proportion of population covered by at least a 2G mobile network [9.c.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-covered-by-at-least-a-3g-mobile-network-9c1.html\">Proportion of population covered by at least a 3G mobile network [9.c.1]<\/a>","en":"Proportion of population covered by at least a 3G mobile network [9.c.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-covered-by-at-least-a-4g-mobile-network-9c1.html\">Proportion of population covered by at least a 4G mobile network [9.c.1]<\/a>","en":"Proportion of population covered by at least a 4G mobile network [9.c.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-living-in-multidimensional-poverty-122.html\">Proportion of population living in multidimensional poverty [1.2.2]<\/a>","en":"Proportion of population living in multidimensional poverty [1.2.2]","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-subjected-to-economic-violence-in-the-previous-12-mon.html\">Proportion of population subjected to economic violence in the previous 12 months [16.1.3]<\/a>","en":"Proportion of population subjected to economic violence in the previous 12 months [16.1.3]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-subjected-to-physical-violence-in-the-previous-12-mon.html\">Proportion of population subjected to physical violence in the previous 12 months [16.1.3]<\/a>","en":"Proportion of population subjected to physical violence in the previous 12 months [16.1.3]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-subjected-to-psycological-violence-in-the-previous-12.html\">Proportion of population subjected to psycological violence in the previous 12 months [16.1.3]<\/a>","en":"Proportion of population subjected to psycological violence in the previous 12 months [16.1.3]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-subjected-to-sexual-violence-in-the-previous-12-month.html\">Proportion of population subjected to sexual violence in the previous 12 months [16.1.3]<\/a>","en":"Proportion of population subjected to sexual violence in the previous 12 months [16.1.3]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-subjected-to-social-violence-in-the-previous-12-month.html\">Proportion of population subjected to social violence in the previous 12 months [16.1.3]<\/a>","en":"Proportion of population subjected to social violence in the previous 12 months [16.1.3]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-using-handwashing-facility-with-soap-and-water.html\">Proportion of population using handwashing facility with soap and water<\/a>","en":"Proportion of population using handwashing facility with soap and water","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-population-using-safely-managed-sanitation-services-621.html\">Proportion of population using safely managed sanitation services [6.2.1]<\/a>","en":"Proportion of population using safely managed sanitation services [6.2.1]","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-schools-with-access-to-basic-drinking-water-4a1.html\">Proportion of schools with access to basic drinking water [4.a.1]<\/a>","en":"Proportion of schools with access to basic drinking water [4.a.1]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-schools-with-access-to-electricity-4a1.html\">Proportion of schools with access to electricity [4.a.1]<\/a>","en":"Proportion of schools with access to electricity [4.a.1]","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-schools-with-access-to-toilet-facilities.html\">Proportion of schools with access to toilet facilities<\/a>","en":"Proportion of schools with access to toilet facilities","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-schools-with-access-to-urinals.html\">Proportion of schools with access to urinals<\/a>","en":"Proportion of schools with access to urinals","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-seats-held-by-women-in-national-parliaments-of-total-number-of-s.html\">Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]<\/a>","en":"Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-urban-population-living-in-slums-1111.html\">Proportion of urban population living in slums [11.1.1]<\/a>","en":"Proportion of urban population living in slums [11.1.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-aged-20-24-years-who-were-married-or-in-a-union-before-age.html\">Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]<\/a>","en":"Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-aged-20-24-years-who-were-married-or-in-a-union-before-age.html\">Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]<\/a>","en":"Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-of-women-among-metropolitan-municipal-and-district-chief-executives.html\">Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)<\/a>","en":"Proportion of women among Metropolitan, Municipal, and District Chief Executives (MMDCES)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--proportion-with-access-to-affordable-healthcare-under-national-health-insuranc.html\">Proportion with access to affordable healthcare under National Health Insurance Scheme (NHIS)<\/a>","en":"Proportion with access to affordable healthcare under National Health Insurance Scheme (NHIS)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--rate-of-new-hiv-infections-per-1000-uninfected-population-331.html\">Rate of new HIV infections per 1,000 uninfected population [3.3.1]<\/a>","en":"Rate of new HIV infections per 1,000 uninfected population [3.3.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--survey-based-maternal-mortality-ratio-311.html\">Survey-based Maternal mortality ratio [3.1.1]<\/a>","en":"Survey-based Maternal mortality ratio [3.1.1]","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--total-beneficiaries-of-free-senior-high-school-programme-fshsp.html\">Total Beneficiaries of Free Senior High School Programme (FSHSP)<\/a>","en":"Total Beneficiaries of Free Senior High School Programme (FSHSP)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--urban-population-living-in-slums-number-1111.html\">Urban population living in slums (number) [11.1.1]<\/a>","en":"Urban population living in slums (number) [11.1.1]","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--sdg-series.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--sdg-series">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--sdg-series" class="download-info">Size: 234 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">31</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/1-2-2">#1-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/1-3-1">#1-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/1-4-2">#1-4-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/11-1-1">#11-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-1-3">#16-1-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-5-2">#16-5-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-a-1">#16-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/17-3-1">#17-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/2-1-2">#2-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/2-2-2">#2-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/2-a-1">#2-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-1-1">#3-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-3-1">#3-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-c-1">#3-c-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-d-1">#3-d-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-2-1">#4-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-3-1">#4-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/4-a-1">#4-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/5-2-1">#5-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/5-3-1">#5-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/5-5-1">#5-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/5-b-1">#5-b-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/6-2-1">#6-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/7-3-1">#7-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/8-10-1">#8-10-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/8-10-2">#8-10-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/8-7-1">#8-7-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/8-9-1">#8-9-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-1-2">#9-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-2-1">#9-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-c-1">#9-c-1</a></td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/1-2-2\">#1-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/1-3-1\">#1-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/1-4-2\">#1-4-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/11-1-1\">#11-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-1-3\">#16-1-3<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-5-2\">#16-5-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-a-1\">#16-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/17-3-1\">#17-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/2-1-2\">#2-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/2-2-2\">#2-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/2-a-1\">#2-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-1-1\">#3-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-3-1\">#3-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-c-1\">#3-c-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-d-1\">#3-d-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-2-1\">#4-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-3-1\">#4-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/4-a-1\">#4-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/5-2-1\">#5-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/5-3-1\">#5-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/5-5-1\">#5-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/5-b-1\">#5-b-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/6-2-1\">#6-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/7-3-1\">#7-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/8-10-1\">#8-10-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/8-10-2\">#8-10-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/8-7-1\">#8-7-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/8-9-1\">#8-9-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-1-2\">#9-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-2-1\">#9-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-c-1\">#9-c-1<\/a>"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

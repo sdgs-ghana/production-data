@@ -11,74 +11,69 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "World Bank Estimate"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Western",
-                "Central",
-                "Greater Accra",
-                "Volta",
-                "Eastern",
-                "Ashanti",
-                "Brong Ahafo",
-                "Northern",
+                "Upper West",
                 "Upper East",
-                "Upper West"
+                "Northern",
+                "Brong Ahafo",
+                "Ashanti",
+                "Eastern",
+                "Volta",
+                "Greater Accra",
+                "Central",
+                "Western",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Rural",
-                "Urban"
+                "Urban",
+                ""
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank Estimate",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

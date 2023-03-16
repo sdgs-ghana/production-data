@@ -12,29 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_0",
-                "ISCED11_02",
-                "ISCED11_1",
-                "_L_GH_JHS",
-                "_L_GH_SHS",
+                "Early childhood education",
+                "Pre-primary education",
+                "Primary education",
+                "Junior High School (JHS)",
+                "Senior High School (SHS)",
                 ""
               ]
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_PUBLIC",
-                "_L_GH_PRIVATE",
+                "Public",
+                "Private",
                 ""
               ]
             }

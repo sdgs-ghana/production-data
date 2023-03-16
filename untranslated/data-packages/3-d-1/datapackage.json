@@ -12,30 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "IHR_01_N",
-                "IHR_02_N",
-                "IHR_03_N",
-                "IHR_04_N",
-                "IHR_05_N",
-                "IHR_06_N",
-                "IHR_07_N",
-                "IHR_08_N",
-                "IHR_09_N",
-                "IHR_10_N",
-                "IHR_11_N",
-                "IHR_12_N",
-                "IHR_13_N",
+                "Average of 13 International Health Regulations (IHR) core capacities [3.d.1]",
+                "International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legislation and financing",
+                "IHR Coordination and National Focal Point Functions",
+                "Zoonotic events and the Human-Animal Health Interface",
+                "Food safety",
+                "Laboratory",
+                "Surveillance",
+                "Human resources",
+                "National Health Emergency Framework",
+                "Health Service Provision",
+                "Risk communication",
+                "Points of entry",
+                "Chemical events",
+                "Radiation emergencies",
                 ""
               ]
             }

@@ -12,15 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Corruption Perception Index score",
+                "Corruption Perception Index Rank",
+                ""
+              ]
+            }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Score",
+                "Rank",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -11,40 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Complete Document",
-                "No Document",
-                "Partial",
-                "Now Processing"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No Document",
+                "Complete Document",
+                "Partial",
+                "Now Processing",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

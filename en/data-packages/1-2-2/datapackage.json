@@ -11,78 +11,80 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "under 18 years old"
+                "Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2]",
+                "Proportion of population living in multidimensional poverty [1.2.2]",
+                ""
               ]
             },
-            "title": "Age"
+            "title": "SDG Series"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "LEARNING AND DEVELOPMENT",
-                "HEALTH",
-                "HOUSING",
-                "ICT",
-                "NUTRITION",
-                "SOCIAL PROTECTION",
-                "SANITATION",
-                "WATER"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
                 "Coastal Zone",
                 "Forest Zone",
-                "Savannah Zone"
+                "Savannah Zone",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "URBANISATION",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "under 18 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Rural",
-                "Urban"
+                "Urban",
+                ""
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ICT",
+                "HOUSING",
+                "SANITATION",
+                "WATER",
+                "SOCIAL PROTECTION",
+                "LEARNING AND DEVELOPMENT",
+                "HEALTH",
+                "NUTRITION",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

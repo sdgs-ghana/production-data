@@ -1,100 +1,100 @@
-Year,Reference area,Sex,Degree of urbanisation,GeoCode,Value
-2010,,Male,,,8.9
-2010,,Female,,,12.7
-2010,,,,,10.8
-2013,,Male,,,7.7
-2013,,Female,,,10.3
-2013,,,,,9.1
-2015,,Male,,,8.6
-2015,,Female,,,17.8
-2015,,,,,13.5
-2017,,,,,11.9
-2017,,Male,,,7.4
-2017,,Female,,,16.1
-2017,,,Urban,,15.8
-2017,,,Rural,,7.9
-2021,,,,,6.7
-2021,Western,,,1,6.9
-2021,Central,,,2,6.9
-2021,Greater Accra,,,3,8.6
-2021,Volta,,,4,9.7
-2021,Eastern,,,5,6.7
-2021,Ashanti,,,6,6.5
-2021,Western North,,,7,4.3
-2021,Ahafo,,,8,3.6
-2021,Bono,,,9,4.3
-2021,Bono East,,,10,5.5
-2021,Oti,,,11,5.8
-2021,Northern,,,12,4.2
-2021,Savannah,,,13,3.4
-2021,North East,,,14,2.7
-2021,Upper East,,,15,7.7
-2021,Upper West,,,16,4.3
-2021,,Male,,,5.9
-2021,Western,Male,,1,5.3
-2021,Central,Male,,2,5.3
-2021,Greater Accra,Male,,3,9.0
-2021,Volta,Male,,4,8.4
-2021,Eastern,Male,,5,5.3
-2021,Ashanti,Male,,6,6.6
-2021,Western North,Male,,7,2.9
-2021,Ahafo,Male,,8,3.6
-2021,Bono,Male,,9,3.5
-2021,Bono East,Male,,10,3.6
-2021,Oti,Male,,11,3.6
-2021,Northern,Male,,12,3.4
-2021,Savannah,Male,,13,2.2
-2021,North East,Male,,14,1.4
-2021,Upper East,Male,,15,4.1
-2021,Upper West,Male,,16,2.5
-2021,,Female,,,7.7
-2021,Western,Female,,1,8.9
-2021,Central,Female,,2,8.7
-2021,Greater Accra,Female,,3,8.1
-2021,Volta,Female,,4,11.1
-2021,Eastern,Female,,5,8.2
-2021,Ashanti,Female,,6,6.5
-2021,Western North,Female,,7,6.1
-2021,Ahafo,Female,,8,3.7
-2021,Bono,Female,,9,5.2
-2021,Bono East,Female,,10,7.9
-2021,Oti,Female,,11,8.5
-2021,Northern,Female,,12,5.2
-2021,Savannah,Female,,13,5.5
-2021,North East,Female,,14,4.7
-2021,Upper East,Female,,15,11.5
-2021,Upper West,Female,,16,6.5
-2021,,,Urban,,8.1
-2021,Western,,Urban,1,9.2
-2021,Central,,Urban,2,8.3
-2021,Greater Accra,,Urban,3,8.7
-2021,Volta,,Urban,4,10.1
-2021,Eastern,,Urban,5,7.8
-2021,Ashanti,,Urban,6,7.8
-2021,Western North,,Urban,7,7.4
-2021,Ahafo,,Urban,8,5.4
-2021,Bono,,Urban,9,5.4
-2021,Bono East,,Urban,10,6.7
-2021,Oti,,Urban,11,7.1
-2021,Northern,,Urban,12,7.1
-2021,Savannah,,Urban,13,8.3
-2021,North East,,Urban,14,4.6
-2021,Upper East,,Urban,15,7.5
-2021,Upper West,,Urban,16,8.3
-2021,,,Rural,,4.7
-2021,Western,,Rural,1,4.5
-2021,Central,,Rural,2,5.1
-2021,Greater Accra,,Rural,3,7.2
-2021,Volta,,Rural,4,9.4
-2021,Eastern,,Rural,5,5.6
-2021,Ashanti,,Rural,6,4.6
-2021,Western North,,Rural,7,3.0
-2021,Ahafo,,Rural,8,2.1
-2021,Bono,,Rural,9,2.9
-2021,Bono East,,Rural,10,4.1
-2021,Oti,,Rural,11,5.2
-2021,Northern,,Rural,12,1.6
-2021,Savannah,,Rural,13,1.6
-2021,North East,,Rural,14,1.9
-2021,Upper East,,Rural,15,7.8
-2021,Upper West,,Rural,16,2.5
+Year,Reference area,Sex,Degree of urbanisation,Value
+2010,,Male,,8.9
+2010,,Female,,12.7
+2010,,,,10.8
+2013,,Male,,7.7
+2013,,Female,,10.3
+2013,,,,9.1
+2015,,Male,,8.6
+2015,,Female,,17.8
+2015,,,,13.5
+2017,,,,11.9
+2017,,Male,,7.4
+2017,,Female,,16.1
+2017,,,Urban,15.8
+2017,,,Rural,7.9
+2021,,,,6.7
+2021,Western,,,6.9
+2021,Central,,,6.9
+2021,Greater Accra,,,8.6
+2021,Volta,,,9.7
+2021,Eastern,,,6.7
+2021,Ashanti,,,6.5
+2021,Western North,,,4.3
+2021,Ahafo,,,3.6
+2021,Bono,,,4.3
+2021,Bono East,,,5.5
+2021,Oti,,,5.8
+2021,Northern,,,4.2
+2021,Savannah,,,3.4
+2021,North East,,,2.7
+2021,Upper East,,,7.7
+2021,Upper West,,,4.3
+2021,,Male,,5.9
+2021,Western,Male,,5.3
+2021,Central,Male,,5.3
+2021,Greater Accra,Male,,9.0
+2021,Volta,Male,,8.4
+2021,Eastern,Male,,5.3
+2021,Ashanti,Male,,6.6
+2021,Western North,Male,,2.9
+2021,Ahafo,Male,,3.6
+2021,Bono,Male,,3.5
+2021,Bono East,Male,,3.6
+2021,Oti,Male,,3.6
+2021,Northern,Male,,3.4
+2021,Savannah,Male,,2.2
+2021,North East,Male,,1.4
+2021,Upper East,Male,,4.1
+2021,Upper West,Male,,2.5
+2021,,Female,,7.7
+2021,Western,Female,,8.9
+2021,Central,Female,,8.7
+2021,Greater Accra,Female,,8.1
+2021,Volta,Female,,11.1
+2021,Eastern,Female,,8.2
+2021,Ashanti,Female,,6.5
+2021,Western North,Female,,6.1
+2021,Ahafo,Female,,3.7
+2021,Bono,Female,,5.2
+2021,Bono East,Female,,7.9
+2021,Oti,Female,,8.5
+2021,Northern,Female,,5.2
+2021,Savannah,Female,,5.5
+2021,North East,Female,,4.7
+2021,Upper East,Female,,11.5
+2021,Upper West,Female,,6.5
+2021,,,Urban,8.1
+2021,Western,,Urban,9.2
+2021,Central,,Urban,8.3
+2021,Greater Accra,,Urban,8.7
+2021,Volta,,Urban,10.1
+2021,Eastern,,Urban,7.8
+2021,Ashanti,,Urban,7.8
+2021,Western North,,Urban,7.4
+2021,Ahafo,,Urban,5.4
+2021,Bono,,Urban,5.4
+2021,Bono East,,Urban,6.7
+2021,Oti,,Urban,7.1
+2021,Northern,,Urban,7.1
+2021,Savannah,,Urban,8.3
+2021,North East,,Urban,4.6
+2021,Upper East,,Urban,7.5
+2021,Upper West,,Urban,8.3
+2021,,,Rural,4.7
+2021,Western,,Rural,4.5
+2021,Central,,Rural,5.1
+2021,Greater Accra,,Rural,7.2
+2021,Volta,,Rural,9.4
+2021,Eastern,,Rural,5.6
+2021,Ashanti,,Rural,4.6
+2021,Western North,,Rural,3.0
+2021,Ahafo,,Rural,2.1
+2021,Bono,,Rural,2.9
+2021,Bono East,,Rural,4.1
+2021,Oti,,Rural,5.2
+2021,Northern,,Rural,1.6
+2021,Savannah,,Rural,1.6
+2021,North East,,Rural,1.9
+2021,Upper East,,Rural,7.8
+2021,Upper West,,Rural,2.5

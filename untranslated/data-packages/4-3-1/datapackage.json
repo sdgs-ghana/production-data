@@ -12,50 +12,74 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Number of Technical and Vocational Institutions",
+                "Number of Public Technical and Vocational Institutions",
+                "Number of Private Technical and Vocational Institutions",
+                "Enrolment in Technical and Vocational Institutions",
+                "Enrolment in Public Technical and Vocational Institutions",
+                "Enrolment in Private Technical and Vocational Institutions",
+                "Number of Senior High Technical Schools with TVET Programmes",
+                "Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment",
+                "Enrolment in TVET Programmes in Senior High Technical Schools",
+                "Number of Classes for National Functional Literacy Programme",
+                "Enrolment for National Functional Literacy Programme",
+                "Percentage of Female share in Enrolment for National Functional Literacy Programme",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_25_35_45",
-                "_L_GH_SecTech",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "GES",
-                "OTHER_PUBLIC",
-                "_L_GH_PRIVATE",
-                "_L_GH_PUBLIC",
+                "Vocational secondary education",
+                "Senior High Technical School",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ghana Education Service",
+                "Other Public Institutions",
+                "Private",
+                "Public",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

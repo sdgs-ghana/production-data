@@ -1,7 +1,7 @@
-Year,URBANISATION,Value
+Year,Degree of urbanisation,Value
 2013,,27.7
 2017,,30.5
-2013,U,30.6
-2017,U,32.6
-2013,R,24.0
-2017,R,27.9
+2013,Urban,30.6
+2017,Urban,32.6
+2013,Rural,24.0
+2017,Rural,27.9

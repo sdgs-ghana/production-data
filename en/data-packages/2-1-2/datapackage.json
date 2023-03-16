@@ -11,43 +11,50 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Western",
-                "Central",
+                "Prevalence of moderate or severe food insecurity in the population [2.1.2]",
+                "Prevalence of severe food insecurity in the population [2.1.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Greater Accra",
-                "Volta",
-                "Eastern",
                 "Ashanti",
                 "Brong Ahafo",
+                "Volta",
+                "Eastern",
+                "Western",
+                "Central",
+                "Upper West",
                 "Northern",
                 "Upper East",
-                "Upper West"
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Rural",
-                "Urban"
+                "Urban",
+                ""
               ]
             },
             "title": "Degree of urbanisation"
@@ -56,11 +63,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

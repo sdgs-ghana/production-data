@@ -11,24 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of GDP [9.2.1]",
+                "Manufacturing value added per capita [9.2.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit of measure",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Ghana Cedi",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

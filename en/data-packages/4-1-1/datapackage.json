@@ -11,71 +11,80 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Skill: Functional literacy",
-                "Skill: Mathematics",
-                "Skill: Functional numeracy",
-                "Skill: Reading",
-                "English"
+                "2.Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent)",
+                "3.Children who demonstrated foundational literacy and numeracy by locality type (Percent)",
+                "4.Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",
+                "1.Proportion of pupils in JHS that passed Mathematics and English (Percent)",
+                ""
               ]
             },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Junior High School (JHS)",
-                "Primary 4",
-                "Primary 6"
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
             "title": "SDG Series"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary 4",
+                "Primary 6",
+                "Junior High School (JHS)",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: Mathematics",
+                "English",
+                "Skill: Reading",
+                "Skill: Functional numeracy",
+                "Skill: Functional literacy",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

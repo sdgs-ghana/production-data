@@ -12,22 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_GH_VERB_ASS",
-                "_L_GH_CURSE",
-                "_L_GH_RAPE_SED",
-                "_L_GH_DEFILE",
-                "_L_GH_SEX_HER",
+                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Verbal assault",
+                "Curse",
+                "Rape/Seduction",
+                "Defilement",
+                "Sexual Harassment",
                 ""
               ]
             }

@@ -11,41 +11,41 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Private",
-                "Public"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Early childhood education",
                 "Pre-primary education",
                 "Primary education",
                 "Junior High School (JHS)",
-                "Senior High School (SHS)"
+                "Senior High School (SHS)",
+                ""
               ]
             },
             "title": "Education level"
           },
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public",
+                "Private",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

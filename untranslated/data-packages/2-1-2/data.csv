@@ -1,27 +1,27 @@
-Year,SERIES,REF_AREA,URBANISATION,GeoCode,Value
-2017,AG_PRD_FIESMS,,,,49.5
-2017,AG_PRD_FIESMS,,R,,63.0
-2017,AG_PRD_FIESMS,,U,,36.3
-2017,AG_PRD_FIESS,,,,7.8
-2017,AG_PRD_FIESS,,R,,11.4
-2017,AG_PRD_FIESS,,U,,4.3
-2017,AG_PRD_FIESMS,03_o,,03_o,24.2
-2017,AG_PRD_FIESMS,06_o,,06_o,32.4
-2017,AG_PRD_FIESMS,07_o,,07_o,40.0
-2017,AG_PRD_FIESMS,04_o,,04_o,50.6
-2017,AG_PRD_FIESMS,05_o,,05_o,52.4
-2017,AG_PRD_FIESMS,01_o,,01_o,57.6
-2017,AG_PRD_FIESMS,02_o,,02_o,69.2
-2017,AG_PRD_FIESMS,10_o,,10_o,77.8
-2017,AG_PRD_FIESMS,08_o,,08_o,82.1
-2017,AG_PRD_FIESMS,09_o,,09_o,82.2
-2017,AG_PRD_FIESS,03_o,,03_o,1.7
-2017,AG_PRD_FIESS,06_o,,06_o,2.4
-2017,AG_PRD_FIESS,07_o,,07_o,4.5
-2017,AG_PRD_FIESS,04_o,,04_o,5.9
-2017,AG_PRD_FIESS,05_o,,05_o,3.8
-2017,AG_PRD_FIESS,01_o,,01_o,10.1
-2017,AG_PRD_FIESS,02_o,,02_o,11.1
-2017,AG_PRD_FIESS,10_o,,10_o,21.1
-2017,AG_PRD_FIESS,08_o,,08_o,23.1
-2017,AG_PRD_FIESS,09_o,,09_o,21.3
+Year,SDG Series,Reference area,Degree of urbanisation,Value
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,49.5
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,63.0
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,36.3
+2017,Prevalence of severe food insecurity in the population [2.1.2],,,7.8
+2017,Prevalence of severe food insecurity in the population [2.1.2],,Rural,11.4
+2017,Prevalence of severe food insecurity in the population [2.1.2],,Urban,4.3
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Greater Accra,,24.2
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Ashanti,,32.4
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Brong Ahafo,,40.0
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Volta,,50.6
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Eastern,,52.4
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Western,,57.6
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Central,,69.2
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Upper West,,77.8
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Northern,,82.1
+2017,Prevalence of moderate or severe food insecurity in the population [2.1.2],Upper East,,82.2
+2017,Prevalence of severe food insecurity in the population [2.1.2],Greater Accra,,1.7
+2017,Prevalence of severe food insecurity in the population [2.1.2],Ashanti,,2.4
+2017,Prevalence of severe food insecurity in the population [2.1.2],Brong Ahafo,,4.5
+2017,Prevalence of severe food insecurity in the population [2.1.2],Volta,,5.9
+2017,Prevalence of severe food insecurity in the population [2.1.2],Eastern,,3.8
+2017,Prevalence of severe food insecurity in the population [2.1.2],Western,,10.1
+2017,Prevalence of severe food insecurity in the population [2.1.2],Central,,11.1
+2017,Prevalence of severe food insecurity in the population [2.1.2],Upper West,,21.1
+2017,Prevalence of severe food insecurity in the population [2.1.2],Northern,,23.1
+2017,Prevalence of severe food insecurity in the population [2.1.2],Upper East,,21.3
