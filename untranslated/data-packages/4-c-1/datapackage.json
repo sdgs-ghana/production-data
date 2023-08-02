@@ -15,29 +15,37 @@
             "type": "integer"
           },
           {
-            "name": "Education level",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Early childhood education",
-                "Pre-primary education",
-                "Primary education",
-                "Junior High School (JHS)",
-                "Senior High School (SHS)",
+                "ISCED11_0",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Private",
+                "_L_GH_PUBLIC",
+                "_L_GH_PRIVATE",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

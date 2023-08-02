@@ -16,12 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
                 "Primary education",
-                "Junior High School (JHS)",
+                "Lower secondary education",
                 ""
               ]
             },

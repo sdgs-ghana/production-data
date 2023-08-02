@@ -16,19 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Households access to fixed internet service",
-                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,15 +33,8 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                "Per 100 population",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

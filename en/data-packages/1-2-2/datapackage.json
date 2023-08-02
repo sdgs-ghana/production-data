@@ -16,19 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2]",
-                "Proportion of population living in multidimensional poverty [1.2.2]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +34,7 @@
             "title": "Reference area"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,7 +45,7 @@
             "title": "Age"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -64,7 +57,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -80,6 +73,11 @@
               ]
             },
             "title": "Composite breakdown"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

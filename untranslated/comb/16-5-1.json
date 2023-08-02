@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2019,2019,2019],"Composite breakdown":["Police","Government Officials","Judges ad Magistrates","Police","Government Officials","Judges ad Magistrates"],"Value":[64,53,49,59,35,38]},"edges":[]}
+{"data":{"Year":[2015,2015,2015,2019,2019,2019],"COMPOSITE_BREAKDOWN":["_L_GH_POLICE","_L_GH_GOVOFF","_L_GH_JUGMAG","_L_GH_POLICE","_L_GH_GOVOFF","_L_GH_JUGMAG"],"Value":[64,53,49,59,35,38]},"edges":[]}

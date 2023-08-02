@@ -1,11 +1,11 @@
-Year,SDG Series,Value
-2016,Doctor to population ratio,8301
-2017,Doctor to population ratio,8100
-2018,Doctor to population ratio,7196
-2019,Doctor to population ratio,6899
-2020,Doctor to population ratio,6355
-2016,Nurse to population ratio,823
-2017,Nurse to population ratio,779
-2018,Nurse to population ratio,823
-2019,Nurse to population ratio,727
-2020,Nurse to population ratio,698
+Year,SERIES,Value
+2016,_L_GH_030c01_01,8301
+2017,_L_GH_030c01_01,8100
+2018,_L_GH_030c01_01,7196
+2019,_L_GH_030c01_01,6899
+2020,_L_GH_030c01_01,6355
+2016,_L_GH_030c01_02,823
+2017,_L_GH_030c01_02,779
+2018,_L_GH_030c01_02,823
+2019,_L_GH_030c01_02,727
+2020,_L_GH_030c01_02,698

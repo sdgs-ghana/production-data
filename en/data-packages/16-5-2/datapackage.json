@@ -16,27 +16,13 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Corruption Perception Index score",
-                "Corruption Perception Index Rank",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Score",
-                "Rank",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

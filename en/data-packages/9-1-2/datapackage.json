@@ -16,22 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Air transport, domestic passengers carried",
-                "Air transport, international passengers carried",
-                "Freight volume (tonne kilometres) [9.1.2]",
-                "Passenger volume (passenger kilometres) [9.1.2]",
-                "Number of containers by marine transport",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,16 +35,8 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Tonnes",
-                "million tonnes",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

@@ -1,11 +1,11 @@
-Year,SDG Series,Sex,Degree of urbanisation,Value
-2013,Percentage of children engaged in child labour,Male,,22.7
-2013,Percentage of children engaged in child labour,Female,,20.8
-2013,Percentage of children engaged in child labour,,Urban,12.4
-2013,Percentage of children engaged in child labour,,Rural,30.2
-2013,Percentage of children engaged in child labour,,,21.8
-2013,Percentage of children engaged in hazardous forms of child labour,Male,,15.4
-2013,Percentage of children engaged in hazardous forms of child labour,Female,,12.9
-2013,Percentage of children engaged in hazardous forms of child labour,,Urban,7.7
-2013,Percentage of children engaged in hazardous forms of child labour,,Rural,20.0
-2013,Percentage of children engaged in hazardous forms of child labour,,,14.2
+Year,SERIES,SEX,URBANISATION,Value
+2013,_L_GH_080701_01,M,,22.7
+2013,_L_GH_080701_01,F,,20.8
+2013,_L_GH_080701_01,,U,12.4
+2013,_L_GH_080701_01,,R,30.2
+2013,_L_GH_080701_01,,,21.8
+2013,_L_GH_080701_02,M,,15.4
+2013,_L_GH_080701_02,F,,12.9
+2013,_L_GH_080701_02,,U,7.7
+2013,_L_GH_080701_02,,R,20.0
+2013,_L_GH_080701_02,,,14.2

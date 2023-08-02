@@ -15,17 +15,17 @@
             "type": "integer"
           },
           {
-            "name": "Type of product",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Maize",
-                "Rice",
-                "Sorghum",
-                "Cassava",
-                "Yam",
-                "Fish(Marine)",
-                "Fish(Artisanal)",
+                "CPC2_1_112",
+                "CPC2_1_113",
+                "CPC2_1_114",
+                "_L_GH_Cassava",
+                "_L_GH_Yam",
+                "_L_GH_Fish_Marine",
+                "_L_GH_Fish_Artisanal",
                 ""
               ]
             }

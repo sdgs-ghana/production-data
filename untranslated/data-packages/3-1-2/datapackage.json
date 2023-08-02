@@ -15,23 +15,27 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper West",
-                "Upper East",
-                "Northern",
-                "Brong Ahafo",
-                "Ashanti",
-                "Eastern",
-                "Volta",
-                "Greater Accra",
-                "Central",
-                "Western",
+                "10_o",
+                "09_o",
+                "08_o",
+                "07_o",
+                "06_o",
+                "05_o",
+                "04_o",
+                "03_o",
+                "02_o",
+                "01_o",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

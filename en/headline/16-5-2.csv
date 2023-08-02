@@ -1,1 +1,21 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+2012,45,Score,Corruption Perception Index score
+2013,46,Score,Corruption Perception Index score
+2014,48,Score,Corruption Perception Index score
+2015,47,Score,Corruption Perception Index score
+2016,43,Score,Corruption Perception Index score
+2017,40,Score,Corruption Perception Index score
+2018,41,Score,Corruption Perception Index score
+2019,41,Score,Corruption Perception Index score
+2020,43,Score,Corruption Perception Index score
+2021,43,Score,Corruption Perception Index score
+2012,64,Rank,Corruption Perception Index Rank
+2013,63,Rank,Corruption Perception Index Rank
+2014,61,Rank,Corruption Perception Index Rank
+2015,56,Rank,Corruption Perception Index Rank
+2016,70,Rank,Corruption Perception Index Rank
+2017,81,Rank,Corruption Perception Index Rank
+2018,78,Rank,Corruption Perception Index Rank
+2019,80,Rank,Corruption Perception Index Rank
+2020,75,Rank,Corruption Perception Index Rank
+2021,73,Rank,Corruption Perception Index Rank

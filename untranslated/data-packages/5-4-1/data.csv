@@ -1,6 +1,6 @@
-Year,Sex,Degree of urbanisation,Value
+Year,SEX,URBANISATION,Value
 2013,,,42.8
-2013,Male,,33.2
-2013,Female,,51.6
-2013,,Urban,47.1
-2013,,Rural,40.0
+2013,M,,33.2
+2013,F,,51.6
+2013,,U,47.1
+2013,,R,40.0

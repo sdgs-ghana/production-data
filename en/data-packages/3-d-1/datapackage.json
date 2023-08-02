@@ -16,19 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Average of 13 International Health Regulations (IHR) core capacities [3.d.1]",
-                "International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [

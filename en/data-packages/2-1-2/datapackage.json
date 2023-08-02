@@ -16,19 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Prevalence of moderate or severe food insecurity in the population [2.1.2]",
-                "Prevalence of severe food insecurity in the population [2.1.2]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,7 +41,7 @@
             "title": "Reference area"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -58,6 +51,11 @@
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

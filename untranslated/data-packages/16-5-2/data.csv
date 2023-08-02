@@ -1,21 +1,21 @@
-Year,SDG Series,Unit of measure,Value
-2012,Corruption Perception Index score,Score,45
-2013,Corruption Perception Index score,Score,46
-2014,Corruption Perception Index score,Score,48
-2015,Corruption Perception Index score,Score,47
-2016,Corruption Perception Index score,Score,43
-2017,Corruption Perception Index score,Score,40
-2018,Corruption Perception Index score,Score,41
-2019,Corruption Perception Index score,Score,41
-2020,Corruption Perception Index score,Score,43
-2021,Corruption Perception Index score,Score,43
-2012,Corruption Perception Index Rank,Rank,64
-2013,Corruption Perception Index Rank,Rank,63
-2014,Corruption Perception Index Rank,Rank,61
-2015,Corruption Perception Index Rank,Rank,56
-2016,Corruption Perception Index Rank,Rank,70
-2017,Corruption Perception Index Rank,Rank,81
-2018,Corruption Perception Index Rank,Rank,78
-2019,Corruption Perception Index Rank,Rank,80
-2020,Corruption Perception Index Rank,Rank,75
-2021,Corruption Perception Index Rank,Rank,73
+Year,SERIES,UNIT_MEASURE,Value
+2012,_L_GH_160502_01,SCORE,45
+2013,_L_GH_160502_01,SCORE,46
+2014,_L_GH_160502_01,SCORE,48
+2015,_L_GH_160502_01,SCORE,47
+2016,_L_GH_160502_01,SCORE,43
+2017,_L_GH_160502_01,SCORE,40
+2018,_L_GH_160502_01,SCORE,41
+2019,_L_GH_160502_01,SCORE,41
+2020,_L_GH_160502_01,SCORE,43
+2021,_L_GH_160502_01,SCORE,43
+2012,_L_GH_160502_02,_L_GH_RANK,64
+2013,_L_GH_160502_02,_L_GH_RANK,63
+2014,_L_GH_160502_02,_L_GH_RANK,61
+2015,_L_GH_160502_02,_L_GH_RANK,56
+2016,_L_GH_160502_02,_L_GH_RANK,70
+2017,_L_GH_160502_02,_L_GH_RANK,81
+2018,_L_GH_160502_02,_L_GH_RANK,78
+2019,_L_GH_160502_02,_L_GH_RANK,80
+2020,_L_GH_160502_02,_L_GH_RANK,75
+2021,_L_GH_160502_02,_L_GH_RANK,73

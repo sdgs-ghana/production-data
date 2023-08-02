@@ -15,19 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "Type of product",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Round sardinella",
-                "Flat sardinella",
-                "Chub mackerel",
-                "European anchovy",
-                "Burritto",
-                "Red Pandora",
-                "Cassava fish",
-                "Red Mullet",
-                "Angola dentex",
+                "_L_GH_ROUSAR",
+                "_L_GH_FLATSAR",
+                "_L_GH_CHUBMACK",
+                "_L_GH_EUROANC",
+                "_L_GH_BURRITTO",
+                "_L_GH_REDPAN",
+                "_L_GH_CASFISH",
+                "_L_GH_REDMUL",
+                "_L_GH_ANGDEN",
                 ""
               ]
             }

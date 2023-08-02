@@ -1,7 +1,7 @@
-Year,Degree of urbanisation,Value
+Year,URBANISATION,Value
 2011,,4.0
-2011,Urban,3.0
-2011,Rural,5.0
+2011,U,3.0
+2011,R,5.0
 2017,,2.4
-2017,Urban,1.2
-2017,Rural,3.6
+2017,U,1.2
+2017,R,3.6

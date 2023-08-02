@@ -15,25 +15,16 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of children who are developmentally on track in literacy-numeracy",
-                "Proportion of children who are developmentally on track in physical development",
-                "Proportion of children who are developmentally on track in social-emotional development",
-                "Proportion of children who are developmentally on track in learning",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }

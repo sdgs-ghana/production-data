@@ -15,28 +15,28 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "ECOWAS countries",
-                "Other African Countries",
-                "Europe",
-                "Middle East/Gulf Cooperation Council countries",
-                "Asia",
-                "America",
-                "Oceania",
+                "_L_GH_ECOWAS",
+                "_L_GH_OTHER_AFRICA",
+                "_L_GH_EUROPE",
+                "_L_GH_MIDDLEEAST",
+                "_L_GH_ASIA",
+                "_L_GH_AMERICA",
+                "_L_GH_OCEANIA",
                 ""
               ]
             }

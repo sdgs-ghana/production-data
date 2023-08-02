@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Survey-based Maternal mortality ratio [3.1.1]",
-                "Census-based Maternal mortality ratio [3.1.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

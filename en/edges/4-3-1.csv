@@ -1,5 +1,3 @@
 From,To
-SDG Series,Unit of measure
-Unit of measure,Sex
-Education level,Composite breakdown
-Unit of measure,Education level
+Education level,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,Custom Breakdown

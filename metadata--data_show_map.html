@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Metadata field: Show map</h1>
                     <div>
@@ -76,12 +102,12 @@
             
         <div class="my-3">
             <a href="values--metadata--data_show_map.csv" role="button" class="btn btn-primary" aria-describedby="values--metadata--data_show_map">Download CSV of values used in this metadata field</a>
-            <div id="values--metadata--data_show_map" class="download-info">Size: 27 Bytes</div>
+            <div id="values--metadata--data_show_map" class="download-info">Size: 34 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">0</span>
+                    Total rows: <span class="total">1</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
@@ -91,12 +117,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="metadata-value--data_show_map--true.html">True</a></td>
+      <td>9</td>
+    </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"metadata-value--data_show_map--true.html\">True<\/a>","Number of indicators":9}];
             </script>
             
         </div>
@@ -105,25 +135,53 @@
             
         <div class="my-3">
             <a href="indicators--metadata--data_show_map.csv" role="button" class="btn btn-primary" aria-describedby="indicators--metadata--data_show_map">Download CSV of indicators using this metadata field</a>
-            <div id="indicators--metadata--data_show_map" class="download-info">Size: 1 Byte</div>
+            <div id="indicators--metadata--data_show_map" class="download-info">Size: 75 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">0</span>
+                    Total rows: <span class="total">9</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
     <tr style="text-align: right;">
+      <th>Indicator</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/1-1-1">#1-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/10-3-1">#10-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/16-b-1">#16-b-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-1-2">#3-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/3-4-2">#3-4-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/7-1-1">#7-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/7-1-2">#7-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/8-3-1">#8-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://my-github-org/my-site-repository/9-2-2">#9-2-2</a></td>
+    </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['indicators-table'] = [];
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/1-1-1\">#1-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/10-3-1\">#10-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/16-b-1\">#16-b-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-1-2\">#3-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/3-4-2\">#3-4-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/7-1-1\">#7-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/7-1-2\">#7-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/8-3-1\">#8-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/my-github-org\/my-site-repository\/9-2-2\">#9-2-2<\/a>"}];
             </script>
             
         </div>

@@ -16,22 +16,27 @@
             "title": "Year"
           },
           {
-            "name": "Education level",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
                 "Early childhood education",
                 "Pre-primary education",
                 "Primary education",
-                "Junior High School (JHS)",
-                "Senior High School (SHS)",
+                "Lower secondary education",
+                "Upper secondary education",
                 ""
               ]
             },
             "title": "Education level"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,6 +46,11 @@
               ]
             },
             "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -1,13 +1,13 @@
-Year,SDG Series,Value
-2017,Proportion of population covered by at least a 2G mobile network [9.c.1],98.8
-2017,Proportion of population covered by at least a 3G mobile network [9.c.1],83.1
-2018,Proportion of population covered by at least a 2G mobile network [9.c.1],98.8
-2018,Proportion of population covered by at least a 3G mobile network [9.c.1],83.1
-2019,Proportion of population covered by at least a 2G mobile network [9.c.1],98.8
-2019,Proportion of population covered by at least a 3G mobile network [9.c.1],83.1
-2020,Proportion of population covered by at least a 2G mobile network [9.c.1],96.9
-2020,Proportion of population covered by at least a 3G mobile network [9.c.1],95.8
-2020,Proportion of population covered by at least a 4G mobile network [9.c.1],67.7
-2021,Proportion of population covered by at least a 2G mobile network [9.c.1],96.9
-2021,Proportion of population covered by at least a 3G mobile network [9.c.1],95.8
-2021,Proportion of population covered by at least a 4G mobile network [9.c.1],67.7
+Year,SERIES,Value
+2017,IT_MOB_2GNTWK,98.8
+2017,IT_MOB_3GNTWK,83.1
+2018,IT_MOB_2GNTWK,98.8
+2018,IT_MOB_3GNTWK,83.1
+2019,IT_MOB_2GNTWK,98.8
+2019,IT_MOB_3GNTWK,83.1
+2020,IT_MOB_2GNTWK,96.9
+2020,IT_MOB_3GNTWK,95.8
+2020,IT_MOB_4GNTWK,67.7
+2021,IT_MOB_2GNTWK,96.9
+2021,IT_MOB_3GNTWK,95.8
+2021,IT_MOB_4GNTWK,67.7

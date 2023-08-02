@@ -15,65 +15,62 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children 0-17 years who are deprived in various poverty dimension [1.2.2]",
-                "Proportion of population living in multidimensional poverty [1.2.2]",
+                "_L_GH_Coastal",
+                "_L_GH_Forest",
+                "_L_GH_Savannah",
                 ""
               ]
             }
           },
           {
-            "name": "Reference area",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Coastal Zone",
-                "Forest Zone",
-                "Savannah Zone",
+                "Y0T17",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "R",
+                "U",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "_L_GH_ICT",
+                "_L_GH_HOUSING",
+                "_L_GH_SANITATION",
+                "_L_GH_WATER",
+                "_L_GH_PROTECTION",
+                "_L_GH_DEVELOPMENT",
+                "_L_GH_HEALTH",
+                "_L_GH_NUTRITION",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ICT",
-                "HOUSING",
-                "SANITATION",
-                "WATER",
-                "SOCIAL PROTECTION",
-                "LEARNING AND DEVELOPMENT",
-                "HEALTH",
-                "NUTRITION",
-                ""
-              ]
-            }
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

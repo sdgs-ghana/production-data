@@ -1,9 +1,9 @@
-Year,SDG Series,Unit of measure,Value
-2017,Proportion of urban population living in slums [11.1.1],Percentage (%),39.3
-2018,Proportion of urban population living in slums [11.1.1],Percentage (%),39.2
-2019,Proportion of urban population living in slums [11.1.1],Percentage (%),38.9
-2020,Proportion of urban population living in slums [11.1.1],Percentage (%),28.2
-2017,Urban population living in slums (number) [11.1.1],Number,5500000.0
-2018,Urban population living in slums (number) [11.1.1],Number,5970000.0
-2019,Urban population living in slums (number) [11.1.1],Number,5950000.0
-2020,Urban population living in slums (number) [11.1.1],Number,8800000.0
+Year,SERIES,UNIT_MEASURE,Value
+2017,EN_LND_SLUM,PT,39.3
+2018,EN_LND_SLUM,PT,39.2
+2019,EN_LND_SLUM,PT,38.9
+2020,EN_LND_SLUM,PT,28.2
+2017,EN_LND_SLUMN,NUMBER,5500000.0
+2018,EN_LND_SLUMN,NUMBER,5970000.0
+2019,EN_LND_SLUMN,NUMBER,5950000.0
+2020,EN_LND_SLUMN,NUMBER,8800000.0

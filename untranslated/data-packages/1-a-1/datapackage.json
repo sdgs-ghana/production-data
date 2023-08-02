@@ -15,48 +15,26 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Official development assistance grants as percentage of GNI [1.a.1]",
-                "Budget Allocation towards Extreme poverty (in million Ghana Cedi)",
-                "Budget Allocation towards reducing poverty proportion of men, women and children by at least half (in million Ghana Cedi)",
-                "Budget Allocation towards Social dimension (in million Ghana Cedi)",
-                "Budget Allocation towards Equal rights to basic services (in million Ghana Cedi)",
-                "Budget Allocation towards Building resilience of the poor and vulnerable (in million Ghana Cedi)",
-                "Budget Allocation towards Mobilisation of resources (in million Ghana Cedi)",
-                "Budget Allocation towards Pro-poor and Gender (in million Ghana Cedi)",
-                "Total Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs (in million Ghana Cedi)",
-                "Percentage share of Budget Allocation towards SDG1 (No Poverty) for MDAs/MMDAs",
+                "_L_GH_GOG",
+                "_L_GH_IGF",
+                "_L_GH_OTHER_FUNDS",
+                "_L_GH_STATUTORY",
+                "_L_GH_DP",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Government of Ghana",
-                "Internally Generated Funds",
-                "Other Fund",
-                "Statutory",
-                "Development Partner",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                "Million Ghana Cedis",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

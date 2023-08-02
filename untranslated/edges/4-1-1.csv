@@ -1,5 +1,4 @@
 From,To
-SDG Series,Composite breakdown
-Composite breakdown,Sex
-Composite breakdown,Degree of urbanisation
-Composite breakdown,Education level
+COMPOSITE_BREAKDOWN,SEX
+COMPOSITE_BREAKDOWN,URBANISATION
+COMPOSITE_BREAKDOWN,EDUCATION_LEV

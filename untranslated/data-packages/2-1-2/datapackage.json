@@ -15,45 +15,42 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Prevalence of moderate or severe food insecurity in the population [2.1.2]",
-                "Prevalence of severe food insecurity in the population [2.1.2]",
+                "03_o",
+                "06_o",
+                "07_o",
+                "04_o",
+                "05_o",
+                "01_o",
+                "02_o",
+                "10_o",
+                "08_o",
+                "09_o",
                 ""
               ]
             }
           },
           {
-            "name": "Reference area",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Greater Accra",
-                "Ashanti",
-                "Brong Ahafo",
-                "Volta",
-                "Eastern",
-                "Western",
-                "Central",
-                "Upper West",
-                "Northern",
-                "Upper East",
+                "R",
+                "U",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            }
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

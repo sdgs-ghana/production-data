@@ -1,37 +1,37 @@
-Year,Composite breakdown,Value
-1990,National Emissions with FOLU,24.78
-2000,National Emissions with FOLU,25.59
-2010,National Emissions with FOLU,37.88
-2012,National Emissions with FOLU,41.86
-2016,National Emissions with FOLU,50.47
-2019,National Emissions with FOLU,58.56
-1990,National Emissions without FOLU,10.2
-2000,National Emissions without FOLU,12.29
-2010,National Emissions without FOLU,24.35
-2012,National Emissions without FOLU,28.34
-2016,National Emissions without FOLU,37.1
-2019,National Emissions without FOLU,44.04
-1990,Energy,2.87
-2000,Energy,4.07
-2010,Energy,12.8
-2012,Energy,14.91
-2016,Energy,22.36
-2019,Energy,27.3
-1990,Industrial Processes and Product Use,1.96
-2000,Industrial Processes and Product Use,0.9
-2010,Industrial Processes and Product Use,0.94
-2012,Industrial Processes and Product Use,2.02
-2016,Industrial Processes and Product Use,1.68
-2019,Industrial Processes and Product Use,1.73
-1990,"Agriculture, Forestry, and Other Land Use",18.82
-2000,"Agriculture, Forestry, and Other Land Use",18.97
-2010,"Agriculture, Forestry, and Other Land Use",21.25
-2012,"Agriculture, Forestry, and Other Land Use",21.83
-2016,"Agriculture, Forestry, and Other Land Use",22.8
-2019,"Agriculture, Forestry, and Other Land Use",25.41
-1990,Waste,1.13
-2000,Waste,1.65
-2010,Waste,2.89
-2012,Waste,3.1
-2016,Waste,3.63
-2019,Waste,4.12
+Year,COMPOSITE_BREAKDOWN,Value
+1990,_L_GH_NE_W_FOLU,24.78
+2000,_L_GH_NE_W_FOLU,25.59
+2010,_L_GH_NE_W_FOLU,37.88
+2012,_L_GH_NE_W_FOLU,41.86
+2016,_L_GH_NE_W_FOLU,50.47
+2019,_L_GH_NE_W_FOLU,58.56
+1990,_L_GH_NE_WO_FOLU,10.2
+2000,_L_GH_NE_WO_FOLU,12.29
+2010,_L_GH_NE_WO_FOLU,24.35
+2012,_L_GH_NE_WO_FOLU,28.34
+2016,_L_GH_NE_WO_FOLU,37.1
+2019,_L_GH_NE_WO_FOLU,44.04
+1990,_L_GH_ENERGY,2.87
+2000,_L_GH_ENERGY,4.07
+2010,_L_GH_ENERGY,12.8
+2012,_L_GH_ENERGY,14.91
+2016,_L_GH_ENERGY,22.36
+2019,_L_GH_ENERGY,27.3
+1990,_L_GH_INDUPRO,1.96
+2000,_L_GH_INDUPRO,0.9
+2010,_L_GH_INDUPRO,0.94
+2012,_L_GH_INDUPRO,2.02
+2016,_L_GH_INDUPRO,1.68
+2019,_L_GH_INDUPRO,1.73
+1990,_L_GH_AGRICFOREST,18.82
+2000,_L_GH_AGRICFOREST,18.97
+2010,_L_GH_AGRICFOREST,21.25
+2012,_L_GH_AGRICFOREST,21.83
+2016,_L_GH_AGRICFOREST,22.8
+2019,_L_GH_AGRICFOREST,25.41
+1990,_L_GH_WASTE,1.13
+2000,_L_GH_WASTE,1.65
+2010,_L_GH_WASTE,2.89
+2012,_L_GH_WASTE,3.1
+2016,_L_GH_WASTE,3.63
+2019,_L_GH_WASTE,4.12

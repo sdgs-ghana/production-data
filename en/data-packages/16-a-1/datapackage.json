@@ -16,19 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Human rights complains (16.a.1)",
-                "Human rights cases, by type (16.a.1)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,15 +38,8 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                "Number",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

@@ -15,36 +15,40 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper West",
-                "Upper East",
-                "Central",
-                "Volta",
-                "Ashanti",
-                "Eastern",
-                "Greater Accra",
-                "Brong Ahafo",
-                "Northern",
-                "Western",
+                "10_o",
+                "09_o",
+                "02_o",
+                "04_o",
+                "06_o",
+                "05_o",
+                "03_o",
+                "07_o",
+                "08_o",
+                "01_o",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Junior High School (JHS)",
-                "Senior High School (SHS)",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

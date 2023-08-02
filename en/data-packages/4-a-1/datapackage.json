@@ -16,21 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of schools with access to electricity [4.a.1]",
-                "Proportion of schools with access to basic drinking water [4.a.1]",
-                "Proportion of schools with access to toilet facilities",
-                "Proportion of schools with access to urinals",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [

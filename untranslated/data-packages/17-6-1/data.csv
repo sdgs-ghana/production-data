@@ -1,8 +1,8 @@
-Year,SDG Series,Degree of urbanisation,Unit of measure,Value
-2019,Households access to fixed internet service,,Percentage (%),16.8
-2019,Households access to fixed internet service,Urban,Percentage (%),20.0
-2019,Households access to fixed internet service,Rural,Percentage (%),12.8
-2016,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,0.31
-2018,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,0.2
-2019,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,0.19
-2020,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,0.25
+Year,SERIES,URBANISATION,UNIT_MEASURE,Value
+2019,_L_GH_170601,,PT,16.8
+2019,_L_GH_170601,U,PT,20.0
+2019,_L_GH_170601,R,PT,12.8
+2016,IT_NET_BBND,,PER_100_POP,0.31
+2018,IT_NET_BBND,,PER_100_POP,0.2
+2019,IT_NET_BBND,,PER_100_POP,0.19
+2020,IT_NET_BBND,,PER_100_POP,0.25

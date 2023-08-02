@@ -16,29 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of Technical and Vocational Institutions",
-                "Number of Public Technical and Vocational Institutions",
-                "Number of Private Technical and Vocational Institutions",
-                "Enrolment in Technical and Vocational Institutions",
-                "Enrolment in Public Technical and Vocational Institutions",
-                "Enrolment in Private Technical and Vocational Institutions",
-                "Number of Senior High Technical Schools with TVET Programmes",
-                "Enrolment in TVET Programmes in Private Senior High Technical Schools as a share of total enrolment",
-                "Enrolment in TVET Programmes in Senior High Technical Schools",
-                "Number of Classes for National Functional Literacy Programme",
-                "Enrolment for National Functional Literacy Programme",
-                "Percentage of Female share in Enrolment for National Functional Literacy Programme",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -50,41 +33,44 @@
             "title": "Sex"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
+                "Upper secondary vocational education",
                 "Vocational secondary education",
-                "Senior High Technical School",
                 ""
               ]
             },
             "title": "Education level"
           },
           {
-            "name": "Composite breakdown",
+            "name": "CUST_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ghana Education Service",
-                "Other Public Institutions",
-                "Private",
+                "GES",
+                "Other public",
+                ""
+              ]
+            },
+            "title": "Custom Breakdown"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Public",
+                "Private",
                 ""
               ]
             },
             "title": "Composite breakdown"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Percentage (%)",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

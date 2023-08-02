@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,18 +36,23 @@
             "title": "Reference area"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
                 "Pre-primary education",
                 "Primary education",
-                "Junior High School (JHS)",
-                "Senior High School (SHS)",
+                "Lower secondary education",
+                "Upper secondary education",
                 ""
               ]
             },
             "title": "Education level"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

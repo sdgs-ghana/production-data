@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education",
-                "Junior High School (JHS)",
+                "ISCED11_10",
+                "ISCED11_2",
                 ""
               ]
             }

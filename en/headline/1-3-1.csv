@@ -1,1 +1,9 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+2016,212919.0,Number,Cash transfer coverage of extremely poor households under Livelihood Empowerment Against Poverty (LEAP) programme
+2020,334013.0,Number,Cash transfer coverage of extremely poor households under Livelihood Empowerment Against Poverty (LEAP) programme
+2016,37.4,Percentage (%),Proportion of basic school students under Ghana School Feeding Programme (GSFP)
+2020,73.2,Percentage (%),Proportion of basic school students under Ghana School Feeding Programme (GSFP)
+2016,361771.0,Number,Total Beneficiaries of Free Senior High School Programme (FSHSP)
+2020,1248432.0,Number,Total Beneficiaries of Free Senior High School Programme (FSHSP)
+2016,38.4,Percentage (%),Proportion with access to affordable healthcare under National Health Insurance Scheme (NHIS)
+2020,52.6,Percentage (%),Proportion with access to affordable healthcare under National Health Insurance Scheme (NHIS)

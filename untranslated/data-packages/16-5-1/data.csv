@@ -1,7 +1,7 @@
-Year,Composite breakdown,Value
-2015,Police,64
-2015,Government Officials,53
-2015,Judges ad Magistrates,49
-2019,Police,59
-2019,Government Officials,35
-2019,Judges ad Magistrates,38
+Year,COMPOSITE_BREAKDOWN,Value
+2015,_L_GH_POLICE,64
+2015,_L_GH_GOVOFF,53
+2015,_L_GH_JUGMAG,49
+2019,_L_GH_POLICE,59
+2019,_L_GH_GOVOFF,35
+2019,_L_GH_JUGMAG,38

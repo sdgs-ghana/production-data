@@ -15,16 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population covered by at least a 2G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 3G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 4G mobile network [9.c.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

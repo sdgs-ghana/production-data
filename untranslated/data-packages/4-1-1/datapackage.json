@@ -15,62 +15,53 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "2.Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent)",
-                "3.Children who demonstrated foundational literacy and numeracy by locality type (Percent)",
-                "4.Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)",
-                "1.Proportion of pupils in JHS that passed Mathematics and English (Percent)",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "U",
+                "R",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "_L_GH_Primary_4",
+                "_L_GH_Primary_6",
+                "ISCED11_2",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary 4",
-                "Primary 6",
-                "Junior High School (JHS)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Skill: Mathematics",
-                "English",
-                "Skill: Reading",
-                "Skill: Functional numeracy",
-                "Skill: Functional literacy",
+                "SKILL_MATH",
+                "_L_GH_ENGLISH",
+                "SKILL_READ",
+                "SKILL_NMRCY",
+                "SKILL_LTRCY",
                 ""
               ]
             }

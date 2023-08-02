@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of registered mobile money accounts",
-                "Number of active mobile money accounts",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
